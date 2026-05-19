@@ -1,0 +1,226 @@
+[
+  {
+    "product_id": "prod_000",
+    "name": "Introduction to Computer Systems Textbook",
+    "category": "Books",
+    "store": "EduMart",
+    "price": 127.4,
+    "description": "Official introduction to computer systems textbook item available at EduMart. Check eligibility for standard student financing options."
+  },
+  {
+    "product_id": "prod_001",
+    "name": "Introduction to Computer Systems Textbook",
+    "category": "Books",
+    "store": "Amezon",
+    "price": 149.23,
+    "description": "Official introduction to computer systems textbook item available at Amezon. Check eligibility for standard student financing options."
+  },
+  {
+    "product_id": "prod_002",
+    "name": "Introduction to Computer Systems Textbook",
+    "category": "Books",
+    "store": "GlobalStore",
+    "price": 153.48,
+    "description": "Official introduction to computer systems textbook item available at GlobalStore. Check eligibility for standard student financing options."
+  },
+  {
+    "product_id": "prod_003",
+    "name": "Introduction to Computer Systems Textbook",
+    "category": "Books",
+    "store": "CampusShop",
+    "price": 125.98,
+    "description": "Official introduction to computer systems textbook item available at CampusShop. Check eligibility for standard student financing options."
+  },
+  {
+    "product_id": "prod_004",
+    "name": "Algorithmic Design Manual 3rd Edition",
+    "category": "Books",
+    "store": "EduMart",
+    "price": 112.33,
+    "description": "Official algorithmic design manual 3rd edition item available at EduMart. Check eligibility for standard student financing options."
+  },
+  {
+    "product_id": "prod_005",
+    "name": "Algorithmic Design Manual 3rd Edition",
+    "category": "Books",
+    "store": "Amezon",
+    "price": 127.5,
+    "description": "Official algorithmic design manual 3rd edition item available at Amezon. Check eligibility for standard student financing options."
+  },
+  {
+    "product_id": "prod_006",
+    "name": "Algorithmic Design Manual 3rd Edition",
+    "category": "Books",
+    "store": "GlobalStore",
+    "price": 118.65,
+    "description": "Official algorithmic design manual 3rd edition item available at GlobalStore. Check eligibility for standard student financing options."
+  },
+  {
+    "product_id": "prod_007",
+    "name": "Algorithmic Design Manual 3rd Edition",
+    "category": "Books",
+    "store": "CampusShop",
+    "price": 130.52,
+    "description": "Official algorithmic design manual 3rd edition item available at CampusShop. Check eligibility for standard student financing options."
+  },
+  {
+    "product_id": "prod_008",
+    "name": "15-inch Student Productivity Laptop",
+    "category": "Electronics",
+    "store": "EduMart",
+    "price": 764.16,
+    "description": "Official 15-inch student productivity laptop item available at EduMart. Check eligibility for standard student financing options."
+  },
+  {
+    "product_id": "prod_009",
+    "name": "15-inch Student Productivity Laptop",
+    "category": "Electronics",
+    "store": "Amezon",
+    "price": 733.81,
+    "description": "Official 15-inch student productivity laptop item available at Amezon. Check eligibility for standard student financing options."
+  },
+  {
+    "product_id": "prod_010",
+    "name": "15-inch Student Productivity Laptop",
+    "category": "Electronics",
+    "store": "GlobalStore",
+    "price": 844.6,
+    "description": "Official 15-inch student productivity laptop item available at GlobalStore. Check eligibility for standard student financing options."
+  },
+  {
+    "product_id": "prod_011",
+    "name": "15-inch Student Productivity Laptop",
+    "category": "Electronics",
+    "store": "CampusShop",
+    "price": 688.35,
+    "description": "Official 15-inch student productivity laptop item available at CampusShop. Check eligibility for standard student financing options."
+  },
+  {
+    "product_id": "prod_012",
+    "name": "Ergonomic Mesh Study Chair",
+    "category": "Furniture",
+    "store": "EduMart",
+    "price": 37.58,
+    "description": "Official ergonomic mesh study chair item available at EduMart. Check eligibility for standard student financing options."
+  },
+  {
+    "product_id": "prod_013",
+    "name": "Ergonomic Mesh Study Chair",
+    "category": "Furniture",
+    "store": "Amezon",
+    "price": 31.28,
+    "description": "Official ergonomic mesh study chair item available at Amezon. Check eligibility for standard student financing options."
+  },
+  {
+    "product_id": "prod_014",
+    "name": "Ergonomic Mesh Study Chair",
+    "category": "Furniture",
+    "store": "GlobalStore",
+    "price": 35.22,
+    "description": "Official ergonomic mesh study chair item available at GlobalStore. Check eligibility for standard student financing options."
+  },
+  {
+    "product_id": "prod_015",
+    "name": "Ergonomic Mesh Study Chair",
+    "category": "Furniture",
+    "store": "CampusShop",
+    "price": 34.42,
+    "description": "Official ergonomic mesh study chair item available at CampusShop. Check eligibility for standard student financing options."
+  },
+  {
+    "product_id": "prod_016",
+    "name": "Noise Cancelling Wireless Headphones",
+    "category": "Electronics",
+    "store": "EduMart",
+    "price": 634.89,
+    "description": "Official noise cancelling wireless headphones item available at EduMart. Check eligibility for standard student financing options."
+  },
+  {
+    "product_id": "prod_017",
+    "name": "Noise Cancelling Wireless Headphones",
+    "category": "Electronics",
+    "store": "Amezon",
+    "price": 662.68,
+    "description": "Official noise cancelling wireless headphones item available at Amezon. Check eligibility for standard student financing options."
+  },
+  {
+    "product_id": "prod_018",
+    "name": "Noise Cancelling Wireless Headphones",
+    "category": "Electronics",
+    "store": "GlobalStore",
+    "price": 682.97,
+    "description": "Official noise cancelling wireless headphones item available at GlobalStore. Check eligibility for standard student financing options."
+  },
+  {
+    "product_id": "prod_019",
+    "name": "Noise Cancelling Wireless Headphones",
+    "category": "Electronics",
+    "store": "CampusShop",
+    "price": 710.15,
+    "description": "Official noise cancelling wireless headphones item available at CampusShop. Check eligibility for standard student financing options."
+  },
+  {
+    "product_id": "prod_020",
+    "name": "Pack of 24 Chicken Flavor Instant Ramen",
+    "category": "Groceries",
+    "store": "EduMart",
+    "price": 46.07,
+    "description": "Official pack of 24 chicken flavor instant ramen item available at EduMart. Check eligibility for standard student financing options."
+  },
+  {
+    "product_id": "prod_021",
+    "name": "Pack of 24 Chicken Flavor Instant Ramen",
+    "category": "Groceries",
+    "store": "Amezon",
+    "price": 53.73,
+    "description": "Official pack of 24 chicken flavor instant ramen item available at Amezon. Check eligibility for standard student financing options."
+  },
+  {
+    "product_id": "prod_022",
+    "name": "Pack of 24 Chicken Flavor Instant Ramen",
+    "category": "Groceries",
+    "store": "GlobalStore",
+    "price": 46.14,
+    "description": "Official pack of 24 chicken flavor instant ramen item available at GlobalStore. Check eligibility for standard student financing options."
+  },
+  {
+    "product_id": "prod_023",
+    "name": "Pack of 24 Chicken Flavor Instant Ramen",
+    "category": "Groceries",
+    "store": "CampusShop",
+    "price": 49.67,
+    "description": "Official pack of 24 chicken flavor instant ramen item available at CampusShop. Check eligibility for standard student financing options."
+  },
+  {
+    "product_id": "prod_024",
+    "name": "Stainless Steel Thermal Water Bottle",
+    "category": "Gear",
+    "store": "EduMart",
+    "price": 123.63,
+    "description": "Official stainless steel thermal water bottle item available at EduMart. Check eligibility for standard student financing options."
+  },
+  {
+    "product_id": "prod_025",
+    "name": "Stainless Steel Thermal Water Bottle",
+    "category": "Gear",
+    "store": "Amezon",
+    "price": 135.34,
+    "description": "Official stainless steel thermal water bottle item available at Amezon. Check eligibility for standard student financing options."
+  },
+  {
+    "product_id": "prod_026",
+    "name": "Stainless Steel Thermal Water Bottle",
+    "category": "Gear",
+    "store": "GlobalStore",
+    "price": 155.15,
+    "description": "Official stainless steel thermal water bottle item available at GlobalStore. Check eligibility for standard student financing options."
+  },
+  {
+    "product_id": "prod_027",
+    "name": "Stainless Steel Thermal Water Bottle",
+    "category": "Gear",
+    "store": "CampusShop",
+    "price": 126.29,
+    "description": "Official stainless steel thermal water bottle item available at CampusShop. Check eligibility for standard student financing options."
+  }
+]

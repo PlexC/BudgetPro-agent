@@ -1,0 +1,1442 @@
+[
+  {
+    "listing_id": "list_000",
+    "name": "Local Groceries",
+    "type": "Market",
+    "price_indicator": 33,
+    "rating": 4.0,
+    "description": "Affordable wholesale bulk grocery options, fresh vegetables, and cheap ramen supply.",
+    "location": {
+      "lat": 42.36357264666444,
+      "lon": -71.0598320969538
+    }
+  },
+  {
+    "listing_id": "list_001",
+    "name": "Cozy Eaters Diner",
+    "type": "Restaurant",
+    "price_indicator": 25,
+    "rating": 4.9,
+    "description": "Great cozy food options with excellent student discounts. Popular for late-night study sessions.",
+    "location": {
+      "lat": 42.37355264442716,
+      "lon": -71.06068272145856
+    }
+  },
+  {
+    "listing_id": "list_002",
+    "name": "Local Foods",
+    "type": "Market",
+    "price_indicator": 49,
+    "rating": 4.2,
+    "description": "Affordable wholesale bulk grocery options, fresh vegetables, and cheap ramen supply.",
+    "location": {
+      "lat": 42.36921978646971,
+      "lon": -71.07486472871794
+    }
+  },
+  {
+    "listing_id": "list_003",
+    "name": "Quiet Eaters Bistro",
+    "type": "Restaurant",
+    "price_indicator": 24,
+    "rating": 4.8,
+    "description": "Great quiet food options with excellent student discounts. Popular for late-night study sessions.",
+    "location": {
+      "lat": 42.35674658983335,
+      "lon": -71.05564025225762
+    }
+  },
+  {
+    "listing_id": "list_004",
+    "name": "Local Foods",
+    "type": "Market",
+    "price_indicator": 22,
+    "rating": 3.9,
+    "description": "Affordable wholesale bulk grocery options, fresh vegetables, and cheap ramen supply.",
+    "location": {
+      "lat": 42.353714352241305,
+      "lon": -71.06823305831765
+    }
+  },
+  {
+    "listing_id": "list_005",
+    "name": "Budget Campus Studio #221",
+    "type": "Apartment",
+    "price_indicator": 1266,
+    "rating": 4.5,
+    "description": "A budget 1-bedroom setup near university. Includes free Wi-Fi, laundry facilities, and a study lounge. Perfect for student budgets.",
+    "location": {
+      "lat": 42.36993707463512,
+      "lon": -71.06804347460178
+    }
+  },
+  {
+    "listing_id": "list_006",
+    "name": "Cheap Wholesale",
+    "type": "Market",
+    "price_indicator": 50,
+    "rating": 4.5,
+    "description": "Affordable wholesale bulk grocery options, fresh vegetables, and cheap ramen supply.",
+    "location": {
+      "lat": 42.36214326251525,
+      "lon": -71.07130629771922
+    }
+  },
+  {
+    "listing_id": "list_007",
+    "name": "Cheap Campus Studio #375",
+    "type": "Apartment",
+    "price_indicator": 947,
+    "rating": 4.4,
+    "description": "A cheap 1-bedroom setup near university. Includes free Wi-Fi, laundry facilities, and a study lounge. Perfect for student budgets.",
+    "location": {
+      "lat": 42.37684767057669,
+      "lon": -71.07469313085636
+    }
+  },
+  {
+    "listing_id": "list_008",
+    "name": "Quiet Foods",
+    "type": "Market",
+    "price_indicator": 37,
+    "rating": 4.2,
+    "description": "Affordable wholesale bulk grocery options, fresh vegetables, and cheap ramen supply.",
+    "location": {
+      "lat": 42.3654750973947,
+      "lon": -71.05158589091438
+    }
+  },
+  {
+    "listing_id": "list_009",
+    "name": "Cheap Eaters Kitchen",
+    "type": "Restaurant",
+    "price_indicator": 21,
+    "rating": 4.4,
+    "description": "Great cheap food options with excellent student discounts. Popular for late-night study sessions.",
+    "location": {
+      "lat": 42.37575464005512,
+      "lon": -71.05864388785186
+    }
+  },
+  {
+    "listing_id": "list_010",
+    "name": "Local Eaters Diner",
+    "type": "Restaurant",
+    "price_indicator": 24,
+    "rating": 3.4,
+    "description": "Great local food options with excellent student discounts. Popular for late-night study sessions.",
+    "location": {
+      "lat": 42.355234812541404,
+      "lon": -71.07787740001969
+    }
+  },
+  {
+    "listing_id": "list_011",
+    "name": "Budget Campus Studio #146",
+    "type": "Apartment",
+    "price_indicator": 814,
+    "rating": 5.0,
+    "description": "A budget 1-bedroom setup near university. Includes free Wi-Fi, laundry facilities, and a study lounge. Perfect for student budgets.",
+    "location": {
+      "lat": 42.367335613146594,
+      "lon": -71.07414286439437
+    }
+  },
+  {
+    "listing_id": "list_012",
+    "name": "Quiet Campus Studio #411",
+    "type": "Apartment",
+    "price_indicator": 952,
+    "rating": 3.6,
+    "description": "A quiet 1-bedroom setup near university. Includes free Wi-Fi, laundry facilities, and a study lounge. Perfect for student budgets.",
+    "location": {
+      "lat": 42.36164688349733,
+      "lon": -71.06565270250618
+    }
+  },
+  {
+    "listing_id": "list_013",
+    "name": "Cozy Eaters Noodle Bar",
+    "type": "Restaurant",
+    "price_indicator": 25,
+    "rating": 3.9,
+    "description": "Great cozy food options with excellent student discounts. Popular for late-night study sessions.",
+    "location": {
+      "lat": 42.360436892147156,
+      "lon": -71.04812665408885
+    }
+  },
+  {
+    "listing_id": "list_014",
+    "name": "Luxury Groceries",
+    "type": "Market",
+    "price_indicator": 29,
+    "rating": 3.9,
+    "description": "Affordable wholesale bulk grocery options, fresh vegetables, and cheap ramen supply.",
+    "location": {
+      "lat": 42.378268078800474,
+      "lon": -71.04096709111776
+    }
+  },
+  {
+    "listing_id": "list_015",
+    "name": "Cheap Eaters Diner",
+    "type": "Restaurant",
+    "price_indicator": 8,
+    "rating": 4.5,
+    "description": "Great cheap food options with excellent student discounts. Popular for late-night study sessions.",
+    "location": {
+      "lat": 42.348123488909174,
+      "lon": -71.0452460015473
+    }
+  },
+  {
+    "listing_id": "list_016",
+    "name": "Local Eaters Noodle Bar",
+    "type": "Restaurant",
+    "price_indicator": 19,
+    "rating": 4.6,
+    "description": "Great local food options with excellent student discounts. Popular for late-night study sessions.",
+    "location": {
+      "lat": 42.36186460546805,
+      "lon": -71.05586452090846
+    }
+  },
+  {
+    "listing_id": "list_017",
+    "name": "Budget Wholesale",
+    "type": "Market",
+    "price_indicator": 33,
+    "rating": 3.5,
+    "description": "Affordable wholesale bulk grocery options, fresh vegetables, and cheap ramen supply.",
+    "location": {
+      "lat": 42.36730635406806,
+      "lon": -71.07252093673871
+    }
+  },
+  {
+    "listing_id": "list_018",
+    "name": "Quiet Campus Studio #273",
+    "type": "Apartment",
+    "price_indicator": 772,
+    "rating": 3.9,
+    "description": "A quiet 1-bedroom setup near university. Includes free Wi-Fi, laundry facilities, and a study lounge. Perfect for student budgets.",
+    "location": {
+      "lat": 42.357140312576036,
+      "lon": -71.05773605517619
+    }
+  },
+  {
+    "listing_id": "list_019",
+    "name": "Budget Campus Studio #309",
+    "type": "Apartment",
+    "price_indicator": 911,
+    "rating": 3.2,
+    "description": "A budget 1-bedroom setup near university. Includes free Wi-Fi, laundry facilities, and a study lounge. Perfect for student budgets.",
+    "location": {
+      "lat": 42.35865325352839,
+      "lon": -71.04250022198117
+    }
+  },
+  {
+    "listing_id": "list_020",
+    "name": "Budget Campus Studio #485",
+    "type": "Apartment",
+    "price_indicator": 980,
+    "rating": 4.3,
+    "description": "A budget 1-bedroom setup near university. Includes free Wi-Fi, laundry facilities, and a study lounge. Perfect for student budgets.",
+    "location": {
+      "lat": 42.370946437994355,
+      "lon": -71.05498533349764
+    }
+  },
+  {
+    "listing_id": "list_021",
+    "name": "Luxury Corner Store",
+    "type": "Market",
+    "price_indicator": 41,
+    "rating": 4.2,
+    "description": "Affordable wholesale bulk grocery options, fresh vegetables, and cheap ramen supply.",
+    "location": {
+      "lat": 42.34291523181916,
+      "lon": -71.05169273754423
+    }
+  },
+  {
+    "listing_id": "list_022",
+    "name": "Budget Foods",
+    "type": "Market",
+    "price_indicator": 38,
+    "rating": 3.3,
+    "description": "Affordable wholesale bulk grocery options, fresh vegetables, and cheap ramen supply.",
+    "location": {
+      "lat": 42.360205614018255,
+      "lon": -71.06336275024918
+    }
+  },
+  {
+    "listing_id": "list_023",
+    "name": "Student-friendly Groceries",
+    "type": "Market",
+    "price_indicator": 27,
+    "rating": 3.6,
+    "description": "Affordable wholesale bulk grocery options, fresh vegetables, and cheap ramen supply.",
+    "location": {
+      "lat": 42.34853415240745,
+      "lon": -71.06672465940385
+    }
+  },
+  {
+    "listing_id": "list_024",
+    "name": "Luxury Eaters Noodle Bar",
+    "type": "Restaurant",
+    "price_indicator": 24,
+    "rating": 4.1,
+    "description": "Great luxury food options with excellent student discounts. Popular for late-night study sessions.",
+    "location": {
+      "lat": 42.36245338732711,
+      "lon": -71.04991464973058
+    }
+  },
+  {
+    "listing_id": "list_025",
+    "name": "Cozy Groceries",
+    "type": "Market",
+    "price_indicator": 47,
+    "rating": 3.8,
+    "description": "Affordable wholesale bulk grocery options, fresh vegetables, and cheap ramen supply.",
+    "location": {
+      "lat": 42.34961391505733,
+      "lon": -71.05430942576716
+    }
+  },
+  {
+    "listing_id": "list_026",
+    "name": "Budget Groceries",
+    "type": "Market",
+    "price_indicator": 48,
+    "rating": 4.8,
+    "description": "Affordable wholesale bulk grocery options, fresh vegetables, and cheap ramen supply.",
+    "location": {
+      "lat": 42.35525490430473,
+      "lon": -71.04815173657389
+    }
+  },
+  {
+    "listing_id": "list_027",
+    "name": "Student-friendly Campus Studio #141",
+    "type": "Apartment",
+    "price_indicator": 1203,
+    "rating": 4.5,
+    "description": "A student-friendly 1-bedroom setup near university. Includes free Wi-Fi, laundry facilities, and a study lounge. Perfect for student budgets.",
+    "location": {
+      "lat": 42.340988229188724,
+      "lon": -71.05932528709707
+    }
+  },
+  {
+    "listing_id": "list_028",
+    "name": "Cheap Eaters Kitchen",
+    "type": "Restaurant",
+    "price_indicator": 23,
+    "rating": 3.3,
+    "description": "Great cheap food options with excellent student discounts. Popular for late-night study sessions.",
+    "location": {
+      "lat": 42.37593126435624,
+      "lon": -71.07229950448266
+    }
+  },
+  {
+    "listing_id": "list_029",
+    "name": "Cozy Groceries",
+    "type": "Market",
+    "price_indicator": 15,
+    "rating": 4.9,
+    "description": "Affordable wholesale bulk grocery options, fresh vegetables, and cheap ramen supply.",
+    "location": {
+      "lat": 42.370932740729444,
+      "lon": -71.05867176711341
+    }
+  },
+  {
+    "listing_id": "list_030",
+    "name": "Cozy Foods",
+    "type": "Market",
+    "price_indicator": 47,
+    "rating": 4.3,
+    "description": "Affordable wholesale bulk grocery options, fresh vegetables, and cheap ramen supply.",
+    "location": {
+      "lat": 42.34852700527458,
+      "lon": -71.05258379267926
+    }
+  },
+  {
+    "listing_id": "list_031",
+    "name": "Budget Campus Studio #285",
+    "type": "Apartment",
+    "price_indicator": 1369,
+    "rating": 4.8,
+    "description": "A budget 1-bedroom setup near university. Includes free Wi-Fi, laundry facilities, and a study lounge. Perfect for student budgets.",
+    "location": {
+      "lat": 42.36965500139451,
+      "lon": -71.06259048949285
+    }
+  },
+  {
+    "listing_id": "list_032",
+    "name": "Quiet Campus Studio #361",
+    "type": "Apartment",
+    "price_indicator": 807,
+    "rating": 3.2,
+    "description": "A quiet 1-bedroom setup near university. Includes free Wi-Fi, laundry facilities, and a study lounge. Perfect for student budgets.",
+    "location": {
+      "lat": 42.36867473135344,
+      "lon": -71.07848454741016
+    }
+  },
+  {
+    "listing_id": "list_033",
+    "name": "Cozy Campus Studio #101",
+    "type": "Apartment",
+    "price_indicator": 907,
+    "rating": 4.2,
+    "description": "A cozy 1-bedroom setup near university. Includes free Wi-Fi, laundry facilities, and a study lounge. Perfect for student budgets.",
+    "location": {
+      "lat": 42.36299849177051,
+      "lon": -71.07089417460233
+    }
+  },
+  {
+    "listing_id": "list_034",
+    "name": "Student-friendly Eaters Kitchen",
+    "type": "Restaurant",
+    "price_indicator": 22,
+    "rating": 4.3,
+    "description": "Great student-friendly food options with excellent student discounts. Popular for late-night study sessions.",
+    "location": {
+      "lat": 42.35732100138557,
+      "lon": -71.07932436126784
+    }
+  },
+  {
+    "listing_id": "list_035",
+    "name": "Cozy Groceries",
+    "type": "Market",
+    "price_indicator": 46,
+    "rating": 4.5,
+    "description": "Affordable wholesale bulk grocery options, fresh vegetables, and cheap ramen supply.",
+    "location": {
+      "lat": 42.34252950363039,
+      "lon": -71.05016195875835
+    }
+  },
+  {
+    "listing_id": "list_036",
+    "name": "Quiet Campus Studio #444",
+    "type": "Apartment",
+    "price_indicator": 724,
+    "rating": 3.8,
+    "description": "A quiet 1-bedroom setup near university. Includes free Wi-Fi, laundry facilities, and a study lounge. Perfect for student budgets.",
+    "location": {
+      "lat": 42.36011347803657,
+      "lon": -71.0684065360466
+    }
+  },
+  {
+    "listing_id": "list_037",
+    "name": "Luxury Groceries",
+    "type": "Market",
+    "price_indicator": 23,
+    "rating": 4.6,
+    "description": "Affordable wholesale bulk grocery options, fresh vegetables, and cheap ramen supply.",
+    "location": {
+      "lat": 42.357507045978736,
+      "lon": -71.06419546967086
+    }
+  },
+  {
+    "listing_id": "list_038",
+    "name": "Cozy Corner Store",
+    "type": "Market",
+    "price_indicator": 15,
+    "rating": 4.2,
+    "description": "Affordable wholesale bulk grocery options, fresh vegetables, and cheap ramen supply.",
+    "location": {
+      "lat": 42.34545525841318,
+      "lon": -71.06436029738285
+    }
+  },
+  {
+    "listing_id": "list_039",
+    "name": "Luxury Foods",
+    "type": "Market",
+    "price_indicator": 24,
+    "rating": 4.4,
+    "description": "Affordable wholesale bulk grocery options, fresh vegetables, and cheap ramen supply.",
+    "location": {
+      "lat": 42.376566756655386,
+      "lon": -71.04819931511071
+    }
+  },
+  {
+    "listing_id": "list_040",
+    "name": "Quiet Wholesale",
+    "type": "Market",
+    "price_indicator": 5,
+    "rating": 4.2,
+    "description": "Affordable wholesale bulk grocery options, fresh vegetables, and cheap ramen supply.",
+    "location": {
+      "lat": 42.362202789825616,
+      "lon": -71.07507059364266
+    }
+  },
+  {
+    "listing_id": "list_041",
+    "name": "Cheap Campus Studio #315",
+    "type": "Apartment",
+    "price_indicator": 1053,
+    "rating": 4.2,
+    "description": "A cheap 1-bedroom setup near university. Includes free Wi-Fi, laundry facilities, and a study lounge. Perfect for student budgets.",
+    "location": {
+      "lat": 42.377879175569156,
+      "lon": -71.06781235390602
+    }
+  },
+  {
+    "listing_id": "list_042",
+    "name": "Quiet Wholesale",
+    "type": "Market",
+    "price_indicator": 18,
+    "rating": 3.9,
+    "description": "Affordable wholesale bulk grocery options, fresh vegetables, and cheap ramen supply.",
+    "location": {
+      "lat": 42.365837260142406,
+      "lon": -71.0594978922181
+    }
+  },
+  {
+    "listing_id": "list_043",
+    "name": "Budget Campus Studio #123",
+    "type": "Apartment",
+    "price_indicator": 1281,
+    "rating": 4.7,
+    "description": "A budget 1-bedroom setup near university. Includes free Wi-Fi, laundry facilities, and a study lounge. Perfect for student budgets.",
+    "location": {
+      "lat": 42.34777304861386,
+      "lon": -71.07274568060906
+    }
+  },
+  {
+    "listing_id": "list_044",
+    "name": "Local Groceries",
+    "type": "Market",
+    "price_indicator": 40,
+    "rating": 4.0,
+    "description": "Affordable wholesale bulk grocery options, fresh vegetables, and cheap ramen supply.",
+    "location": {
+      "lat": 42.36198658438717,
+      "lon": -71.0683738932992
+    }
+  },
+  {
+    "listing_id": "list_045",
+    "name": "Luxury Campus Studio #60",
+    "type": "Apartment",
+    "price_indicator": 852,
+    "rating": 4.5,
+    "description": "A luxury 1-bedroom setup near university. Includes free Wi-Fi, laundry facilities, and a study lounge. Perfect for student budgets.",
+    "location": {
+      "lat": 42.35948761640535,
+      "lon": -71.06676596273269
+    }
+  },
+  {
+    "listing_id": "list_046",
+    "name": "Quiet Campus Studio #345",
+    "type": "Apartment",
+    "price_indicator": 890,
+    "rating": 3.4,
+    "description": "A quiet 1-bedroom setup near university. Includes free Wi-Fi, laundry facilities, and a study lounge. Perfect for student budgets.",
+    "location": {
+      "lat": 42.36478063108618,
+      "lon": -71.04399525636629
+    }
+  },
+  {
+    "listing_id": "list_047",
+    "name": "Student-friendly Eaters Kitchen",
+    "type": "Restaurant",
+    "price_indicator": 18,
+    "rating": 4.3,
+    "description": "Great student-friendly food options with excellent student discounts. Popular for late-night study sessions.",
+    "location": {
+      "lat": 42.35222701957627,
+      "lon": -71.0566332026862
+    }
+  },
+  {
+    "listing_id": "list_048",
+    "name": "Cheap Wholesale",
+    "type": "Market",
+    "price_indicator": 25,
+    "rating": 4.9,
+    "description": "Affordable wholesale bulk grocery options, fresh vegetables, and cheap ramen supply.",
+    "location": {
+      "lat": 42.34674558043624,
+      "lon": -71.06747140877063
+    }
+  },
+  {
+    "listing_id": "list_049",
+    "name": "Quiet Campus Studio #388",
+    "type": "Apartment",
+    "price_indicator": 1306,
+    "rating": 4.0,
+    "description": "A quiet 1-bedroom setup near university. Includes free Wi-Fi, laundry facilities, and a study lounge. Perfect for student budgets.",
+    "location": {
+      "lat": 42.373604402351226,
+      "lon": -71.07462776670468
+    }
+  },
+  {
+    "listing_id": "list_050",
+    "name": "Luxury Corner Store",
+    "type": "Market",
+    "price_indicator": 34,
+    "rating": 4.0,
+    "description": "Affordable wholesale bulk grocery options, fresh vegetables, and cheap ramen supply.",
+    "location": {
+      "lat": 42.37099067846104,
+      "lon": -71.06052114470253
+    }
+  },
+  {
+    "listing_id": "list_051",
+    "name": "Budget Campus Studio #340",
+    "type": "Apartment",
+    "price_indicator": 1271,
+    "rating": 3.3,
+    "description": "A budget 1-bedroom setup near university. Includes free Wi-Fi, laundry facilities, and a study lounge. Perfect for student budgets.",
+    "location": {
+      "lat": 42.351224637585496,
+      "lon": -71.04694225307108
+    }
+  },
+  {
+    "listing_id": "list_052",
+    "name": "Budget Wholesale",
+    "type": "Market",
+    "price_indicator": 45,
+    "rating": 3.3,
+    "description": "Affordable wholesale bulk grocery options, fresh vegetables, and cheap ramen supply.",
+    "location": {
+      "lat": 42.34301599827174,
+      "lon": -71.07925478820515
+    }
+  },
+  {
+    "listing_id": "list_053",
+    "name": "Quiet Groceries",
+    "type": "Market",
+    "price_indicator": 42,
+    "rating": 4.2,
+    "description": "Affordable wholesale bulk grocery options, fresh vegetables, and cheap ramen supply.",
+    "location": {
+      "lat": 42.3707680101961,
+      "lon": -71.07148957255295
+    }
+  },
+  {
+    "listing_id": "list_054",
+    "name": "Cheap Campus Studio #143",
+    "type": "Apartment",
+    "price_indicator": 1206,
+    "rating": 4.8,
+    "description": "A cheap 1-bedroom setup near university. Includes free Wi-Fi, laundry facilities, and a study lounge. Perfect for student budgets.",
+    "location": {
+      "lat": 42.361587084672486,
+      "lon": -71.0538436744287
+    }
+  },
+  {
+    "listing_id": "list_055",
+    "name": "Luxury Campus Studio #210",
+    "type": "Apartment",
+    "price_indicator": 878,
+    "rating": 4.8,
+    "description": "A luxury 1-bedroom setup near university. Includes free Wi-Fi, laundry facilities, and a study lounge. Perfect for student budgets.",
+    "location": {
+      "lat": 42.36358403019108,
+      "lon": -71.04571343383462
+    }
+  },
+  {
+    "listing_id": "list_056",
+    "name": "Student-friendly Campus Studio #266",
+    "type": "Apartment",
+    "price_indicator": 1172,
+    "rating": 3.4,
+    "description": "A student-friendly 1-bedroom setup near university. Includes free Wi-Fi, laundry facilities, and a study lounge. Perfect for student budgets.",
+    "location": {
+      "lat": 42.35455462232297,
+      "lon": -71.07957633266965
+    }
+  },
+  {
+    "listing_id": "list_057",
+    "name": "Local Campus Studio #422",
+    "type": "Apartment",
+    "price_indicator": 1278,
+    "rating": 4.4,
+    "description": "A local 1-bedroom setup near university. Includes free Wi-Fi, laundry facilities, and a study lounge. Perfect for student budgets.",
+    "location": {
+      "lat": 42.37028824285094,
+      "lon": -71.07438517229372
+    }
+  },
+  {
+    "listing_id": "list_058",
+    "name": "Budget Campus Studio #299",
+    "type": "Apartment",
+    "price_indicator": 1229,
+    "rating": 4.4,
+    "description": "A budget 1-bedroom setup near university. Includes free Wi-Fi, laundry facilities, and a study lounge. Perfect for student budgets.",
+    "location": {
+      "lat": 42.378709422393506,
+      "lon": -71.0505632076466
+    }
+  },
+  {
+    "listing_id": "list_059",
+    "name": "Luxury Eaters Diner",
+    "type": "Restaurant",
+    "price_indicator": 15,
+    "rating": 4.6,
+    "description": "Great luxury food options with excellent student discounts. Popular for late-night study sessions.",
+    "location": {
+      "lat": 42.34926999630417,
+      "lon": -71.06942571539598
+    }
+  },
+  {
+    "listing_id": "list_060",
+    "name": "Cozy Campus Studio #352",
+    "type": "Apartment",
+    "price_indicator": 861,
+    "rating": 4.1,
+    "description": "A cozy 1-bedroom setup near university. Includes free Wi-Fi, laundry facilities, and a study lounge. Perfect for student budgets.",
+    "location": {
+      "lat": 42.37165841828622,
+      "lon": -71.06447627560208
+    }
+  },
+  {
+    "listing_id": "list_061",
+    "name": "Cozy Eaters Diner",
+    "type": "Restaurant",
+    "price_indicator": 18,
+    "rating": 3.4,
+    "description": "Great cozy food options with excellent student discounts. Popular for late-night study sessions.",
+    "location": {
+      "lat": 42.37873765603345,
+      "lon": -71.054657320729
+    }
+  },
+  {
+    "listing_id": "list_062",
+    "name": "Local Eaters Bistro",
+    "type": "Restaurant",
+    "price_indicator": 25,
+    "rating": 4.2,
+    "description": "Great local food options with excellent student discounts. Popular for late-night study sessions.",
+    "location": {
+      "lat": 42.35506638278177,
+      "lon": -71.06485925931773
+    }
+  },
+  {
+    "listing_id": "list_063",
+    "name": "Quiet Groceries",
+    "type": "Market",
+    "price_indicator": 38,
+    "rating": 3.7,
+    "description": "Affordable wholesale bulk grocery options, fresh vegetables, and cheap ramen supply.",
+    "location": {
+      "lat": 42.37890696433403,
+      "lon": -71.07108402981866
+    }
+  },
+  {
+    "listing_id": "list_064",
+    "name": "Luxury Eaters Bistro",
+    "type": "Restaurant",
+    "price_indicator": 23,
+    "rating": 4.6,
+    "description": "Great luxury food options with excellent student discounts. Popular for late-night study sessions.",
+    "location": {
+      "lat": 42.375486877740684,
+      "lon": -71.07973609253709
+    }
+  },
+  {
+    "listing_id": "list_065",
+    "name": "Student-friendly Campus Studio #94",
+    "type": "Apartment",
+    "price_indicator": 885,
+    "rating": 3.3,
+    "description": "A student-friendly 1-bedroom setup near university. Includes free Wi-Fi, laundry facilities, and a study lounge. Perfect for student budgets.",
+    "location": {
+      "lat": 42.36573908009554,
+      "lon": -71.07153931583457
+    }
+  },
+  {
+    "listing_id": "list_066",
+    "name": "Budget Campus Studio #195",
+    "type": "Apartment",
+    "price_indicator": 1266,
+    "rating": 4.5,
+    "description": "A budget 1-bedroom setup near university. Includes free Wi-Fi, laundry facilities, and a study lounge. Perfect for student budgets.",
+    "location": {
+      "lat": 42.34473320891294,
+      "lon": -71.07078614669602
+    }
+  },
+  {
+    "listing_id": "list_067",
+    "name": "Quiet Eaters Diner",
+    "type": "Restaurant",
+    "price_indicator": 23,
+    "rating": 4.4,
+    "description": "Great quiet food options with excellent student discounts. Popular for late-night study sessions.",
+    "location": {
+      "lat": 42.359160846534586,
+      "lon": -71.05636836404764
+    }
+  },
+  {
+    "listing_id": "list_068",
+    "name": "Local Corner Store",
+    "type": "Market",
+    "price_indicator": 6,
+    "rating": 3.6,
+    "description": "Affordable wholesale bulk grocery options, fresh vegetables, and cheap ramen supply.",
+    "location": {
+      "lat": 42.34511540459797,
+      "lon": -71.05630609358516
+    }
+  },
+  {
+    "listing_id": "list_069",
+    "name": "Quiet Campus Studio #272",
+    "type": "Apartment",
+    "price_indicator": 690,
+    "rating": 4.8,
+    "description": "A quiet 1-bedroom setup near university. Includes free Wi-Fi, laundry facilities, and a study lounge. Perfect for student budgets.",
+    "location": {
+      "lat": 42.345874604003406,
+      "lon": -71.07334634534769
+    }
+  },
+  {
+    "listing_id": "list_070",
+    "name": "Cheap Campus Studio #500",
+    "type": "Apartment",
+    "price_indicator": 1065,
+    "rating": 4.3,
+    "description": "A cheap 1-bedroom setup near university. Includes free Wi-Fi, laundry facilities, and a study lounge. Perfect for student budgets.",
+    "location": {
+      "lat": 42.36254418809343,
+      "lon": -71.07925519857451
+    }
+  },
+  {
+    "listing_id": "list_071",
+    "name": "Quiet Wholesale",
+    "type": "Market",
+    "price_indicator": 10,
+    "rating": 3.6,
+    "description": "Affordable wholesale bulk grocery options, fresh vegetables, and cheap ramen supply.",
+    "location": {
+      "lat": 42.36426103591704,
+      "lon": -71.06114346180341
+    }
+  },
+  {
+    "listing_id": "list_072",
+    "name": "Budget Eaters Noodle Bar",
+    "type": "Restaurant",
+    "price_indicator": 21,
+    "rating": 4.3,
+    "description": "Great budget food options with excellent student discounts. Popular for late-night study sessions.",
+    "location": {
+      "lat": 42.37178464281042,
+      "lon": -71.04718187279478
+    }
+  },
+  {
+    "listing_id": "list_073",
+    "name": "Cheap Campus Studio #347",
+    "type": "Apartment",
+    "price_indicator": 1173,
+    "rating": 3.7,
+    "description": "A cheap 1-bedroom setup near university. Includes free Wi-Fi, laundry facilities, and a study lounge. Perfect for student budgets.",
+    "location": {
+      "lat": 42.36896747192311,
+      "lon": -71.06629314901758
+    }
+  },
+  {
+    "listing_id": "list_074",
+    "name": "Cheap Eaters Diner",
+    "type": "Restaurant",
+    "price_indicator": 15,
+    "rating": 3.9,
+    "description": "Great cheap food options with excellent student discounts. Popular for late-night study sessions.",
+    "location": {
+      "lat": 42.3452885279383,
+      "lon": -71.07933749490905
+    }
+  },
+  {
+    "listing_id": "list_075",
+    "name": "Local Corner Store",
+    "type": "Market",
+    "price_indicator": 14,
+    "rating": 4.3,
+    "description": "Affordable wholesale bulk grocery options, fresh vegetables, and cheap ramen supply.",
+    "location": {
+      "lat": 42.34709688737269,
+      "lon": -71.0439356712655
+    }
+  },
+  {
+    "listing_id": "list_076",
+    "name": "Cozy Groceries",
+    "type": "Market",
+    "price_indicator": 10,
+    "rating": 4.1,
+    "description": "Affordable wholesale bulk grocery options, fresh vegetables, and cheap ramen supply.",
+    "location": {
+      "lat": 42.34521315363109,
+      "lon": -71.05586101396702
+    }
+  },
+  {
+    "listing_id": "list_077",
+    "name": "Local Campus Studio #357",
+    "type": "Apartment",
+    "price_indicator": 1314,
+    "rating": 4.0,
+    "description": "A local 1-bedroom setup near university. Includes free Wi-Fi, laundry facilities, and a study lounge. Perfect for student budgets.",
+    "location": {
+      "lat": 42.356827360800025,
+      "lon": -71.04500702797073
+    }
+  },
+  {
+    "listing_id": "list_078",
+    "name": "Cheap Corner Store",
+    "type": "Market",
+    "price_indicator": 19,
+    "rating": 4.9,
+    "description": "Affordable wholesale bulk grocery options, fresh vegetables, and cheap ramen supply.",
+    "location": {
+      "lat": 42.35928493791508,
+      "lon": -71.04925313312376
+    }
+  },
+  {
+    "listing_id": "list_079",
+    "name": "Cheap Eaters Diner",
+    "type": "Restaurant",
+    "price_indicator": 21,
+    "rating": 3.4,
+    "description": "Great cheap food options with excellent student discounts. Popular for late-night study sessions.",
+    "location": {
+      "lat": 42.359085649480186,
+      "lon": -71.0706994843751
+    }
+  },
+  {
+    "listing_id": "list_080",
+    "name": "Luxury Campus Studio #316",
+    "type": "Apartment",
+    "price_indicator": 1206,
+    "rating": 3.9,
+    "description": "A luxury 1-bedroom setup near university. Includes free Wi-Fi, laundry facilities, and a study lounge. Perfect for student budgets.",
+    "location": {
+      "lat": 42.34756084054872,
+      "lon": -71.05163404651177
+    }
+  },
+  {
+    "listing_id": "list_081",
+    "name": "Cheap Campus Studio #277",
+    "type": "Apartment",
+    "price_indicator": 770,
+    "rating": 4.1,
+    "description": "A cheap 1-bedroom setup near university. Includes free Wi-Fi, laundry facilities, and a study lounge. Perfect for student budgets.",
+    "location": {
+      "lat": 42.3550011952682,
+      "lon": -71.07178325215347
+    }
+  },
+  {
+    "listing_id": "list_082",
+    "name": "Student-friendly Eaters Bistro",
+    "type": "Restaurant",
+    "price_indicator": 11,
+    "rating": 3.5,
+    "description": "Great student-friendly food options with excellent student discounts. Popular for late-night study sessions.",
+    "location": {
+      "lat": 42.36606303739112,
+      "lon": -71.06985469095072
+    }
+  },
+  {
+    "listing_id": "list_083",
+    "name": "Student-friendly Wholesale",
+    "type": "Market",
+    "price_indicator": 44,
+    "rating": 3.7,
+    "description": "Affordable wholesale bulk grocery options, fresh vegetables, and cheap ramen supply.",
+    "location": {
+      "lat": 42.36722422820254,
+      "lon": -71.04980112397561
+    }
+  },
+  {
+    "listing_id": "list_084",
+    "name": "Cheap Eaters Kitchen",
+    "type": "Restaurant",
+    "price_indicator": 13,
+    "rating": 3.9,
+    "description": "Great cheap food options with excellent student discounts. Popular for late-night study sessions.",
+    "location": {
+      "lat": 42.36219645425194,
+      "lon": -71.06984889418229
+    }
+  },
+  {
+    "listing_id": "list_085",
+    "name": "Cheap Eaters Bistro",
+    "type": "Restaurant",
+    "price_indicator": 20,
+    "rating": 4.5,
+    "description": "Great cheap food options with excellent student discounts. Popular for late-night study sessions.",
+    "location": {
+      "lat": 42.374199956912946,
+      "lon": -71.05362868603495
+    }
+  },
+  {
+    "listing_id": "list_086",
+    "name": "Budget Corner Store",
+    "type": "Market",
+    "price_indicator": 49,
+    "rating": 4.9,
+    "description": "Affordable wholesale bulk grocery options, fresh vegetables, and cheap ramen supply.",
+    "location": {
+      "lat": 42.34401114470198,
+      "lon": -71.05966625827534
+    }
+  },
+  {
+    "listing_id": "list_087",
+    "name": "Local Eaters Diner",
+    "type": "Restaurant",
+    "price_indicator": 13,
+    "rating": 3.9,
+    "description": "Great local food options with excellent student discounts. Popular for late-night study sessions.",
+    "location": {
+      "lat": 42.365435064734605,
+      "lon": -71.04782522556452
+    }
+  },
+  {
+    "listing_id": "list_088",
+    "name": "Student-friendly Campus Studio #484",
+    "type": "Apartment",
+    "price_indicator": 1264,
+    "rating": 4.0,
+    "description": "A student-friendly 1-bedroom setup near university. Includes free Wi-Fi, laundry facilities, and a study lounge. Perfect for student budgets.",
+    "location": {
+      "lat": 42.342563218254774,
+      "lon": -71.07112919021522
+    }
+  },
+  {
+    "listing_id": "list_089",
+    "name": "Cheap Campus Studio #29",
+    "type": "Apartment",
+    "price_indicator": 1391,
+    "rating": 3.9,
+    "description": "A cheap 1-bedroom setup near university. Includes free Wi-Fi, laundry facilities, and a study lounge. Perfect for student budgets.",
+    "location": {
+      "lat": 42.379377924025256,
+      "lon": -71.05544137637133
+    }
+  },
+  {
+    "listing_id": "list_090",
+    "name": "Luxury Groceries",
+    "type": "Market",
+    "price_indicator": 16,
+    "rating": 4.4,
+    "description": "Affordable wholesale bulk grocery options, fresh vegetables, and cheap ramen supply.",
+    "location": {
+      "lat": 42.35755888194165,
+      "lon": -71.07193171028776
+    }
+  },
+  {
+    "listing_id": "list_091",
+    "name": "Local Wholesale",
+    "type": "Market",
+    "price_indicator": 17,
+    "rating": 3.3,
+    "description": "Affordable wholesale bulk grocery options, fresh vegetables, and cheap ramen supply.",
+    "location": {
+      "lat": 42.3639805965157,
+      "lon": -71.0593674547379
+    }
+  },
+  {
+    "listing_id": "list_092",
+    "name": "Cheap Campus Studio #96",
+    "type": "Apartment",
+    "price_indicator": 1340,
+    "rating": 3.3,
+    "description": "A cheap 1-bedroom setup near university. Includes free Wi-Fi, laundry facilities, and a study lounge. Perfect for student budgets.",
+    "location": {
+      "lat": 42.3495702650115,
+      "lon": -71.07998850912581
+    }
+  },
+  {
+    "listing_id": "list_093",
+    "name": "Cozy Campus Studio #151",
+    "type": "Apartment",
+    "price_indicator": 1059,
+    "rating": 3.8,
+    "description": "A cozy 1-bedroom setup near university. Includes free Wi-Fi, laundry facilities, and a study lounge. Perfect for student budgets.",
+    "location": {
+      "lat": 42.35580572468205,
+      "lon": -71.05655679339162
+    }
+  },
+  {
+    "listing_id": "list_094",
+    "name": "Cozy Groceries",
+    "type": "Market",
+    "price_indicator": 10,
+    "rating": 4.2,
+    "description": "Affordable wholesale bulk grocery options, fresh vegetables, and cheap ramen supply.",
+    "location": {
+      "lat": 42.36904554838829,
+      "lon": -71.05763544532209
+    }
+  },
+  {
+    "listing_id": "list_095",
+    "name": "Luxury Wholesale",
+    "type": "Market",
+    "price_indicator": 22,
+    "rating": 3.6,
+    "description": "Affordable wholesale bulk grocery options, fresh vegetables, and cheap ramen supply.",
+    "location": {
+      "lat": 42.37852228557901,
+      "lon": -71.06180963965365
+    }
+  },
+  {
+    "listing_id": "list_096",
+    "name": "Cheap Eaters Diner",
+    "type": "Restaurant",
+    "price_indicator": 16,
+    "rating": 3.5,
+    "description": "Great cheap food options with excellent student discounts. Popular for late-night study sessions.",
+    "location": {
+      "lat": 42.36024952385022,
+      "lon": -71.05765477148522
+    }
+  },
+  {
+    "listing_id": "list_097",
+    "name": "Luxury Wholesale",
+    "type": "Market",
+    "price_indicator": 12,
+    "rating": 4.6,
+    "description": "Affordable wholesale bulk grocery options, fresh vegetables, and cheap ramen supply.",
+    "location": {
+      "lat": 42.37826837398342,
+      "lon": -71.04495547815029
+    }
+  },
+  {
+    "listing_id": "list_098",
+    "name": "Luxury Corner Store",
+    "type": "Market",
+    "price_indicator": 29,
+    "rating": 4.2,
+    "description": "Affordable wholesale bulk grocery options, fresh vegetables, and cheap ramen supply.",
+    "location": {
+      "lat": 42.37079868770935,
+      "lon": -71.04970106859814
+    }
+  },
+  {
+    "listing_id": "list_099",
+    "name": "Quiet Eaters Kitchen",
+    "type": "Restaurant",
+    "price_indicator": 8,
+    "rating": 4.1,
+    "description": "Great quiet food options with excellent student discounts. Popular for late-night study sessions.",
+    "location": {
+      "lat": 42.35031279059278,
+      "lon": -71.06469307016323
+    }
+  },
+  {
+    "listing_id": "list_100",
+    "name": "Quiet Campus Studio #369",
+    "type": "Apartment",
+    "price_indicator": 885,
+    "rating": 4.6,
+    "description": "A quiet 1-bedroom setup near university. Includes free Wi-Fi, laundry facilities, and a study lounge. Perfect for student budgets.",
+    "location": {
+      "lat": 42.356497038887575,
+      "lon": -71.06587614938125
+    }
+  },
+  {
+    "listing_id": "list_101",
+    "name": "Cozy Wholesale",
+    "type": "Market",
+    "price_indicator": 20,
+    "rating": 3.7,
+    "description": "Affordable wholesale bulk grocery options, fresh vegetables, and cheap ramen supply.",
+    "location": {
+      "lat": 42.3559572254639,
+      "lon": -71.05004847472279
+    }
+  },
+  {
+    "listing_id": "list_102",
+    "name": "Cozy Eaters Noodle Bar",
+    "type": "Restaurant",
+    "price_indicator": 23,
+    "rating": 3.8,
+    "description": "Great cozy food options with excellent student discounts. Popular for late-night study sessions.",
+    "location": {
+      "lat": 42.348742645351386,
+      "lon": -71.05705149523345
+    }
+  },
+  {
+    "listing_id": "list_103",
+    "name": "Quiet Campus Studio #359",
+    "type": "Apartment",
+    "price_indicator": 844,
+    "rating": 4.1,
+    "description": "A quiet 1-bedroom setup near university. Includes free Wi-Fi, laundry facilities, and a study lounge. Perfect for student budgets.",
+    "location": {
+      "lat": 42.34798666156377,
+      "lon": -71.0505828373903
+    }
+  },
+  {
+    "listing_id": "list_104",
+    "name": "Budget Eaters Noodle Bar",
+    "type": "Restaurant",
+    "price_indicator": 14,
+    "rating": 4.7,
+    "description": "Great budget food options with excellent student discounts. Popular for late-night study sessions.",
+    "location": {
+      "lat": 42.37345338839847,
+      "lon": -71.06575890506626
+    }
+  },
+  {
+    "listing_id": "list_105",
+    "name": "Cozy Campus Studio #481",
+    "type": "Apartment",
+    "price_indicator": 730,
+    "rating": 4.4,
+    "description": "A cozy 1-bedroom setup near university. Includes free Wi-Fi, laundry facilities, and a study lounge. Perfect for student budgets.",
+    "location": {
+      "lat": 42.36653696313282,
+      "lon": -71.05544692098897
+    }
+  },
+  {
+    "listing_id": "list_106",
+    "name": "Cozy Corner Store",
+    "type": "Market",
+    "price_indicator": 28,
+    "rating": 4.3,
+    "description": "Affordable wholesale bulk grocery options, fresh vegetables, and cheap ramen supply.",
+    "location": {
+      "lat": 42.35969361510817,
+      "lon": -71.04058554682703
+    }
+  },
+  {
+    "listing_id": "list_107",
+    "name": "Local Wholesale",
+    "type": "Market",
+    "price_indicator": 36,
+    "rating": 3.5,
+    "description": "Affordable wholesale bulk grocery options, fresh vegetables, and cheap ramen supply.",
+    "location": {
+      "lat": 42.37057049301744,
+      "lon": -71.05955465457431
+    }
+  },
+  {
+    "listing_id": "list_108",
+    "name": "Budget Eaters Noodle Bar",
+    "type": "Restaurant",
+    "price_indicator": 9,
+    "rating": 4.1,
+    "description": "Great budget food options with excellent student discounts. Popular for late-night study sessions.",
+    "location": {
+      "lat": 42.35692703469942,
+      "lon": -71.04241382314541
+    }
+  },
+  {
+    "listing_id": "list_109",
+    "name": "Cheap Campus Studio #187",
+    "type": "Apartment",
+    "price_indicator": 1053,
+    "rating": 4.7,
+    "description": "A cheap 1-bedroom setup near university. Includes free Wi-Fi, laundry facilities, and a study lounge. Perfect for student budgets.",
+    "location": {
+      "lat": 42.3710361585542,
+      "lon": -71.06171215862736
+    }
+  },
+  {
+    "listing_id": "list_110",
+    "name": "Quiet Campus Studio #275",
+    "type": "Apartment",
+    "price_indicator": 1121,
+    "rating": 3.8,
+    "description": "A quiet 1-bedroom setup near university. Includes free Wi-Fi, laundry facilities, and a study lounge. Perfect for student budgets.",
+    "location": {
+      "lat": 42.34033674419279,
+      "lon": -71.0530358775822
+    }
+  },
+  {
+    "listing_id": "list_111",
+    "name": "Cheap Eaters Diner",
+    "type": "Restaurant",
+    "price_indicator": 18,
+    "rating": 3.9,
+    "description": "Great cheap food options with excellent student discounts. Popular for late-night study sessions.",
+    "location": {
+      "lat": 42.374473680931246,
+      "lon": -71.07251390232189
+    }
+  },
+  {
+    "listing_id": "list_112",
+    "name": "Budget Eaters Bistro",
+    "type": "Restaurant",
+    "price_indicator": 23,
+    "rating": 4.9,
+    "description": "Great budget food options with excellent student discounts. Popular for late-night study sessions.",
+    "location": {
+      "lat": 42.35372385840593,
+      "lon": -71.07264345303214
+    }
+  },
+  {
+    "listing_id": "list_113",
+    "name": "Budget Eaters Kitchen",
+    "type": "Restaurant",
+    "price_indicator": 19,
+    "rating": 3.9,
+    "description": "Great budget food options with excellent student discounts. Popular for late-night study sessions.",
+    "location": {
+      "lat": 42.356023703896895,
+      "lon": -71.06197084034089
+    }
+  },
+  {
+    "listing_id": "list_114",
+    "name": "Budget Foods",
+    "type": "Market",
+    "price_indicator": 11,
+    "rating": 4.5,
+    "description": "Affordable wholesale bulk grocery options, fresh vegetables, and cheap ramen supply.",
+    "location": {
+      "lat": 42.372163503240294,
+      "lon": -71.05778639810318
+    }
+  },
+  {
+    "listing_id": "list_115",
+    "name": "Budget Eaters Noodle Bar",
+    "type": "Restaurant",
+    "price_indicator": 12,
+    "rating": 4.1,
+    "description": "Great budget food options with excellent student discounts. Popular for late-night study sessions.",
+    "location": {
+      "lat": 42.3403896916439,
+      "lon": -71.06313917323959
+    }
+  },
+  {
+    "listing_id": "list_116",
+    "name": "Local Campus Studio #332",
+    "type": "Apartment",
+    "price_indicator": 1179,
+    "rating": 4.2,
+    "description": "A local 1-bedroom setup near university. Includes free Wi-Fi, laundry facilities, and a study lounge. Perfect for student budgets.",
+    "location": {
+      "lat": 42.35262908988754,
+      "lon": -71.06053519210218
+    }
+  },
+  {
+    "listing_id": "list_117",
+    "name": "Cheap Eaters Diner",
+    "type": "Restaurant",
+    "price_indicator": 20,
+    "rating": 3.4,
+    "description": "Great cheap food options with excellent student discounts. Popular for late-night study sessions.",
+    "location": {
+      "lat": 42.34653367521168,
+      "lon": -71.07138130700176
+    }
+  },
+  {
+    "listing_id": "list_118",
+    "name": "Student-friendly Eaters Diner",
+    "type": "Restaurant",
+    "price_indicator": 22,
+    "rating": 4.5,
+    "description": "Great student-friendly food options with excellent student discounts. Popular for late-night study sessions.",
+    "location": {
+      "lat": 42.35039076488047,
+      "lon": -71.06558773679723
+    }
+  },
+  {
+    "listing_id": "list_119",
+    "name": "Local Wholesale",
+    "type": "Market",
+    "price_indicator": 27,
+    "rating": 3.2,
+    "description": "Affordable wholesale bulk grocery options, fresh vegetables, and cheap ramen supply.",
+    "location": {
+      "lat": 42.344849499568674,
+      "lon": -71.04530525664104
+    }
+  }
+]

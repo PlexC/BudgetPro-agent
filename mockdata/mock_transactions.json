@@ -1,0 +1,7165 @@
+[
+  {
+    "transaction_id": "tx_loan_001",
+    "date": "2026-02-22T11:33:58Z",
+    "merchant": "Student Loan Corp",
+    "category": "Education",
+    "amount": -15000.0,
+    "type": "loan",
+    "description": "Subsidized federal student loan disbursement balance",
+    "location": {
+      "lat": 42.3601,
+      "lon": -71.0589
+    }
+  },
+  {
+    "transaction_id": "tx_000",
+    "date": "2026-03-24T18:47:58Z",
+    "merchant": "Part-time Job Stipend",
+    "category": "Income/Passive",
+    "amount": 78.76,
+    "type": "income",
+    "description": "Purchase at Part-time Job Stipend under Income/Passive",
+    "location": {
+      "lat": 42.34558151714101,
+      "lon": -71.07590019295314
+    }
+  },
+  {
+    "transaction_id": "tx_001",
+    "date": "2026-02-21T11:38:58Z",
+    "merchant": "Part-time Job Stipend",
+    "category": "Income/Passive",
+    "amount": 729.07,
+    "type": "income",
+    "description": "Purchase at Part-time Job Stipend under Income/Passive",
+    "location": {
+      "lat": 42.348745518992146,
+      "lon": -71.05978578847586
+    }
+  },
+  {
+    "transaction_id": "tx_002",
+    "date": "2026-05-12T10:07:58Z",
+    "merchant": "Trader Joe's",
+    "category": "Food/Dining",
+    "amount": 33.43,
+    "type": "expense",
+    "description": "Purchase at Trader Joe's under Food/Dining",
+    "location": {
+      "lat": 42.35678079283847,
+      "lon": -71.06203163814865
+    }
+  },
+  {
+    "transaction_id": "tx_003",
+    "date": "2026-03-10T10:00:58Z",
+    "merchant": "University Bookstore",
+    "category": "Education",
+    "amount": 114.91,
+    "type": "expense",
+    "description": "Purchase at University Bookstore under Education",
+    "location": {
+      "lat": 42.353610020660724,
+      "lon": -71.07378082000753
+    }
+  },
+  {
+    "transaction_id": "tx_004",
+    "date": "2026-03-01T23:27:58Z",
+    "merchant": "University Bookstore",
+    "category": "Education",
+    "amount": 17.99,
+    "type": "expense",
+    "description": "Purchase at University Bookstore under Education",
+    "location": {
+      "lat": 42.35375822889916,
+      "lon": -71.06941916531112
+    }
+  },
+  {
+    "transaction_id": "tx_005",
+    "date": "2026-03-04T23:38:58Z",
+    "merchant": "McDonalds",
+    "category": "Food/Dining",
+    "amount": 71.35,
+    "type": "expense",
+    "description": "Purchase at McDonalds under Food/Dining",
+    "location": {
+      "lat": 42.36208162525093,
+      "lon": -71.04682381342988
+    }
+  },
+  {
+    "transaction_id": "tx_006",
+    "date": "2026-05-18T13:35:58Z",
+    "merchant": "Subway Pass",
+    "category": "Transportation",
+    "amount": 88.5,
+    "type": "expense",
+    "description": "Purchase at Subway Pass under Transportation",
+    "location": {
+      "lat": 42.36645053274271,
+      "lon": -71.04907726636846
+    }
+  },
+  {
+    "transaction_id": "tx_007",
+    "date": "2026-04-06T20:02:58Z",
+    "merchant": "Campus Cafeteria",
+    "category": "Food/Dining",
+    "amount": 130.57,
+    "type": "expense",
+    "description": "Purchase at Campus Cafeteria under Food/Dining",
+    "location": {
+      "lat": 42.36542737777058,
+      "lon": -71.0654067128412
+    }
+  },
+  {
+    "transaction_id": "tx_008",
+    "date": "2026-03-24T10:32:58Z",
+    "merchant": "Lab Fees",
+    "category": "Education",
+    "amount": 34.98,
+    "type": "expense",
+    "description": "Purchase at Lab Fees under Education",
+    "location": {
+      "lat": 42.36734190662147,
+      "lon": -71.07714389961686
+    }
+  },
+  {
+    "transaction_id": "tx_009",
+    "date": "2026-03-20T17:02:58Z",
+    "merchant": "Freelance Coding Contract",
+    "category": "Income/Passive",
+    "amount": 664.26,
+    "type": "income",
+    "description": "Purchase at Freelance Coding Contract under Income/Passive",
+    "location": {
+      "lat": 42.35517821767031,
+      "lon": -71.04041906597455
+    }
+  },
+  {
+    "transaction_id": "tx_010",
+    "date": "2026-02-24T19:25:58Z",
+    "merchant": "Freelance Coding Contract",
+    "category": "Income/Passive",
+    "amount": 837.31,
+    "type": "income",
+    "description": "Purchase at Freelance Coding Contract under Income/Passive",
+    "location": {
+      "lat": 42.341284009756166,
+      "lon": -71.06738187807764
+    }
+  },
+  {
+    "transaction_id": "tx_011",
+    "date": "2026-05-01T09:53:58Z",
+    "merchant": "University Bookstore",
+    "category": "Education",
+    "amount": 35.2,
+    "type": "expense",
+    "description": "Purchase at University Bookstore under Education",
+    "location": {
+      "lat": 42.34850506176217,
+      "lon": -71.06003074962031
+    }
+  },
+  {
+    "transaction_id": "tx_012",
+    "date": "2026-03-06T19:20:58Z",
+    "merchant": "Stock Dividend",
+    "category": "Income/Passive",
+    "amount": 214.3,
+    "type": "income",
+    "description": "Purchase at Stock Dividend under Income/Passive",
+    "location": {
+      "lat": 42.362454725366526,
+      "lon": -71.06949033565908
+    }
+  },
+  {
+    "transaction_id": "tx_013",
+    "date": "2026-04-09T22:47:58Z",
+    "merchant": "Train Ticket",
+    "category": "Transportation",
+    "amount": 135.13,
+    "type": "expense",
+    "description": "Purchase at Train Ticket under Transportation",
+    "location": {
+      "lat": 42.37989303111957,
+      "lon": -71.07446673020436
+    }
+  },
+  {
+    "transaction_id": "tx_014",
+    "date": "2026-03-03T16:13:58Z",
+    "merchant": "Netflix",
+    "category": "Entertainment",
+    "amount": 114.47,
+    "type": "expense",
+    "description": "Purchase at Netflix under Entertainment",
+    "location": {
+      "lat": 42.3463992800689,
+      "lon": -71.05278075146015
+    }
+  },
+  {
+    "transaction_id": "tx_015",
+    "date": "2026-05-05T02:06:58Z",
+    "merchant": "Uber/Lyft",
+    "category": "Transportation",
+    "amount": 60.48,
+    "type": "expense",
+    "description": "Purchase at Uber/Lyft under Transportation",
+    "location": {
+      "lat": 42.350056564799274,
+      "lon": -71.05787096415139
+    }
+  },
+  {
+    "transaction_id": "tx_016",
+    "date": "2026-05-16T05:21:58Z",
+    "merchant": "McDonalds",
+    "category": "Food/Dining",
+    "amount": 109.37,
+    "type": "expense",
+    "description": "Purchase at McDonalds under Food/Dining",
+    "location": {
+      "lat": 42.350673007598104,
+      "lon": -71.05436152805682
+    }
+  },
+  {
+    "transaction_id": "tx_017",
+    "date": "2026-04-16T12:19:58Z",
+    "merchant": "Starbucks",
+    "category": "Food/Dining",
+    "amount": 67.76,
+    "type": "expense",
+    "description": "Purchase at Starbucks under Food/Dining",
+    "location": {
+      "lat": 42.37503411761513,
+      "lon": -71.06946443796996
+    }
+  },
+  {
+    "transaction_id": "tx_018",
+    "date": "2026-03-03T07:52:58Z",
+    "merchant": "Gas Station",
+    "category": "Transportation",
+    "amount": 78.37,
+    "type": "expense",
+    "description": "Purchase at Gas Station under Transportation",
+    "location": {
+      "lat": 42.3736667739269,
+      "lon": -71.0596934847209
+    }
+  },
+  {
+    "transaction_id": "tx_019",
+    "date": "2026-03-10T05:22:58Z",
+    "merchant": "Electric Bill",
+    "category": "Housing/Utilities",
+    "amount": 58.9,
+    "type": "expense",
+    "description": "Purchase at Electric Bill under Housing/Utilities",
+    "location": {
+      "lat": 42.376897363224735,
+      "lon": -71.04326026022417
+    }
+  },
+  {
+    "transaction_id": "tx_020",
+    "date": "2026-03-03T23:29:58Z",
+    "merchant": "Subway Pass",
+    "category": "Transportation",
+    "amount": 75.59,
+    "type": "expense",
+    "description": "Purchase at Subway Pass under Transportation",
+    "location": {
+      "lat": 42.37941285515775,
+      "lon": -71.04772900780812
+    }
+  },
+  {
+    "transaction_id": "tx_021",
+    "date": "2026-03-20T05:38:58Z",
+    "merchant": "Monthly Rent Payment",
+    "category": "Housing/Utilities",
+    "amount": 850.0,
+    "type": "expense",
+    "description": "Purchase at Monthly Rent Payment under Housing/Utilities",
+    "location": {
+      "lat": 42.34342613808272,
+      "lon": -71.06056038146734
+    }
+  },
+  {
+    "transaction_id": "tx_022",
+    "date": "2026-03-06T09:03:58Z",
+    "merchant": "Trader Joe's",
+    "category": "Food/Dining",
+    "amount": 115.93,
+    "type": "expense",
+    "description": "Purchase at Trader Joe's under Food/Dining",
+    "location": {
+      "lat": 42.3778739471882,
+      "lon": -71.07339492164104
+    }
+  },
+  {
+    "transaction_id": "tx_023",
+    "date": "2026-04-28T11:17:58Z",
+    "merchant": "Train Ticket",
+    "category": "Transportation",
+    "amount": 144.81,
+    "type": "expense",
+    "description": "Purchase at Train Ticket under Transportation",
+    "location": {
+      "lat": 42.34804604253559,
+      "lon": -71.06753134834797
+    }
+  },
+  {
+    "transaction_id": "tx_024",
+    "date": "2026-04-25T01:40:58Z",
+    "merchant": "Allowance",
+    "category": "Income/Passive",
+    "amount": 553.82,
+    "type": "income",
+    "description": "Purchase at Allowance under Income/Passive",
+    "location": {
+      "lat": 42.34991622454665,
+      "lon": -71.07743896414695
+    }
+  },
+  {
+    "transaction_id": "tx_025",
+    "date": "2026-05-03T18:33:58Z",
+    "merchant": "Trader Joe's",
+    "category": "Food/Dining",
+    "amount": 85.1,
+    "type": "expense",
+    "description": "Purchase at Trader Joe's under Food/Dining",
+    "location": {
+      "lat": 42.34283972344036,
+      "lon": -71.0547558817092
+    }
+  },
+  {
+    "transaction_id": "tx_026",
+    "date": "2026-02-21T21:37:58Z",
+    "merchant": "Monthly Rent Payment",
+    "category": "Housing/Utilities",
+    "amount": 850.0,
+    "type": "expense",
+    "description": "Purchase at Monthly Rent Payment under Housing/Utilities",
+    "location": {
+      "lat": 42.360566244792345,
+      "lon": -71.06886090944141
+    }
+  },
+  {
+    "transaction_id": "tx_027",
+    "date": "2026-05-02T06:03:58Z",
+    "merchant": "Spotify",
+    "category": "Entertainment",
+    "amount": 82.96,
+    "type": "expense",
+    "description": "Purchase at Spotify under Entertainment",
+    "location": {
+      "lat": 42.349719889695834,
+      "lon": -71.06108108228221
+    }
+  },
+  {
+    "transaction_id": "tx_028",
+    "date": "2026-05-13T00:55:58Z",
+    "merchant": "Spotify",
+    "category": "Entertainment",
+    "amount": 18.22,
+    "type": "expense",
+    "description": "Purchase at Spotify under Entertainment",
+    "location": {
+      "lat": 42.3569431449208,
+      "lon": -71.06131901327853
+    }
+  },
+  {
+    "transaction_id": "tx_029",
+    "date": "2026-05-10T14:36:58Z",
+    "merchant": "Part-time Job Stipend",
+    "category": "Income/Passive",
+    "amount": 824.37,
+    "type": "income",
+    "description": "Purchase at Part-time Job Stipend under Income/Passive",
+    "location": {
+      "lat": 42.356104851284094,
+      "lon": -71.0664278957842
+    }
+  },
+  {
+    "transaction_id": "tx_030",
+    "date": "2026-04-27T01:41:58Z",
+    "merchant": "Campus Cafeteria",
+    "category": "Food/Dining",
+    "amount": 32.38,
+    "type": "expense",
+    "description": "Purchase at Campus Cafeteria under Food/Dining",
+    "location": {
+      "lat": 42.35687526559338,
+      "lon": -71.06885819421332
+    }
+  },
+  {
+    "transaction_id": "tx_031",
+    "date": "2026-04-15T04:39:58Z",
+    "merchant": "Monthly Rent Payment",
+    "category": "Housing/Utilities",
+    "amount": 850.0,
+    "type": "expense",
+    "description": "Purchase at Monthly Rent Payment under Housing/Utilities",
+    "location": {
+      "lat": 42.342023533181,
+      "lon": -71.0400287012635
+    }
+  },
+  {
+    "transaction_id": "tx_032",
+    "date": "2026-03-19T16:59:58Z",
+    "merchant": "Ramen House",
+    "category": "Food/Dining",
+    "amount": 139.29,
+    "type": "expense",
+    "description": "Purchase at Ramen House under Food/Dining",
+    "location": {
+      "lat": 42.35942564501803,
+      "lon": -71.07145010803204
+    }
+  },
+  {
+    "transaction_id": "tx_033",
+    "date": "2026-02-17T23:49:58Z",
+    "merchant": "Netflix",
+    "category": "Entertainment",
+    "amount": 28.45,
+    "type": "expense",
+    "description": "Purchase at Netflix under Entertainment",
+    "location": {
+      "lat": 42.377060722942375,
+      "lon": -71.04859482572824
+    }
+  },
+  {
+    "transaction_id": "tx_034",
+    "date": "2026-04-30T09:18:58Z",
+    "merchant": "Online Course Sub",
+    "category": "Education",
+    "amount": 105.85,
+    "type": "expense",
+    "description": "Purchase at Online Course Sub under Education",
+    "location": {
+      "lat": 42.35946685646618,
+      "lon": -71.07240408530929
+    }
+  },
+  {
+    "transaction_id": "tx_035",
+    "date": "2026-05-03T11:07:58Z",
+    "merchant": "Monthly Rent Payment",
+    "category": "Housing/Utilities",
+    "amount": 850.0,
+    "type": "expense",
+    "description": "Purchase at Monthly Rent Payment under Housing/Utilities",
+    "location": {
+      "lat": 42.342438302859065,
+      "lon": -71.0674558076092
+    }
+  },
+  {
+    "transaction_id": "tx_036",
+    "date": "2026-04-25T16:36:58Z",
+    "merchant": "Trader Joe's",
+    "category": "Food/Dining",
+    "amount": 73.87,
+    "type": "expense",
+    "description": "Purchase at Trader Joe's under Food/Dining",
+    "location": {
+      "lat": 42.37843115613098,
+      "lon": -71.07679554139038
+    }
+  },
+  {
+    "transaction_id": "tx_037",
+    "date": "2026-05-04T14:16:58Z",
+    "merchant": "Monthly Rent Payment",
+    "category": "Housing/Utilities",
+    "amount": 850.0,
+    "type": "expense",
+    "description": "Purchase at Monthly Rent Payment under Housing/Utilities",
+    "location": {
+      "lat": 42.37447276807881,
+      "lon": -71.06384897794727
+    }
+  },
+  {
+    "transaction_id": "tx_038",
+    "date": "2026-02-23T06:38:58Z",
+    "merchant": "Gas Station",
+    "category": "Transportation",
+    "amount": 88.73,
+    "type": "expense",
+    "description": "Purchase at Gas Station under Transportation",
+    "location": {
+      "lat": 42.35676899661344,
+      "lon": -71.05665310842835
+    }
+  },
+  {
+    "transaction_id": "tx_039",
+    "date": "2026-03-16T09:18:58Z",
+    "merchant": "Subway Pass",
+    "category": "Transportation",
+    "amount": 140.5,
+    "type": "expense",
+    "description": "Purchase at Subway Pass under Transportation",
+    "location": {
+      "lat": 42.35256735451183,
+      "lon": -71.06937541949874
+    }
+  },
+  {
+    "transaction_id": "tx_040",
+    "date": "2026-02-26T12:02:58Z",
+    "merchant": "Water Utility",
+    "category": "Housing/Utilities",
+    "amount": 71.03,
+    "type": "expense",
+    "description": "Purchase at Water Utility under Housing/Utilities",
+    "location": {
+      "lat": 42.36484637021972,
+      "lon": -71.05748025417445
+    }
+  },
+  {
+    "transaction_id": "tx_041",
+    "date": "2026-04-22T19:41:58Z",
+    "merchant": "Ramen House",
+    "category": "Food/Dining",
+    "amount": 82.73,
+    "type": "expense",
+    "description": "Purchase at Ramen House under Food/Dining",
+    "location": {
+      "lat": 42.37733037511975,
+      "lon": -71.04476543305255
+    }
+  },
+  {
+    "transaction_id": "tx_042",
+    "date": "2026-04-15T05:18:58Z",
+    "merchant": "Unrecognized London Shop",
+    "category": "Uncategorized",
+    "amount": 499.99,
+    "type": "expense",
+    "description": "Suspicious international transaction alert",
+    "location": {
+      "lat": 51.46050342859578,
+      "lon": -0.10161466897485177
+    }
+  },
+  {
+    "transaction_id": "tx_043",
+    "date": "2026-04-28T21:32:58Z",
+    "merchant": "Part-time Job Stipend",
+    "category": "Income/Passive",
+    "amount": 818.04,
+    "type": "income",
+    "description": "Purchase at Part-time Job Stipend under Income/Passive",
+    "location": {
+      "lat": 42.36653554859865,
+      "lon": -71.04244279984292
+    }
+  },
+  {
+    "transaction_id": "tx_044",
+    "date": "2026-03-03T11:08:58Z",
+    "merchant": "Water Utility",
+    "category": "Housing/Utilities",
+    "amount": 21.29,
+    "type": "expense",
+    "description": "Purchase at Water Utility under Housing/Utilities",
+    "location": {
+      "lat": 42.346217916391005,
+      "lon": -71.06872974914168
+    }
+  },
+  {
+    "transaction_id": "tx_045",
+    "date": "2026-05-09T20:05:58Z",
+    "merchant": "Water Utility",
+    "category": "Housing/Utilities",
+    "amount": 34.12,
+    "type": "expense",
+    "description": "Purchase at Water Utility under Housing/Utilities",
+    "location": {
+      "lat": 42.35954127408598,
+      "lon": -71.04378654035683
+    }
+  },
+  {
+    "transaction_id": "tx_046",
+    "date": "2026-03-24T12:33:58Z",
+    "merchant": "Ramen House",
+    "category": "Food/Dining",
+    "amount": 96.79,
+    "type": "expense",
+    "description": "Purchase at Ramen House under Food/Dining",
+    "location": {
+      "lat": 42.353342261544206,
+      "lon": -71.07476721357193
+    }
+  },
+  {
+    "transaction_id": "tx_047",
+    "date": "2026-04-29T10:00:58Z",
+    "merchant": "Tuition Installment",
+    "category": "Education",
+    "amount": 112.35,
+    "type": "expense",
+    "description": "Purchase at Tuition Installment under Education",
+    "location": {
+      "lat": 42.36243627459099,
+      "lon": -71.07552504477643
+    }
+  },
+  {
+    "transaction_id": "tx_048",
+    "date": "2026-04-06T06:08:58Z",
+    "merchant": "Freelance Coding Contract",
+    "category": "Income/Passive",
+    "amount": 677.43,
+    "type": "income",
+    "description": "Purchase at Freelance Coding Contract under Income/Passive",
+    "location": {
+      "lat": 42.3459237514227,
+      "lon": -71.07490217922872
+    }
+  },
+  {
+    "transaction_id": "tx_049",
+    "date": "2026-02-22T22:46:58Z",
+    "merchant": "Lab Fees",
+    "category": "Education",
+    "amount": 135.3,
+    "type": "expense",
+    "description": "Purchase at Lab Fees under Education",
+    "location": {
+      "lat": 42.36728266753243,
+      "lon": -71.05332266357458
+    }
+  },
+  {
+    "transaction_id": "tx_050",
+    "date": "2026-03-08T19:28:58Z",
+    "merchant": "Online Course Sub",
+    "category": "Education",
+    "amount": 146.19,
+    "type": "expense",
+    "description": "Purchase at Online Course Sub under Education",
+    "location": {
+      "lat": 42.34650007068402,
+      "lon": -71.04800451880372
+    }
+  },
+  {
+    "transaction_id": "tx_051",
+    "date": "2026-04-01T01:24:58Z",
+    "merchant": "Internet Service",
+    "category": "Housing/Utilities",
+    "amount": 8.11,
+    "type": "expense",
+    "description": "Purchase at Internet Service under Housing/Utilities",
+    "location": {
+      "lat": 42.36679628517153,
+      "lon": -71.0505976984469
+    }
+  },
+  {
+    "transaction_id": "tx_052",
+    "date": "2026-05-17T14:57:58Z",
+    "merchant": "Water Utility",
+    "category": "Housing/Utilities",
+    "amount": 27.66,
+    "type": "expense",
+    "description": "Purchase at Water Utility under Housing/Utilities",
+    "location": {
+      "lat": 42.37488667131625,
+      "lon": -71.04565626994649
+    }
+  },
+  {
+    "transaction_id": "tx_053",
+    "date": "2026-04-16T22:52:58Z",
+    "merchant": "Electric Bill",
+    "category": "Housing/Utilities",
+    "amount": 123.31,
+    "type": "expense",
+    "description": "Purchase at Electric Bill under Housing/Utilities",
+    "location": {
+      "lat": 42.372821455238864,
+      "lon": -71.04514707856549
+    }
+  },
+  {
+    "transaction_id": "tx_054",
+    "date": "2026-05-12T17:58:58Z",
+    "merchant": "Monthly Rent Payment",
+    "category": "Housing/Utilities",
+    "amount": 850.0,
+    "type": "expense",
+    "description": "Purchase at Monthly Rent Payment under Housing/Utilities",
+    "location": {
+      "lat": 42.35313047804791,
+      "lon": -71.0454258823188
+    }
+  },
+  {
+    "transaction_id": "tx_055",
+    "date": "2026-04-10T09:26:58Z",
+    "merchant": "Lab Fees",
+    "category": "Education",
+    "amount": 97.84,
+    "type": "expense",
+    "description": "Purchase at Lab Fees under Education",
+    "location": {
+      "lat": 42.361448629299154,
+      "lon": -71.04243051438702
+    }
+  },
+  {
+    "transaction_id": "tx_056",
+    "date": "2026-03-22T12:39:58Z",
+    "merchant": "Starbucks",
+    "category": "Food/Dining",
+    "amount": 30.48,
+    "type": "expense",
+    "description": "Purchase at Starbucks under Food/Dining",
+    "location": {
+      "lat": 42.36386285019951,
+      "lon": -71.06617251553281
+    }
+  },
+  {
+    "transaction_id": "tx_057",
+    "date": "2026-04-23T14:57:58Z",
+    "merchant": "Online Course Sub",
+    "category": "Education",
+    "amount": 92.7,
+    "type": "expense",
+    "description": "Purchase at Online Course Sub under Education",
+    "location": {
+      "lat": 42.37598018931645,
+      "lon": -71.07239684901991
+    }
+  },
+  {
+    "transaction_id": "tx_058",
+    "date": "2026-04-25T05:16:58Z",
+    "merchant": "McDonalds",
+    "category": "Food/Dining",
+    "amount": 67.95,
+    "type": "expense",
+    "description": "Purchase at McDonalds under Food/Dining",
+    "location": {
+      "lat": 42.3687771999658,
+      "lon": -71.05032199688642
+    }
+  },
+  {
+    "transaction_id": "tx_059",
+    "date": "2026-02-26T09:31:58Z",
+    "merchant": "Freelance Coding Contract",
+    "category": "Income/Passive",
+    "amount": 468.85,
+    "type": "income",
+    "description": "Purchase at Freelance Coding Contract under Income/Passive",
+    "location": {
+      "lat": 42.35320800144171,
+      "lon": -71.06744337419767
+    }
+  },
+  {
+    "transaction_id": "tx_060",
+    "date": "2026-04-22T21:15:58Z",
+    "merchant": "McDonalds",
+    "category": "Food/Dining",
+    "amount": 135.46,
+    "type": "expense",
+    "description": "Purchase at McDonalds under Food/Dining",
+    "location": {
+      "lat": 42.35633571634477,
+      "lon": -71.0639039845177
+    }
+  },
+  {
+    "transaction_id": "tx_061",
+    "date": "2026-05-14T00:16:58Z",
+    "merchant": "Tuition Installment",
+    "category": "Education",
+    "amount": 32.41,
+    "type": "expense",
+    "description": "Purchase at Tuition Installment under Education",
+    "location": {
+      "lat": 42.36992538240636,
+      "lon": -71.0730389062716
+    }
+  },
+  {
+    "transaction_id": "tx_062",
+    "date": "2026-02-17T20:51:58Z",
+    "merchant": "Subway Pass",
+    "category": "Transportation",
+    "amount": 63.58,
+    "type": "expense",
+    "description": "Purchase at Subway Pass under Transportation",
+    "location": {
+      "lat": 42.348407307395306,
+      "lon": -71.0485696469009
+    }
+  },
+  {
+    "transaction_id": "tx_063",
+    "date": "2026-04-15T08:46:58Z",
+    "merchant": "Subway Pass",
+    "category": "Transportation",
+    "amount": 72.16,
+    "type": "expense",
+    "description": "Purchase at Subway Pass under Transportation",
+    "location": {
+      "lat": 42.360446959874984,
+      "lon": -71.04825058403577
+    }
+  },
+  {
+    "transaction_id": "tx_064",
+    "date": "2026-03-26T04:15:58Z",
+    "merchant": "Freelance Coding Contract",
+    "category": "Income/Passive",
+    "amount": 807.68,
+    "type": "income",
+    "description": "Purchase at Freelance Coding Contract under Income/Passive",
+    "location": {
+      "lat": 42.365317634230635,
+      "lon": -71.06659246978361
+    }
+  },
+  {
+    "transaction_id": "tx_065",
+    "date": "2026-03-14T15:34:58Z",
+    "merchant": "Water Utility",
+    "category": "Housing/Utilities",
+    "amount": 37.19,
+    "type": "expense",
+    "description": "Purchase at Water Utility under Housing/Utilities",
+    "location": {
+      "lat": 42.34184854872371,
+      "lon": -71.04064255908874
+    }
+  },
+  {
+    "transaction_id": "tx_066",
+    "date": "2026-05-09T05:45:58Z",
+    "merchant": "Uber/Lyft",
+    "category": "Transportation",
+    "amount": 70.76,
+    "type": "expense",
+    "description": "Purchase at Uber/Lyft under Transportation",
+    "location": {
+      "lat": 42.36873383661996,
+      "lon": -71.0646408613043
+    }
+  },
+  {
+    "transaction_id": "tx_067",
+    "date": "2026-05-16T12:30:58Z",
+    "merchant": "Spotify",
+    "category": "Entertainment",
+    "amount": 25.97,
+    "type": "expense",
+    "description": "Purchase at Spotify under Entertainment",
+    "location": {
+      "lat": 42.37003857906474,
+      "lon": -71.04919815245704
+    }
+  },
+  {
+    "transaction_id": "tx_068",
+    "date": "2026-05-18T04:02:58Z",
+    "merchant": "Boba Tea",
+    "category": "Food/Dining",
+    "amount": 36.34,
+    "type": "expense",
+    "description": "Purchase at Boba Tea under Food/Dining",
+    "location": {
+      "lat": 42.34200873540563,
+      "lon": -71.0700320688136
+    }
+  },
+  {
+    "transaction_id": "tx_069",
+    "date": "2026-04-18T09:06:58Z",
+    "merchant": "Boba Tea",
+    "category": "Food/Dining",
+    "amount": 23.9,
+    "type": "expense",
+    "description": "Purchase at Boba Tea under Food/Dining",
+    "location": {
+      "lat": 42.37951569812266,
+      "lon": -71.05618190726122
+    }
+  },
+  {
+    "transaction_id": "tx_070",
+    "date": "2026-04-23T01:26:58Z",
+    "merchant": "Concert Ticket",
+    "category": "Entertainment",
+    "amount": 123.08,
+    "type": "expense",
+    "description": "Purchase at Concert Ticket under Entertainment",
+    "location": {
+      "lat": 42.37627418921825,
+      "lon": -71.06216345551694
+    }
+  },
+  {
+    "transaction_id": "tx_071",
+    "date": "2026-03-21T07:50:58Z",
+    "merchant": "Internet Service",
+    "category": "Housing/Utilities",
+    "amount": 69.99,
+    "type": "expense",
+    "description": "Purchase at Internet Service under Housing/Utilities",
+    "location": {
+      "lat": 42.37063254737189,
+      "lon": -71.05914800748688
+    }
+  },
+  {
+    "transaction_id": "tx_072",
+    "date": "2026-02-27T09:51:58Z",
+    "merchant": "Freelance Coding Contract",
+    "category": "Income/Passive",
+    "amount": 365.79,
+    "type": "income",
+    "description": "Purchase at Freelance Coding Contract under Income/Passive",
+    "location": {
+      "lat": 42.349379743120586,
+      "lon": -71.06656609853515
+    }
+  },
+  {
+    "transaction_id": "tx_073",
+    "date": "2026-03-19T00:17:58Z",
+    "merchant": "Uber/Lyft",
+    "category": "Transportation",
+    "amount": 24.63,
+    "type": "expense",
+    "description": "Purchase at Uber/Lyft under Transportation",
+    "location": {
+      "lat": 42.34611221066309,
+      "lon": -71.07144188491576
+    }
+  },
+  {
+    "transaction_id": "tx_074",
+    "date": "2026-04-18T00:36:58Z",
+    "merchant": "Movie Theater",
+    "category": "Entertainment",
+    "amount": 52.64,
+    "type": "expense",
+    "description": "Purchase at Movie Theater under Entertainment",
+    "location": {
+      "lat": 42.34827337558058,
+      "lon": -71.06319425928906
+    }
+  },
+  {
+    "transaction_id": "tx_075",
+    "date": "2026-05-02T00:03:58Z",
+    "merchant": "Uber/Lyft",
+    "category": "Transportation",
+    "amount": 129.15,
+    "type": "expense",
+    "description": "Purchase at Uber/Lyft under Transportation",
+    "location": {
+      "lat": 42.340235843343365,
+      "lon": -71.06592964789313
+    }
+  },
+  {
+    "transaction_id": "tx_076",
+    "date": "2026-04-28T07:30:58Z",
+    "merchant": "Movie Theater",
+    "category": "Entertainment",
+    "amount": 82.81,
+    "type": "expense",
+    "description": "Purchase at Movie Theater under Entertainment",
+    "location": {
+      "lat": 42.34882154777296,
+      "lon": -71.07122313461514
+    }
+  },
+  {
+    "transaction_id": "tx_077",
+    "date": "2026-04-02T09:16:58Z",
+    "merchant": "Movie Theater",
+    "category": "Entertainment",
+    "amount": 8.72,
+    "type": "expense",
+    "description": "Purchase at Movie Theater under Entertainment",
+    "location": {
+      "lat": 42.37192569297681,
+      "lon": -71.05103274489491
+    }
+  },
+  {
+    "transaction_id": "tx_078",
+    "date": "2026-04-26T12:31:58Z",
+    "merchant": "Spotify",
+    "category": "Entertainment",
+    "amount": 147.2,
+    "type": "expense",
+    "description": "Purchase at Spotify under Entertainment",
+    "location": {
+      "lat": 42.35576081025359,
+      "lon": -71.05742432067902
+    }
+  },
+  {
+    "transaction_id": "tx_079",
+    "date": "2026-03-07T01:44:58Z",
+    "merchant": "Ramen House",
+    "category": "Food/Dining",
+    "amount": 98.02,
+    "type": "expense",
+    "description": "Purchase at Ramen House under Food/Dining",
+    "location": {
+      "lat": 42.342011385339546,
+      "lon": -71.06483584543247
+    }
+  },
+  {
+    "transaction_id": "tx_080",
+    "date": "2026-04-06T20:21:58Z",
+    "merchant": "Internet Service",
+    "category": "Housing/Utilities",
+    "amount": 52.06,
+    "type": "expense",
+    "description": "Purchase at Internet Service under Housing/Utilities",
+    "location": {
+      "lat": 42.37804816479443,
+      "lon": -71.06313740692966
+    }
+  },
+  {
+    "transaction_id": "tx_081",
+    "date": "2026-04-27T12:55:58Z",
+    "merchant": "Boba Tea",
+    "category": "Food/Dining",
+    "amount": 7.32,
+    "type": "expense",
+    "description": "Purchase at Boba Tea under Food/Dining",
+    "location": {
+      "lat": 42.348968886628796,
+      "lon": -71.07725526518189
+    }
+  },
+  {
+    "transaction_id": "tx_082",
+    "date": "2026-03-20T18:26:58Z",
+    "merchant": "Part-time Job Stipend",
+    "category": "Income/Passive",
+    "amount": 917.37,
+    "type": "income",
+    "description": "Purchase at Part-time Job Stipend under Income/Passive",
+    "location": {
+      "lat": 42.340815200692816,
+      "lon": -71.0739047061686
+    }
+  },
+  {
+    "transaction_id": "tx_083",
+    "date": "2026-04-30T18:02:58Z",
+    "merchant": "Internet Service",
+    "category": "Housing/Utilities",
+    "amount": 101.91,
+    "type": "expense",
+    "description": "Purchase at Internet Service under Housing/Utilities",
+    "location": {
+      "lat": 42.36797859884985,
+      "lon": -71.04932407606576
+    }
+  },
+  {
+    "transaction_id": "tx_084",
+    "date": "2026-03-09T20:39:58Z",
+    "merchant": "Monthly Rent Payment",
+    "category": "Housing/Utilities",
+    "amount": 850.0,
+    "type": "expense",
+    "description": "Purchase at Monthly Rent Payment under Housing/Utilities",
+    "location": {
+      "lat": 42.36314738930037,
+      "lon": -71.04284451326372
+    }
+  },
+  {
+    "transaction_id": "tx_085",
+    "date": "2026-03-14T14:10:58Z",
+    "merchant": "Train Ticket",
+    "category": "Transportation",
+    "amount": 62.21,
+    "type": "expense",
+    "description": "Purchase at Train Ticket under Transportation",
+    "location": {
+      "lat": 42.36762457663732,
+      "lon": -71.05491030417596
+    }
+  },
+  {
+    "transaction_id": "tx_086",
+    "date": "2026-05-16T07:24:58Z",
+    "merchant": "McDonalds",
+    "category": "Food/Dining",
+    "amount": 116.9,
+    "type": "expense",
+    "description": "Purchase at McDonalds under Food/Dining",
+    "location": {
+      "lat": 42.3448422026027,
+      "lon": -71.04064622593943
+    }
+  },
+  {
+    "transaction_id": "tx_087",
+    "date": "2026-05-12T22:37:58Z",
+    "merchant": "Starbucks",
+    "category": "Food/Dining",
+    "amount": 82.01,
+    "type": "expense",
+    "description": "Purchase at Starbucks under Food/Dining",
+    "location": {
+      "lat": 42.360238431587085,
+      "lon": -71.06635075300555
+    }
+  },
+  {
+    "transaction_id": "tx_088",
+    "date": "2026-04-05T08:30:58Z",
+    "merchant": "Movie Theater",
+    "category": "Entertainment",
+    "amount": 19.86,
+    "type": "expense",
+    "description": "Purchase at Movie Theater under Entertainment",
+    "location": {
+      "lat": 42.3731482924401,
+      "lon": -71.05170765425176
+    }
+  },
+  {
+    "transaction_id": "tx_089",
+    "date": "2026-05-11T20:12:58Z",
+    "merchant": "Spotify",
+    "category": "Entertainment",
+    "amount": 111.27,
+    "type": "expense",
+    "description": "Purchase at Spotify under Entertainment",
+    "location": {
+      "lat": 42.37232796875227,
+      "lon": -71.05847308374207
+    }
+  },
+  {
+    "transaction_id": "tx_090",
+    "date": "2026-05-03T19:53:58Z",
+    "merchant": "Movie Theater",
+    "category": "Entertainment",
+    "amount": 67.88,
+    "type": "expense",
+    "description": "Purchase at Movie Theater under Entertainment",
+    "location": {
+      "lat": 42.37406852640078,
+      "lon": -71.04677075924438
+    }
+  },
+  {
+    "transaction_id": "tx_091",
+    "date": "2026-03-21T02:09:58Z",
+    "merchant": "Starbucks",
+    "category": "Food/Dining",
+    "amount": 132.78,
+    "type": "expense",
+    "description": "Purchase at Starbucks under Food/Dining",
+    "location": {
+      "lat": 42.36441326816922,
+      "lon": -71.06484042783487
+    }
+  },
+  {
+    "transaction_id": "tx_092",
+    "date": "2026-03-13T02:46:58Z",
+    "merchant": "Boba Tea",
+    "category": "Food/Dining",
+    "amount": 128.31,
+    "type": "expense",
+    "description": "Purchase at Boba Tea under Food/Dining",
+    "location": {
+      "lat": 42.354192998647044,
+      "lon": -71.06966590364566
+    }
+  },
+  {
+    "transaction_id": "tx_093",
+    "date": "2026-04-24T17:38:58Z",
+    "merchant": "Lab Fees",
+    "category": "Education",
+    "amount": 85.37,
+    "type": "expense",
+    "description": "Purchase at Lab Fees under Education",
+    "location": {
+      "lat": 42.34965424201491,
+      "lon": -71.06374287501318
+    }
+  },
+  {
+    "transaction_id": "tx_094",
+    "date": "2026-05-11T10:04:58Z",
+    "merchant": "Gas Station",
+    "category": "Transportation",
+    "amount": 104.98,
+    "type": "expense",
+    "description": "Purchase at Gas Station under Transportation",
+    "location": {
+      "lat": 42.35792698198347,
+      "lon": -71.07931026962606
+    }
+  },
+  {
+    "transaction_id": "tx_095",
+    "date": "2026-03-20T21:15:58Z",
+    "merchant": "Tuition Installment",
+    "category": "Education",
+    "amount": 63.34,
+    "type": "expense",
+    "description": "Purchase at Tuition Installment under Education",
+    "location": {
+      "lat": 42.3632622234133,
+      "lon": -71.06106958044963
+    }
+  },
+  {
+    "transaction_id": "tx_096",
+    "date": "2026-04-28T21:55:58Z",
+    "merchant": "Subway Pass",
+    "category": "Transportation",
+    "amount": 66.41,
+    "type": "expense",
+    "description": "Purchase at Subway Pass under Transportation",
+    "location": {
+      "lat": 42.36811419768743,
+      "lon": -71.06916334292096
+    }
+  },
+  {
+    "transaction_id": "tx_097",
+    "date": "2026-03-13T21:40:58Z",
+    "merchant": "Tuition Installment",
+    "category": "Education",
+    "amount": 22.06,
+    "type": "expense",
+    "description": "Purchase at Tuition Installment under Education",
+    "location": {
+      "lat": 42.36971524254557,
+      "lon": -71.04196489758426
+    }
+  },
+  {
+    "transaction_id": "tx_098",
+    "date": "2026-04-19T20:19:58Z",
+    "merchant": "Freelance Coding Contract",
+    "category": "Income/Passive",
+    "amount": 270.27,
+    "type": "income",
+    "description": "Purchase at Freelance Coding Contract under Income/Passive",
+    "location": {
+      "lat": 42.36358347623843,
+      "lon": -71.04959168418507
+    }
+  },
+  {
+    "transaction_id": "tx_099",
+    "date": "2026-03-13T20:47:58Z",
+    "merchant": "Subway Pass",
+    "category": "Transportation",
+    "amount": 147.16,
+    "type": "expense",
+    "description": "Purchase at Subway Pass under Transportation",
+    "location": {
+      "lat": 42.35443524276598,
+      "lon": -71.06790929644879
+    }
+  },
+  {
+    "transaction_id": "tx_100",
+    "date": "2026-02-24T04:51:58Z",
+    "merchant": "Freelance Coding Contract",
+    "category": "Income/Passive",
+    "amount": 365.46,
+    "type": "income",
+    "description": "Purchase at Freelance Coding Contract under Income/Passive",
+    "location": {
+      "lat": 42.36789669571641,
+      "lon": -71.07494882028166
+    }
+  },
+  {
+    "transaction_id": "tx_101",
+    "date": "2026-05-01T21:03:58Z",
+    "merchant": "Netflix",
+    "category": "Entertainment",
+    "amount": 131.48,
+    "type": "expense",
+    "description": "Purchase at Netflix under Entertainment",
+    "location": {
+      "lat": 42.35914856834426,
+      "lon": -71.06637176269759
+    }
+  },
+  {
+    "transaction_id": "tx_102",
+    "date": "2026-04-19T15:25:58Z",
+    "merchant": "Starbucks",
+    "category": "Food/Dining",
+    "amount": 141.42,
+    "type": "expense",
+    "description": "Purchase at Starbucks under Food/Dining",
+    "location": {
+      "lat": 42.34261373740456,
+      "lon": -71.06033013758837
+    }
+  },
+  {
+    "transaction_id": "tx_103",
+    "date": "2026-04-30T20:38:58Z",
+    "merchant": "Uber/Lyft",
+    "category": "Transportation",
+    "amount": 26.58,
+    "type": "expense",
+    "description": "Purchase at Uber/Lyft under Transportation",
+    "location": {
+      "lat": 42.37975672490841,
+      "lon": -71.07526193751154
+    }
+  },
+  {
+    "transaction_id": "tx_104",
+    "date": "2026-05-07T19:22:58Z",
+    "merchant": "Concert Ticket",
+    "category": "Entertainment",
+    "amount": 91.24,
+    "type": "expense",
+    "description": "Purchase at Concert Ticket under Entertainment",
+    "location": {
+      "lat": 42.36090290140521,
+      "lon": -71.06197942140444
+    }
+  },
+  {
+    "transaction_id": "tx_105",
+    "date": "2026-04-12T21:09:58Z",
+    "merchant": "Steam Games",
+    "category": "Entertainment",
+    "amount": 129.65,
+    "type": "expense",
+    "description": "Purchase at Steam Games under Entertainment",
+    "location": {
+      "lat": 42.36484109284289,
+      "lon": -71.05561476351019
+    }
+  },
+  {
+    "transaction_id": "tx_106",
+    "date": "2026-03-16T07:46:58Z",
+    "merchant": "Part-time Job Stipend",
+    "category": "Income/Passive",
+    "amount": 1139.73,
+    "type": "income",
+    "description": "Purchase at Part-time Job Stipend under Income/Passive",
+    "location": {
+      "lat": 42.3505858450116,
+      "lon": -71.07675250138132
+    }
+  },
+  {
+    "transaction_id": "tx_107",
+    "date": "2026-03-09T11:59:58Z",
+    "merchant": "Electric Bill",
+    "category": "Housing/Utilities",
+    "amount": 84.81,
+    "type": "expense",
+    "description": "Purchase at Electric Bill under Housing/Utilities",
+    "location": {
+      "lat": 42.358020148184714,
+      "lon": -71.05624755219522
+    }
+  },
+  {
+    "transaction_id": "tx_108",
+    "date": "2026-05-18T21:17:58Z",
+    "merchant": "University Bookstore",
+    "category": "Education",
+    "amount": 38.18,
+    "type": "expense",
+    "description": "Purchase at University Bookstore under Education",
+    "location": {
+      "lat": 42.374384269253625,
+      "lon": -71.07715280959385
+    }
+  },
+  {
+    "transaction_id": "tx_109",
+    "date": "2026-05-09T06:15:58Z",
+    "merchant": "Water Utility",
+    "category": "Housing/Utilities",
+    "amount": 119.13,
+    "type": "expense",
+    "description": "Purchase at Water Utility under Housing/Utilities",
+    "location": {
+      "lat": 42.37215622721126,
+      "lon": -71.07208723144974
+    }
+  },
+  {
+    "transaction_id": "tx_110",
+    "date": "2026-03-08T20:25:58Z",
+    "merchant": "Trader Joe's",
+    "category": "Food/Dining",
+    "amount": 37.21,
+    "type": "expense",
+    "description": "Purchase at Trader Joe's under Food/Dining",
+    "location": {
+      "lat": 42.34568945141775,
+      "lon": -71.07761447841945
+    }
+  },
+  {
+    "transaction_id": "tx_111",
+    "date": "2026-04-18T09:52:58Z",
+    "merchant": "Lab Fees",
+    "category": "Education",
+    "amount": 68.4,
+    "type": "expense",
+    "description": "Purchase at Lab Fees under Education",
+    "location": {
+      "lat": 42.36798934739903,
+      "lon": -71.04229295037024
+    }
+  },
+  {
+    "transaction_id": "tx_112",
+    "date": "2026-05-04T13:29:58Z",
+    "merchant": "Train Ticket",
+    "category": "Transportation",
+    "amount": 68.19,
+    "type": "expense",
+    "description": "Purchase at Train Ticket under Transportation",
+    "location": {
+      "lat": 42.357281146566436,
+      "lon": -71.06710713666567
+    }
+  },
+  {
+    "transaction_id": "tx_113",
+    "date": "2026-05-15T06:10:58Z",
+    "merchant": "University Bookstore",
+    "category": "Education",
+    "amount": 17.79,
+    "type": "expense",
+    "description": "Purchase at University Bookstore under Education",
+    "location": {
+      "lat": 42.37803145111226,
+      "lon": -71.04001710332491
+    }
+  },
+  {
+    "transaction_id": "tx_114",
+    "date": "2026-03-12T03:06:58Z",
+    "merchant": "Allowance",
+    "category": "Income/Passive",
+    "amount": 712.68,
+    "type": "income",
+    "description": "Purchase at Allowance under Income/Passive",
+    "location": {
+      "lat": 42.36606037957735,
+      "lon": -71.04335708848294
+    }
+  },
+  {
+    "transaction_id": "tx_115",
+    "date": "2026-04-20T14:03:58Z",
+    "merchant": "Internet Service",
+    "category": "Housing/Utilities",
+    "amount": 96.86,
+    "type": "expense",
+    "description": "Purchase at Internet Service under Housing/Utilities",
+    "location": {
+      "lat": 42.35391844225179,
+      "lon": -71.0666676642534
+    }
+  },
+  {
+    "transaction_id": "tx_116",
+    "date": "2026-04-01T01:17:58Z",
+    "merchant": "Part-time Job Stipend",
+    "category": "Income/Passive",
+    "amount": 1036.39,
+    "type": "income",
+    "description": "Purchase at Part-time Job Stipend under Income/Passive",
+    "location": {
+      "lat": 42.35981876083858,
+      "lon": -71.05349665852034
+    }
+  },
+  {
+    "transaction_id": "tx_117",
+    "date": "2026-02-28T21:49:58Z",
+    "merchant": "Concert Ticket",
+    "category": "Entertainment",
+    "amount": 9.84,
+    "type": "expense",
+    "description": "Purchase at Concert Ticket under Entertainment",
+    "location": {
+      "lat": 42.35293095145104,
+      "lon": -71.04119261092767
+    }
+  },
+  {
+    "transaction_id": "tx_118",
+    "date": "2026-02-18T09:28:58Z",
+    "merchant": "Concert Ticket",
+    "category": "Entertainment",
+    "amount": 124.53,
+    "type": "expense",
+    "description": "Purchase at Concert Ticket under Entertainment",
+    "location": {
+      "lat": 42.36170374377429,
+      "lon": -71.06347009716802
+    }
+  },
+  {
+    "transaction_id": "tx_119",
+    "date": "2026-04-22T08:01:58Z",
+    "merchant": "Water Utility",
+    "category": "Housing/Utilities",
+    "amount": 95.09,
+    "type": "expense",
+    "description": "Purchase at Water Utility under Housing/Utilities",
+    "location": {
+      "lat": 42.370399621442445,
+      "lon": -71.07185767046599
+    }
+  },
+  {
+    "transaction_id": "tx_120",
+    "date": "2026-04-15T10:04:58Z",
+    "merchant": "Gas Station",
+    "category": "Transportation",
+    "amount": 139.48,
+    "type": "expense",
+    "description": "Purchase at Gas Station under Transportation",
+    "location": {
+      "lat": 42.34485704333451,
+      "lon": -71.04107412736714
+    }
+  },
+  {
+    "transaction_id": "tx_121",
+    "date": "2026-03-29T04:33:58Z",
+    "merchant": "Gas Station",
+    "category": "Transportation",
+    "amount": 107.77,
+    "type": "expense",
+    "description": "Purchase at Gas Station under Transportation",
+    "location": {
+      "lat": 42.36209005636215,
+      "lon": -71.07627163194874
+    }
+  },
+  {
+    "transaction_id": "tx_122",
+    "date": "2026-05-10T16:04:58Z",
+    "merchant": "Boba Tea",
+    "category": "Food/Dining",
+    "amount": 142.3,
+    "type": "expense",
+    "description": "Purchase at Boba Tea under Food/Dining",
+    "location": {
+      "lat": 42.377306122397364,
+      "lon": -71.06832553758953
+    }
+  },
+  {
+    "transaction_id": "tx_123",
+    "date": "2026-04-20T02:48:58Z",
+    "merchant": "Allowance",
+    "category": "Income/Passive",
+    "amount": 527.81,
+    "type": "income",
+    "description": "Purchase at Allowance under Income/Passive",
+    "location": {
+      "lat": 42.35827145890929,
+      "lon": -71.07421432126057
+    }
+  },
+  {
+    "transaction_id": "tx_124",
+    "date": "2026-03-25T00:54:58Z",
+    "merchant": "Electric Bill",
+    "category": "Housing/Utilities",
+    "amount": 130.22,
+    "type": "expense",
+    "description": "Purchase at Electric Bill under Housing/Utilities",
+    "location": {
+      "lat": 42.3773699357473,
+      "lon": -71.05969049296762
+    }
+  },
+  {
+    "transaction_id": "tx_125",
+    "date": "2026-05-04T06:15:58Z",
+    "merchant": "Starbucks",
+    "category": "Food/Dining",
+    "amount": 110.14,
+    "type": "expense",
+    "description": "Purchase at Starbucks under Food/Dining",
+    "location": {
+      "lat": 42.35958561386623,
+      "lon": -71.07405618326469
+    }
+  },
+  {
+    "transaction_id": "tx_126",
+    "date": "2026-04-29T04:57:58Z",
+    "merchant": "Train Ticket",
+    "category": "Transportation",
+    "amount": 54.72,
+    "type": "expense",
+    "description": "Purchase at Train Ticket under Transportation",
+    "location": {
+      "lat": 42.35821378467466,
+      "lon": -71.06712890599084
+    }
+  },
+  {
+    "transaction_id": "tx_127",
+    "date": "2026-03-19T00:35:58Z",
+    "merchant": "Electric Bill",
+    "category": "Housing/Utilities",
+    "amount": 87.7,
+    "type": "expense",
+    "description": "Purchase at Electric Bill under Housing/Utilities",
+    "location": {
+      "lat": 42.35272705308935,
+      "lon": -71.06108094999038
+    }
+  },
+  {
+    "transaction_id": "tx_128",
+    "date": "2026-05-11T16:04:58Z",
+    "merchant": "Movie Theater",
+    "category": "Entertainment",
+    "amount": 148.31,
+    "type": "expense",
+    "description": "Purchase at Movie Theater under Entertainment",
+    "location": {
+      "lat": 42.37859297753484,
+      "lon": -71.07495014920762
+    }
+  },
+  {
+    "transaction_id": "tx_129",
+    "date": "2026-04-14T15:06:58Z",
+    "merchant": "Subway Pass",
+    "category": "Transportation",
+    "amount": 131.04,
+    "type": "expense",
+    "description": "Purchase at Subway Pass under Transportation",
+    "location": {
+      "lat": 42.37641766710786,
+      "lon": -71.07938609608338
+    }
+  },
+  {
+    "transaction_id": "tx_130",
+    "date": "2026-03-08T14:03:58Z",
+    "merchant": "Internet Service",
+    "category": "Housing/Utilities",
+    "amount": 131.22,
+    "type": "expense",
+    "description": "Purchase at Internet Service under Housing/Utilities",
+    "location": {
+      "lat": 42.37126101165092,
+      "lon": -71.06939908881826
+    }
+  },
+  {
+    "transaction_id": "tx_131",
+    "date": "2026-04-01T09:27:58Z",
+    "merchant": "Train Ticket",
+    "category": "Transportation",
+    "amount": 99.05,
+    "type": "expense",
+    "description": "Purchase at Train Ticket under Transportation",
+    "location": {
+      "lat": 42.36134489249588,
+      "lon": -71.0418344162951
+    }
+  },
+  {
+    "transaction_id": "tx_132",
+    "date": "2026-02-22T06:37:58Z",
+    "merchant": "Stock Dividend",
+    "category": "Income/Passive",
+    "amount": 1053.24,
+    "type": "income",
+    "description": "Purchase at Stock Dividend under Income/Passive",
+    "location": {
+      "lat": 42.349390809724085,
+      "lon": -71.05262401702377
+    }
+  },
+  {
+    "transaction_id": "tx_133",
+    "date": "2026-04-13T15:21:58Z",
+    "merchant": "Tuition Installment",
+    "category": "Education",
+    "amount": 113.15,
+    "type": "expense",
+    "description": "Purchase at Tuition Installment under Education",
+    "location": {
+      "lat": 42.365349913151235,
+      "lon": -71.04509683069573
+    }
+  },
+  {
+    "transaction_id": "tx_134",
+    "date": "2026-02-20T12:53:58Z",
+    "merchant": "Spotify",
+    "category": "Entertainment",
+    "amount": 105.48,
+    "type": "expense",
+    "description": "Purchase at Spotify under Entertainment",
+    "location": {
+      "lat": 42.37184573860649,
+      "lon": -71.0682652889614
+    }
+  },
+  {
+    "transaction_id": "tx_135",
+    "date": "2026-04-26T01:09:58Z",
+    "merchant": "Online Course Sub",
+    "category": "Education",
+    "amount": 25.68,
+    "type": "expense",
+    "description": "Purchase at Online Course Sub under Education",
+    "location": {
+      "lat": 42.36727201485411,
+      "lon": -71.07279772455395
+    }
+  },
+  {
+    "transaction_id": "tx_136",
+    "date": "2026-05-07T00:12:58Z",
+    "merchant": "Monthly Rent Payment",
+    "category": "Housing/Utilities",
+    "amount": 850.0,
+    "type": "expense",
+    "description": "Purchase at Monthly Rent Payment under Housing/Utilities",
+    "location": {
+      "lat": 42.36732538319851,
+      "lon": -71.06009330990528
+    }
+  },
+  {
+    "transaction_id": "tx_137",
+    "date": "2026-05-09T20:02:58Z",
+    "merchant": "Gas Station",
+    "category": "Transportation",
+    "amount": 38.28,
+    "type": "expense",
+    "description": "Purchase at Gas Station under Transportation",
+    "location": {
+      "lat": 42.35021306832637,
+      "lon": -71.0796241027418
+    }
+  },
+  {
+    "transaction_id": "tx_138",
+    "date": "2026-03-09T14:01:58Z",
+    "merchant": "Steam Games",
+    "category": "Entertainment",
+    "amount": 103.09,
+    "type": "expense",
+    "description": "Purchase at Steam Games under Entertainment",
+    "location": {
+      "lat": 42.37780942539739,
+      "lon": -71.04049393219127
+    }
+  },
+  {
+    "transaction_id": "tx_139",
+    "date": "2026-04-16T20:45:58Z",
+    "merchant": "Online Course Sub",
+    "category": "Education",
+    "amount": 104.94,
+    "type": "expense",
+    "description": "Purchase at Online Course Sub under Education",
+    "location": {
+      "lat": 42.37997494262001,
+      "lon": -71.0458665816536
+    }
+  },
+  {
+    "transaction_id": "tx_140",
+    "date": "2026-04-04T05:51:58Z",
+    "merchant": "Campus Cafeteria",
+    "category": "Food/Dining",
+    "amount": 59.99,
+    "type": "expense",
+    "description": "Purchase at Campus Cafeteria under Food/Dining",
+    "location": {
+      "lat": 42.37970768174508,
+      "lon": -71.06819076984468
+    }
+  },
+  {
+    "transaction_id": "tx_141",
+    "date": "2026-05-01T09:22:58Z",
+    "merchant": "Stock Dividend",
+    "category": "Income/Passive",
+    "amount": 365.65,
+    "type": "income",
+    "description": "Purchase at Stock Dividend under Income/Passive",
+    "location": {
+      "lat": 42.369786753646615,
+      "lon": -71.07803822996895
+    }
+  },
+  {
+    "transaction_id": "tx_142",
+    "date": "2026-03-25T19:11:58Z",
+    "merchant": "Train Ticket",
+    "category": "Transportation",
+    "amount": 125.68,
+    "type": "expense",
+    "description": "Purchase at Train Ticket under Transportation",
+    "location": {
+      "lat": 42.372077278301816,
+      "lon": -71.07123981844288
+    }
+  },
+  {
+    "transaction_id": "tx_143",
+    "date": "2026-05-13T09:26:58Z",
+    "merchant": "Water Utility",
+    "category": "Housing/Utilities",
+    "amount": 103.11,
+    "type": "expense",
+    "description": "Purchase at Water Utility under Housing/Utilities",
+    "location": {
+      "lat": 42.34547116953977,
+      "lon": -71.07611344280737
+    }
+  },
+  {
+    "transaction_id": "tx_144",
+    "date": "2026-04-14T13:10:58Z",
+    "merchant": "Part-time Job Stipend",
+    "category": "Income/Passive",
+    "amount": 405.27,
+    "type": "income",
+    "description": "Purchase at Part-time Job Stipend under Income/Passive",
+    "location": {
+      "lat": 42.35459444932114,
+      "lon": -71.07474352774318
+    }
+  },
+  {
+    "transaction_id": "tx_145",
+    "date": "2026-03-11T17:41:58Z",
+    "merchant": "Lab Fees",
+    "category": "Education",
+    "amount": 113.26,
+    "type": "expense",
+    "description": "Purchase at Lab Fees under Education",
+    "location": {
+      "lat": 42.371460512441224,
+      "lon": -71.04494157613173
+    }
+  },
+  {
+    "transaction_id": "tx_146",
+    "date": "2026-03-22T03:24:58Z",
+    "merchant": "Lab Fees",
+    "category": "Education",
+    "amount": 125.33,
+    "type": "expense",
+    "description": "Purchase at Lab Fees under Education",
+    "location": {
+      "lat": 42.3518056579669,
+      "lon": -71.045184121627
+    }
+  },
+  {
+    "transaction_id": "tx_147",
+    "date": "2026-03-07T19:28:58Z",
+    "merchant": "Boba Tea",
+    "category": "Food/Dining",
+    "amount": 144.6,
+    "type": "expense",
+    "description": "Purchase at Boba Tea under Food/Dining",
+    "location": {
+      "lat": 42.36705294898874,
+      "lon": -71.053023750788
+    }
+  },
+  {
+    "transaction_id": "tx_148",
+    "date": "2026-04-08T11:49:58Z",
+    "merchant": "Concert Ticket",
+    "category": "Entertainment",
+    "amount": 57.72,
+    "type": "expense",
+    "description": "Purchase at Concert Ticket under Entertainment",
+    "location": {
+      "lat": 42.36146289233076,
+      "lon": -71.06180855889065
+    }
+  },
+  {
+    "transaction_id": "tx_149",
+    "date": "2026-05-09T22:39:58Z",
+    "merchant": "Allowance",
+    "category": "Income/Passive",
+    "amount": 722.24,
+    "type": "income",
+    "description": "Purchase at Allowance under Income/Passive",
+    "location": {
+      "lat": 42.366993462215014,
+      "lon": -71.06114092528074
+    }
+  },
+  {
+    "transaction_id": "tx_150",
+    "date": "2026-03-18T07:37:58Z",
+    "merchant": "Subway Pass",
+    "category": "Transportation",
+    "amount": 137.67,
+    "type": "expense",
+    "description": "Purchase at Subway Pass under Transportation",
+    "location": {
+      "lat": 42.36541615689512,
+      "lon": -71.0614292985471
+    }
+  },
+  {
+    "transaction_id": "tx_151",
+    "date": "2026-03-03T15:35:58Z",
+    "merchant": "Allowance",
+    "category": "Income/Passive",
+    "amount": 796.63,
+    "type": "income",
+    "description": "Purchase at Allowance under Income/Passive",
+    "location": {
+      "lat": 42.37785046131528,
+      "lon": -71.06782541662577
+    }
+  },
+  {
+    "transaction_id": "tx_152",
+    "date": "2026-04-26T15:57:58Z",
+    "merchant": "Netflix",
+    "category": "Entertainment",
+    "amount": 18.64,
+    "type": "expense",
+    "description": "Purchase at Netflix under Entertainment",
+    "location": {
+      "lat": 42.35814575027556,
+      "lon": -71.053180551246
+    }
+  },
+  {
+    "transaction_id": "tx_153",
+    "date": "2026-03-09T01:14:58Z",
+    "merchant": "Stock Dividend",
+    "category": "Income/Passive",
+    "amount": 725.44,
+    "type": "income",
+    "description": "Purchase at Stock Dividend under Income/Passive",
+    "location": {
+      "lat": 42.343960865388425,
+      "lon": -71.06042611848842
+    }
+  },
+  {
+    "transaction_id": "tx_154",
+    "date": "2026-04-05T18:01:58Z",
+    "merchant": "Steam Games",
+    "category": "Entertainment",
+    "amount": 9.26,
+    "type": "expense",
+    "description": "Purchase at Steam Games under Entertainment",
+    "location": {
+      "lat": 42.35778783439117,
+      "lon": -71.07055549447077
+    }
+  },
+  {
+    "transaction_id": "tx_155",
+    "date": "2026-04-06T05:30:58Z",
+    "merchant": "University Bookstore",
+    "category": "Education",
+    "amount": 147.22,
+    "type": "expense",
+    "description": "Purchase at University Bookstore under Education",
+    "location": {
+      "lat": 42.379113701178085,
+      "lon": -71.06565304635151
+    }
+  },
+  {
+    "transaction_id": "tx_156",
+    "date": "2026-03-05T01:38:58Z",
+    "merchant": "Steam Games",
+    "category": "Entertainment",
+    "amount": 32.12,
+    "type": "expense",
+    "description": "Purchase at Steam Games under Entertainment",
+    "location": {
+      "lat": 42.36651074952248,
+      "lon": -71.05433182131067
+    }
+  },
+  {
+    "transaction_id": "tx_157",
+    "date": "2026-03-31T18:41:58Z",
+    "merchant": "Uber/Lyft",
+    "category": "Transportation",
+    "amount": 11.86,
+    "type": "expense",
+    "description": "Purchase at Uber/Lyft under Transportation",
+    "location": {
+      "lat": 42.37147912399906,
+      "lon": -71.07179177699429
+    }
+  },
+  {
+    "transaction_id": "tx_158",
+    "date": "2026-03-18T22:22:58Z",
+    "merchant": "Gas Station",
+    "category": "Transportation",
+    "amount": 89.82,
+    "type": "expense",
+    "description": "Purchase at Gas Station under Transportation",
+    "location": {
+      "lat": 42.345902167197664,
+      "lon": -71.04397875857474
+    }
+  },
+  {
+    "transaction_id": "tx_159",
+    "date": "2026-03-07T16:07:58Z",
+    "merchant": "Starbucks",
+    "category": "Food/Dining",
+    "amount": 129.4,
+    "type": "expense",
+    "description": "Purchase at Starbucks under Food/Dining",
+    "location": {
+      "lat": 42.35002616786913,
+      "lon": -71.07302011516394
+    }
+  },
+  {
+    "transaction_id": "tx_160",
+    "date": "2026-04-03T19:10:58Z",
+    "merchant": "Part-time Job Stipend",
+    "category": "Income/Passive",
+    "amount": 201.57,
+    "type": "income",
+    "description": "Purchase at Part-time Job Stipend under Income/Passive",
+    "location": {
+      "lat": 42.352950858478486,
+      "lon": -71.07303015194375
+    }
+  },
+  {
+    "transaction_id": "tx_161",
+    "date": "2026-04-25T15:20:58Z",
+    "merchant": "Campus Cafeteria",
+    "category": "Food/Dining",
+    "amount": 112.42,
+    "type": "expense",
+    "description": "Purchase at Campus Cafeteria under Food/Dining",
+    "location": {
+      "lat": 42.34254232152589,
+      "lon": -71.0620689914292
+    }
+  },
+  {
+    "transaction_id": "tx_162",
+    "date": "2026-03-18T06:35:58Z",
+    "merchant": "University Bookstore",
+    "category": "Education",
+    "amount": 70.27,
+    "type": "expense",
+    "description": "Purchase at University Bookstore under Education",
+    "location": {
+      "lat": 42.36908971988655,
+      "lon": -71.04364993248375
+    }
+  },
+  {
+    "transaction_id": "tx_163",
+    "date": "2026-02-20T13:03:58Z",
+    "merchant": "Allowance",
+    "category": "Income/Passive",
+    "amount": 576.75,
+    "type": "income",
+    "description": "Purchase at Allowance under Income/Passive",
+    "location": {
+      "lat": 42.37389194172669,
+      "lon": -71.0629490552288
+    }
+  },
+  {
+    "transaction_id": "tx_164",
+    "date": "2026-04-14T14:30:58Z",
+    "merchant": "Boba Tea",
+    "category": "Food/Dining",
+    "amount": 108.15,
+    "type": "expense",
+    "description": "Purchase at Boba Tea under Food/Dining",
+    "location": {
+      "lat": 42.343231619096436,
+      "lon": -71.05566810305467
+    }
+  },
+  {
+    "transaction_id": "tx_165",
+    "date": "2026-05-10T06:08:58Z",
+    "merchant": "Campus Cafeteria",
+    "category": "Food/Dining",
+    "amount": 44.51,
+    "type": "expense",
+    "description": "Purchase at Campus Cafeteria under Food/Dining",
+    "location": {
+      "lat": 42.36848611185705,
+      "lon": -71.06476382404726
+    }
+  },
+  {
+    "transaction_id": "tx_166",
+    "date": "2026-05-06T00:39:58Z",
+    "merchant": "Subway Pass",
+    "category": "Transportation",
+    "amount": 70.52,
+    "type": "expense",
+    "description": "Purchase at Subway Pass under Transportation",
+    "location": {
+      "lat": 42.37172384372407,
+      "lon": -71.0754234371028
+    }
+  },
+  {
+    "transaction_id": "tx_167",
+    "date": "2026-03-19T00:54:58Z",
+    "merchant": "Freelance Coding Contract",
+    "category": "Income/Passive",
+    "amount": 544.58,
+    "type": "income",
+    "description": "Purchase at Freelance Coding Contract under Income/Passive",
+    "location": {
+      "lat": 42.3730967689912,
+      "lon": -71.06405079262973
+    }
+  },
+  {
+    "transaction_id": "tx_168",
+    "date": "2026-03-30T08:49:58Z",
+    "merchant": "Part-time Job Stipend",
+    "category": "Income/Passive",
+    "amount": 409.43,
+    "type": "income",
+    "description": "Purchase at Part-time Job Stipend under Income/Passive",
+    "location": {
+      "lat": 42.354972040937426,
+      "lon": -71.07389444300925
+    }
+  },
+  {
+    "transaction_id": "tx_169",
+    "date": "2026-02-27T14:00:58Z",
+    "merchant": "Netflix",
+    "category": "Entertainment",
+    "amount": 17.77,
+    "type": "expense",
+    "description": "Purchase at Netflix under Entertainment",
+    "location": {
+      "lat": 42.34386257730264,
+      "lon": -71.05044816006045
+    }
+  },
+  {
+    "transaction_id": "tx_170",
+    "date": "2026-05-04T05:08:58Z",
+    "merchant": "Monthly Rent Payment",
+    "category": "Housing/Utilities",
+    "amount": 850.0,
+    "type": "expense",
+    "description": "Purchase at Monthly Rent Payment under Housing/Utilities",
+    "location": {
+      "lat": 42.35318583925665,
+      "lon": -71.07511074858581
+    }
+  },
+  {
+    "transaction_id": "tx_171",
+    "date": "2026-02-23T21:11:58Z",
+    "merchant": "Online Course Sub",
+    "category": "Education",
+    "amount": 130.81,
+    "type": "expense",
+    "description": "Purchase at Online Course Sub under Education",
+    "location": {
+      "lat": 42.35249795596351,
+      "lon": -71.07585597736302
+    }
+  },
+  {
+    "transaction_id": "tx_172",
+    "date": "2026-04-19T19:27:58Z",
+    "merchant": "Gas Station",
+    "category": "Transportation",
+    "amount": 27.01,
+    "type": "expense",
+    "description": "Purchase at Gas Station under Transportation",
+    "location": {
+      "lat": 42.344328735277095,
+      "lon": -71.04618506325595
+    }
+  },
+  {
+    "transaction_id": "tx_173",
+    "date": "2026-05-01T19:24:58Z",
+    "merchant": "University Bookstore",
+    "category": "Education",
+    "amount": 115.46,
+    "type": "expense",
+    "description": "Purchase at University Bookstore under Education",
+    "location": {
+      "lat": 42.357164496435274,
+      "lon": -71.05756137193008
+    }
+  },
+  {
+    "transaction_id": "tx_174",
+    "date": "2026-05-13T09:50:58Z",
+    "merchant": "Uber/Lyft",
+    "category": "Transportation",
+    "amount": 93.11,
+    "type": "expense",
+    "description": "Purchase at Uber/Lyft under Transportation",
+    "location": {
+      "lat": 42.34115812724245,
+      "lon": -71.0690691844515
+    }
+  },
+  {
+    "transaction_id": "tx_175",
+    "date": "2026-03-12T16:09:58Z",
+    "merchant": "Lab Fees",
+    "category": "Education",
+    "amount": 55.57,
+    "type": "expense",
+    "description": "Purchase at Lab Fees under Education",
+    "location": {
+      "lat": 42.366293785393474,
+      "lon": -71.07721658315006
+    }
+  },
+  {
+    "transaction_id": "tx_176",
+    "date": "2026-04-25T17:57:58Z",
+    "merchant": "Part-time Job Stipend",
+    "category": "Income/Passive",
+    "amount": 155.52,
+    "type": "income",
+    "description": "Purchase at Part-time Job Stipend under Income/Passive",
+    "location": {
+      "lat": 42.356793299750585,
+      "lon": -71.06636416072922
+    }
+  },
+  {
+    "transaction_id": "tx_177",
+    "date": "2026-05-01T06:38:58Z",
+    "merchant": "Lab Fees",
+    "category": "Education",
+    "amount": 109.49,
+    "type": "expense",
+    "description": "Purchase at Lab Fees under Education",
+    "location": {
+      "lat": 42.37533368738074,
+      "lon": -71.07377680386382
+    }
+  },
+  {
+    "transaction_id": "tx_178",
+    "date": "2026-03-24T02:15:58Z",
+    "merchant": "Uber/Lyft",
+    "category": "Transportation",
+    "amount": 102.56,
+    "type": "expense",
+    "description": "Purchase at Uber/Lyft under Transportation",
+    "location": {
+      "lat": 42.35696059092452,
+      "lon": -71.05571695970237
+    }
+  },
+  {
+    "transaction_id": "tx_179",
+    "date": "2026-04-23T14:55:58Z",
+    "merchant": "Steam Games",
+    "category": "Entertainment",
+    "amount": 35.87,
+    "type": "expense",
+    "description": "Purchase at Steam Games under Entertainment",
+    "location": {
+      "lat": 42.35719654533592,
+      "lon": -71.06867014119678
+    }
+  },
+  {
+    "transaction_id": "tx_180",
+    "date": "2026-03-28T12:47:58Z",
+    "merchant": "Stock Dividend",
+    "category": "Income/Passive",
+    "amount": 655.97,
+    "type": "income",
+    "description": "Purchase at Stock Dividend under Income/Passive",
+    "location": {
+      "lat": 42.35581053584351,
+      "lon": -71.05602700172223
+    }
+  },
+  {
+    "transaction_id": "tx_181",
+    "date": "2026-03-16T16:21:58Z",
+    "merchant": "Campus Cafeteria",
+    "category": "Food/Dining",
+    "amount": 48.36,
+    "type": "expense",
+    "description": "Purchase at Campus Cafeteria under Food/Dining",
+    "location": {
+      "lat": 42.35022078016086,
+      "lon": -71.06687510576249
+    }
+  },
+  {
+    "transaction_id": "tx_182",
+    "date": "2026-03-11T15:57:58Z",
+    "merchant": "Boba Tea",
+    "category": "Food/Dining",
+    "amount": 113.19,
+    "type": "expense",
+    "description": "Purchase at Boba Tea under Food/Dining",
+    "location": {
+      "lat": 42.3613032939147,
+      "lon": -71.07079557135694
+    }
+  },
+  {
+    "transaction_id": "tx_183",
+    "date": "2026-02-23T00:34:58Z",
+    "merchant": "Subway Pass",
+    "category": "Transportation",
+    "amount": 14.99,
+    "type": "expense",
+    "description": "Purchase at Subway Pass under Transportation",
+    "location": {
+      "lat": 42.35839017001425,
+      "lon": -71.07688549552496
+    }
+  },
+  {
+    "transaction_id": "tx_184",
+    "date": "2026-05-19T07:59:58Z",
+    "merchant": "Online Course Sub",
+    "category": "Education",
+    "amount": 87.93,
+    "type": "expense",
+    "description": "Purchase at Online Course Sub under Education",
+    "location": {
+      "lat": 42.351580608223436,
+      "lon": -71.06379870771741
+    }
+  },
+  {
+    "transaction_id": "tx_185",
+    "date": "2026-05-08T02:26:58Z",
+    "merchant": "Tuition Installment",
+    "category": "Education",
+    "amount": 121.09,
+    "type": "expense",
+    "description": "Purchase at Tuition Installment under Education",
+    "location": {
+      "lat": 42.367584401643214,
+      "lon": -71.06552589235064
+    }
+  },
+  {
+    "transaction_id": "tx_186",
+    "date": "2026-05-04T00:06:58Z",
+    "merchant": "Netflix",
+    "category": "Entertainment",
+    "amount": 39.9,
+    "type": "expense",
+    "description": "Purchase at Netflix under Entertainment",
+    "location": {
+      "lat": 42.34314588349932,
+      "lon": -71.04517902335219
+    }
+  },
+  {
+    "transaction_id": "tx_187",
+    "date": "2026-03-10T14:05:58Z",
+    "merchant": "Allowance",
+    "category": "Income/Passive",
+    "amount": 304.81,
+    "type": "income",
+    "description": "Purchase at Allowance under Income/Passive",
+    "location": {
+      "lat": 42.36532898667873,
+      "lon": -71.0587758071691
+    }
+  },
+  {
+    "transaction_id": "tx_188",
+    "date": "2026-05-10T15:48:58Z",
+    "merchant": "Water Utility",
+    "category": "Housing/Utilities",
+    "amount": 55.59,
+    "type": "expense",
+    "description": "Purchase at Water Utility under Housing/Utilities",
+    "location": {
+      "lat": 42.344112181111115,
+      "lon": -71.06976127111993
+    }
+  },
+  {
+    "transaction_id": "tx_189",
+    "date": "2026-05-11T13:44:58Z",
+    "merchant": "Electric Bill",
+    "category": "Housing/Utilities",
+    "amount": 115.11,
+    "type": "expense",
+    "description": "Purchase at Electric Bill under Housing/Utilities",
+    "location": {
+      "lat": 42.378051685623184,
+      "lon": -71.05488204911526
+    }
+  },
+  {
+    "transaction_id": "tx_190",
+    "date": "2026-04-16T09:32:58Z",
+    "merchant": "Concert Ticket",
+    "category": "Entertainment",
+    "amount": 115.06,
+    "type": "expense",
+    "description": "Purchase at Concert Ticket under Entertainment",
+    "location": {
+      "lat": 42.37528192626372,
+      "lon": -71.05428032677314
+    }
+  },
+  {
+    "transaction_id": "tx_191",
+    "date": "2026-05-08T21:42:58Z",
+    "merchant": "Subway Pass",
+    "category": "Transportation",
+    "amount": 130.25,
+    "type": "expense",
+    "description": "Purchase at Subway Pass under Transportation",
+    "location": {
+      "lat": 42.35759051265368,
+      "lon": -71.06124315665895
+    }
+  },
+  {
+    "transaction_id": "tx_192",
+    "date": "2026-05-03T12:55:58Z",
+    "merchant": "Allowance",
+    "category": "Income/Passive",
+    "amount": 965.78,
+    "type": "income",
+    "description": "Purchase at Allowance under Income/Passive",
+    "location": {
+      "lat": 42.360293475411595,
+      "lon": -71.06758368597575
+    }
+  },
+  {
+    "transaction_id": "tx_193",
+    "date": "2026-03-25T14:14:58Z",
+    "merchant": "Netflix",
+    "category": "Entertainment",
+    "amount": 12.78,
+    "type": "expense",
+    "description": "Purchase at Netflix under Entertainment",
+    "location": {
+      "lat": 42.374570001357014,
+      "lon": -71.04578826514177
+    }
+  },
+  {
+    "transaction_id": "tx_194",
+    "date": "2026-04-29T11:30:58Z",
+    "merchant": "Train Ticket",
+    "category": "Transportation",
+    "amount": 71.82,
+    "type": "expense",
+    "description": "Purchase at Train Ticket under Transportation",
+    "location": {
+      "lat": 42.34164090855412,
+      "lon": -71.04363800173707
+    }
+  },
+  {
+    "transaction_id": "tx_195",
+    "date": "2026-04-19T03:42:58Z",
+    "merchant": "Gas Station",
+    "category": "Transportation",
+    "amount": 51.28,
+    "type": "expense",
+    "description": "Purchase at Gas Station under Transportation",
+    "location": {
+      "lat": 42.37830889435467,
+      "lon": -71.0619790756394
+    }
+  },
+  {
+    "transaction_id": "tx_196",
+    "date": "2026-03-11T12:48:58Z",
+    "merchant": "University Bookstore",
+    "category": "Education",
+    "amount": 77.91,
+    "type": "expense",
+    "description": "Purchase at University Bookstore under Education",
+    "location": {
+      "lat": 42.368304868172935,
+      "lon": -71.04036055909413
+    }
+  },
+  {
+    "transaction_id": "tx_197",
+    "date": "2026-03-25T23:59:58Z",
+    "merchant": "Gas Station",
+    "category": "Transportation",
+    "amount": 57.45,
+    "type": "expense",
+    "description": "Purchase at Gas Station under Transportation",
+    "location": {
+      "lat": 42.37097859154295,
+      "lon": -71.05284409117762
+    }
+  },
+  {
+    "transaction_id": "tx_198",
+    "date": "2026-02-25T21:39:58Z",
+    "merchant": "McDonalds",
+    "category": "Food/Dining",
+    "amount": 98.68,
+    "type": "expense",
+    "description": "Purchase at McDonalds under Food/Dining",
+    "location": {
+      "lat": 42.362318528496736,
+      "lon": -71.06453743181105
+    }
+  },
+  {
+    "transaction_id": "tx_199",
+    "date": "2026-05-03T08:42:58Z",
+    "merchant": "Tuition Installment",
+    "category": "Education",
+    "amount": 53.0,
+    "type": "expense",
+    "description": "Purchase at Tuition Installment under Education",
+    "location": {
+      "lat": 42.376669858202284,
+      "lon": -71.06759073049793
+    }
+  },
+  {
+    "transaction_id": "tx_200",
+    "date": "2026-05-18T13:52:58Z",
+    "merchant": "Stock Dividend",
+    "category": "Income/Passive",
+    "amount": 198.29,
+    "type": "income",
+    "description": "Purchase at Stock Dividend under Income/Passive",
+    "location": {
+      "lat": 42.362356882803645,
+      "lon": -71.05426026946554
+    }
+  },
+  {
+    "transaction_id": "tx_201",
+    "date": "2026-05-16T03:38:58Z",
+    "merchant": "Tuition Installment",
+    "category": "Education",
+    "amount": 102.0,
+    "type": "expense",
+    "description": "Purchase at Tuition Installment under Education",
+    "location": {
+      "lat": 42.36584099282934,
+      "lon": -71.06306374534712
+    }
+  },
+  {
+    "transaction_id": "tx_202",
+    "date": "2026-03-12T17:54:58Z",
+    "merchant": "University Bookstore",
+    "category": "Education",
+    "amount": 57.26,
+    "type": "expense",
+    "description": "Purchase at University Bookstore under Education",
+    "location": {
+      "lat": 42.377906730701376,
+      "lon": -71.06054916316509
+    }
+  },
+  {
+    "transaction_id": "tx_203",
+    "date": "2026-03-26T15:05:58Z",
+    "merchant": "Electric Bill",
+    "category": "Housing/Utilities",
+    "amount": 27.04,
+    "type": "expense",
+    "description": "Purchase at Electric Bill under Housing/Utilities",
+    "location": {
+      "lat": 42.37083498881453,
+      "lon": -71.04659520693463
+    }
+  },
+  {
+    "transaction_id": "tx_204",
+    "date": "2026-05-07T16:11:58Z",
+    "merchant": "Uber/Lyft",
+    "category": "Transportation",
+    "amount": 100.81,
+    "type": "expense",
+    "description": "Purchase at Uber/Lyft under Transportation",
+    "location": {
+      "lat": 42.3550687948329,
+      "lon": -71.07351011151646
+    }
+  },
+  {
+    "transaction_id": "tx_205",
+    "date": "2026-02-23T00:56:58Z",
+    "merchant": "Freelance Coding Contract",
+    "category": "Income/Passive",
+    "amount": 879.36,
+    "type": "income",
+    "description": "Purchase at Freelance Coding Contract under Income/Passive",
+    "location": {
+      "lat": 42.36705451688754,
+      "lon": -71.07049879194213
+    }
+  },
+  {
+    "transaction_id": "tx_206",
+    "date": "2026-04-15T19:07:58Z",
+    "merchant": "Concert Ticket",
+    "category": "Entertainment",
+    "amount": 45.96,
+    "type": "expense",
+    "description": "Purchase at Concert Ticket under Entertainment",
+    "location": {
+      "lat": 42.34956673988982,
+      "lon": -71.04137613451225
+    }
+  },
+  {
+    "transaction_id": "tx_207",
+    "date": "2026-05-02T02:02:58Z",
+    "merchant": "Spotify",
+    "category": "Entertainment",
+    "amount": 58.02,
+    "type": "expense",
+    "description": "Purchase at Spotify under Entertainment",
+    "location": {
+      "lat": 42.370777542079026,
+      "lon": -71.04887503851
+    }
+  },
+  {
+    "transaction_id": "tx_208",
+    "date": "2026-03-15T06:41:58Z",
+    "merchant": "Train Ticket",
+    "category": "Transportation",
+    "amount": 145.09,
+    "type": "expense",
+    "description": "Purchase at Train Ticket under Transportation",
+    "location": {
+      "lat": 42.374920076802375,
+      "lon": -71.07791280786955
+    }
+  },
+  {
+    "transaction_id": "tx_209",
+    "date": "2026-03-03T10:27:58Z",
+    "merchant": "Steam Games",
+    "category": "Entertainment",
+    "amount": 85.19,
+    "type": "expense",
+    "description": "Purchase at Steam Games under Entertainment",
+    "location": {
+      "lat": 42.360636375502104,
+      "lon": -71.07501288912145
+    }
+  },
+  {
+    "transaction_id": "tx_210",
+    "date": "2026-04-23T16:26:58Z",
+    "merchant": "Campus Cafeteria",
+    "category": "Food/Dining",
+    "amount": 44.19,
+    "type": "expense",
+    "description": "Purchase at Campus Cafeteria under Food/Dining",
+    "location": {
+      "lat": 42.357498902407805,
+      "lon": -71.04214346947954
+    }
+  },
+  {
+    "transaction_id": "tx_211",
+    "date": "2026-02-21T00:36:58Z",
+    "merchant": "Internet Service",
+    "category": "Housing/Utilities",
+    "amount": 133.21,
+    "type": "expense",
+    "description": "Purchase at Internet Service under Housing/Utilities",
+    "location": {
+      "lat": 42.355858158618815,
+      "lon": -71.06504154049284
+    }
+  },
+  {
+    "transaction_id": "tx_212",
+    "date": "2026-02-20T22:32:58Z",
+    "merchant": "Netflix",
+    "category": "Entertainment",
+    "amount": 59.05,
+    "type": "expense",
+    "description": "Purchase at Netflix under Entertainment",
+    "location": {
+      "lat": 42.343963324975725,
+      "lon": -71.05141182909908
+    }
+  },
+  {
+    "transaction_id": "tx_213",
+    "date": "2026-03-26T03:17:58Z",
+    "merchant": "Tuition Installment",
+    "category": "Education",
+    "amount": 24.52,
+    "type": "expense",
+    "description": "Purchase at Tuition Installment under Education",
+    "location": {
+      "lat": 42.37324441943729,
+      "lon": -71.04964635380938
+    }
+  },
+  {
+    "transaction_id": "tx_214",
+    "date": "2026-02-27T11:49:58Z",
+    "merchant": "Movie Theater",
+    "category": "Entertainment",
+    "amount": 94.03,
+    "type": "expense",
+    "description": "Purchase at Movie Theater under Entertainment",
+    "location": {
+      "lat": 42.348626189778734,
+      "lon": -71.07401921524144
+    }
+  },
+  {
+    "transaction_id": "tx_215",
+    "date": "2026-03-25T18:52:58Z",
+    "merchant": "Stock Dividend",
+    "category": "Income/Passive",
+    "amount": 177.86,
+    "type": "income",
+    "description": "Purchase at Stock Dividend under Income/Passive",
+    "location": {
+      "lat": 42.34487393380635,
+      "lon": -71.07046241986161
+    }
+  },
+  {
+    "transaction_id": "tx_216",
+    "date": "2026-04-22T07:07:58Z",
+    "merchant": "Stock Dividend",
+    "category": "Income/Passive",
+    "amount": 122.23,
+    "type": "income",
+    "description": "Purchase at Stock Dividend under Income/Passive",
+    "location": {
+      "lat": 42.34065741408824,
+      "lon": -71.05938497079163
+    }
+  },
+  {
+    "transaction_id": "tx_217",
+    "date": "2026-02-18T06:55:58Z",
+    "merchant": "Electric Bill",
+    "category": "Housing/Utilities",
+    "amount": 46.88,
+    "type": "expense",
+    "description": "Purchase at Electric Bill under Housing/Utilities",
+    "location": {
+      "lat": 42.34962256955227,
+      "lon": -71.06333729619166
+    }
+  },
+  {
+    "transaction_id": "tx_218",
+    "date": "2026-04-04T14:06:58Z",
+    "merchant": "Part-time Job Stipend",
+    "category": "Income/Passive",
+    "amount": 652.01,
+    "type": "income",
+    "description": "Purchase at Part-time Job Stipend under Income/Passive",
+    "location": {
+      "lat": 42.36176327839713,
+      "lon": -71.04854350656619
+    }
+  },
+  {
+    "transaction_id": "tx_219",
+    "date": "2026-04-18T13:13:58Z",
+    "merchant": "Uber/Lyft",
+    "category": "Transportation",
+    "amount": 61.31,
+    "type": "expense",
+    "description": "Purchase at Uber/Lyft under Transportation",
+    "location": {
+      "lat": 42.3554752528611,
+      "lon": -71.06506790451597
+    }
+  },
+  {
+    "transaction_id": "tx_220",
+    "date": "2026-02-25T22:48:58Z",
+    "merchant": "Part-time Job Stipend",
+    "category": "Income/Passive",
+    "amount": 460.66,
+    "type": "income",
+    "description": "Purchase at Part-time Job Stipend under Income/Passive",
+    "location": {
+      "lat": 42.36931764085803,
+      "lon": -71.05486972150098
+    }
+  },
+  {
+    "transaction_id": "tx_221",
+    "date": "2026-04-04T04:54:58Z",
+    "merchant": "Subway Pass",
+    "category": "Transportation",
+    "amount": 23.91,
+    "type": "expense",
+    "description": "Purchase at Subway Pass under Transportation",
+    "location": {
+      "lat": 42.372540354622245,
+      "lon": -71.07299643491793
+    }
+  },
+  {
+    "transaction_id": "tx_222",
+    "date": "2026-04-20T07:44:58Z",
+    "merchant": "Stock Dividend",
+    "category": "Income/Passive",
+    "amount": 1177.94,
+    "type": "income",
+    "description": "Purchase at Stock Dividend under Income/Passive",
+    "location": {
+      "lat": 42.37245990727391,
+      "lon": -71.0774759785187
+    }
+  },
+  {
+    "transaction_id": "tx_223",
+    "date": "2026-02-22T18:29:58Z",
+    "merchant": "Netflix",
+    "category": "Entertainment",
+    "amount": 47.2,
+    "type": "expense",
+    "description": "Purchase at Netflix under Entertainment",
+    "location": {
+      "lat": 42.34167623767722,
+      "lon": -71.04266516080199
+    }
+  },
+  {
+    "transaction_id": "tx_224",
+    "date": "2026-04-28T02:49:58Z",
+    "merchant": "Train Ticket",
+    "category": "Transportation",
+    "amount": 148.42,
+    "type": "expense",
+    "description": "Purchase at Train Ticket under Transportation",
+    "location": {
+      "lat": 42.34146483086148,
+      "lon": -71.05412398004798
+    }
+  },
+  {
+    "transaction_id": "tx_225",
+    "date": "2026-02-24T07:54:58Z",
+    "merchant": "Lab Fees",
+    "category": "Education",
+    "amount": 129.94,
+    "type": "expense",
+    "description": "Purchase at Lab Fees under Education",
+    "location": {
+      "lat": 42.350928664244556,
+      "lon": -71.04802630353927
+    }
+  },
+  {
+    "transaction_id": "tx_226",
+    "date": "2026-04-07T21:44:58Z",
+    "merchant": "Movie Theater",
+    "category": "Entertainment",
+    "amount": 112.65,
+    "type": "expense",
+    "description": "Purchase at Movie Theater under Entertainment",
+    "location": {
+      "lat": 42.35984812906148,
+      "lon": -71.06009906430026
+    }
+  },
+  {
+    "transaction_id": "tx_227",
+    "date": "2026-04-12T14:00:58Z",
+    "merchant": "Subway Pass",
+    "category": "Transportation",
+    "amount": 121.07,
+    "type": "expense",
+    "description": "Purchase at Subway Pass under Transportation",
+    "location": {
+      "lat": 42.36409813195321,
+      "lon": -71.0471063488184
+    }
+  },
+  {
+    "transaction_id": "tx_228",
+    "date": "2026-02-27T22:15:58Z",
+    "merchant": "Subway Pass",
+    "category": "Transportation",
+    "amount": 51.24,
+    "type": "expense",
+    "description": "Purchase at Subway Pass under Transportation",
+    "location": {
+      "lat": 42.351825597973615,
+      "lon": -71.06216336947601
+    }
+  },
+  {
+    "transaction_id": "tx_229",
+    "date": "2026-04-14T23:01:58Z",
+    "merchant": "Stock Dividend",
+    "category": "Income/Passive",
+    "amount": 241.64,
+    "type": "income",
+    "description": "Purchase at Stock Dividend under Income/Passive",
+    "location": {
+      "lat": 42.341694206514006,
+      "lon": -71.04519851299774
+    }
+  },
+  {
+    "transaction_id": "tx_230",
+    "date": "2026-02-24T14:15:58Z",
+    "merchant": "Online Course Sub",
+    "category": "Education",
+    "amount": 44.45,
+    "type": "expense",
+    "description": "Purchase at Online Course Sub under Education",
+    "location": {
+      "lat": 42.365500501515335,
+      "lon": -71.06546755477396
+    }
+  },
+  {
+    "transaction_id": "tx_231",
+    "date": "2026-03-08T07:16:58Z",
+    "merchant": "Freelance Coding Contract",
+    "category": "Income/Passive",
+    "amount": 1145.71,
+    "type": "income",
+    "description": "Purchase at Freelance Coding Contract under Income/Passive",
+    "location": {
+      "lat": 42.37125247878974,
+      "lon": -71.07860804136806
+    }
+  },
+  {
+    "transaction_id": "tx_232",
+    "date": "2026-04-04T22:57:58Z",
+    "merchant": "Campus Cafeteria",
+    "category": "Food/Dining",
+    "amount": 117.77,
+    "type": "expense",
+    "description": "Purchase at Campus Cafeteria under Food/Dining",
+    "location": {
+      "lat": 42.3779786844752,
+      "lon": -71.07870458704082
+    }
+  },
+  {
+    "transaction_id": "tx_233",
+    "date": "2026-04-06T02:21:58Z",
+    "merchant": "Internet Service",
+    "category": "Housing/Utilities",
+    "amount": 142.55,
+    "type": "expense",
+    "description": "Purchase at Internet Service under Housing/Utilities",
+    "location": {
+      "lat": 42.343075417153216,
+      "lon": -71.07449219568686
+    }
+  },
+  {
+    "transaction_id": "tx_234",
+    "date": "2026-03-24T18:40:58Z",
+    "merchant": "Online Course Sub",
+    "category": "Education",
+    "amount": 50.24,
+    "type": "expense",
+    "description": "Purchase at Online Course Sub under Education",
+    "location": {
+      "lat": 42.34103653363457,
+      "lon": -71.07255807802109
+    }
+  },
+  {
+    "transaction_id": "tx_235",
+    "date": "2026-03-04T20:22:58Z",
+    "merchant": "Train Ticket",
+    "category": "Transportation",
+    "amount": 137.42,
+    "type": "expense",
+    "description": "Purchase at Train Ticket under Transportation",
+    "location": {
+      "lat": 42.350411590845596,
+      "lon": -71.06214907550378
+    }
+  },
+  {
+    "transaction_id": "tx_236",
+    "date": "2026-04-20T17:40:58Z",
+    "merchant": "Subway Pass",
+    "category": "Transportation",
+    "amount": 105.47,
+    "type": "expense",
+    "description": "Purchase at Subway Pass under Transportation",
+    "location": {
+      "lat": 42.34542913670922,
+      "lon": -71.07703791843294
+    }
+  },
+  {
+    "transaction_id": "tx_237",
+    "date": "2026-05-15T22:15:58Z",
+    "merchant": "Internet Service",
+    "category": "Housing/Utilities",
+    "amount": 149.6,
+    "type": "expense",
+    "description": "Purchase at Internet Service under Housing/Utilities",
+    "location": {
+      "lat": 42.35389701178955,
+      "lon": -71.07740243686736
+    }
+  },
+  {
+    "transaction_id": "tx_238",
+    "date": "2026-03-10T10:18:58Z",
+    "merchant": "Subway Pass",
+    "category": "Transportation",
+    "amount": 134.19,
+    "type": "expense",
+    "description": "Purchase at Subway Pass under Transportation",
+    "location": {
+      "lat": 42.37709297826893,
+      "lon": -71.05449199909744
+    }
+  },
+  {
+    "transaction_id": "tx_239",
+    "date": "2026-03-14T15:48:58Z",
+    "merchant": "Tuition Installment",
+    "category": "Education",
+    "amount": 22.16,
+    "type": "expense",
+    "description": "Purchase at Tuition Installment under Education",
+    "location": {
+      "lat": 42.371614922432315,
+      "lon": -71.07894863892767
+    }
+  },
+  {
+    "transaction_id": "tx_240",
+    "date": "2026-04-28T16:12:58Z",
+    "merchant": "Subway Pass",
+    "category": "Transportation",
+    "amount": 72.51,
+    "type": "expense",
+    "description": "Purchase at Subway Pass under Transportation",
+    "location": {
+      "lat": 42.37536985787339,
+      "lon": -71.0773700757893
+    }
+  },
+  {
+    "transaction_id": "tx_241",
+    "date": "2026-04-11T05:37:58Z",
+    "merchant": "Movie Theater",
+    "category": "Entertainment",
+    "amount": 80.99,
+    "type": "expense",
+    "description": "Purchase at Movie Theater under Entertainment",
+    "location": {
+      "lat": 42.345013071290374,
+      "lon": -71.06731889318158
+    }
+  },
+  {
+    "transaction_id": "tx_242",
+    "date": "2026-04-24T22:41:58Z",
+    "merchant": "Boba Tea",
+    "category": "Food/Dining",
+    "amount": 72.28,
+    "type": "expense",
+    "description": "Purchase at Boba Tea under Food/Dining",
+    "location": {
+      "lat": 42.37511840606602,
+      "lon": -71.04878948284647
+    }
+  },
+  {
+    "transaction_id": "tx_243",
+    "date": "2026-03-06T01:05:58Z",
+    "merchant": "Freelance Coding Contract",
+    "category": "Income/Passive",
+    "amount": 932.95,
+    "type": "income",
+    "description": "Purchase at Freelance Coding Contract under Income/Passive",
+    "location": {
+      "lat": 42.37642849083788,
+      "lon": -71.07778348599929
+    }
+  },
+  {
+    "transaction_id": "tx_244",
+    "date": "2026-03-10T16:53:58Z",
+    "merchant": "Trader Joe's",
+    "category": "Food/Dining",
+    "amount": 26.76,
+    "type": "expense",
+    "description": "Purchase at Trader Joe's under Food/Dining",
+    "location": {
+      "lat": 42.377389513465566,
+      "lon": -71.07098118861138
+    }
+  },
+  {
+    "transaction_id": "tx_245",
+    "date": "2026-03-21T18:13:58Z",
+    "merchant": "Subway Pass",
+    "category": "Transportation",
+    "amount": 127.58,
+    "type": "expense",
+    "description": "Purchase at Subway Pass under Transportation",
+    "location": {
+      "lat": 42.378254065081734,
+      "lon": -71.06902195867146
+    }
+  },
+  {
+    "transaction_id": "tx_246",
+    "date": "2026-03-01T04:14:58Z",
+    "merchant": "Allowance",
+    "category": "Income/Passive",
+    "amount": 756.59,
+    "type": "income",
+    "description": "Purchase at Allowance under Income/Passive",
+    "location": {
+      "lat": 42.34674543606991,
+      "lon": -71.04233572048526
+    }
+  },
+  {
+    "transaction_id": "tx_247",
+    "date": "2026-05-05T22:26:58Z",
+    "merchant": "Electric Bill",
+    "category": "Housing/Utilities",
+    "amount": 100.35,
+    "type": "expense",
+    "description": "Purchase at Electric Bill under Housing/Utilities",
+    "location": {
+      "lat": 42.37695718901266,
+      "lon": -71.07835222785913
+    }
+  },
+  {
+    "transaction_id": "tx_248",
+    "date": "2026-05-11T05:49:58Z",
+    "merchant": "Ramen House",
+    "category": "Food/Dining",
+    "amount": 11.11,
+    "type": "expense",
+    "description": "Purchase at Ramen House under Food/Dining",
+    "location": {
+      "lat": 42.366045199099425,
+      "lon": -71.04932163996335
+    }
+  },
+  {
+    "transaction_id": "tx_249",
+    "date": "2026-04-22T08:07:58Z",
+    "merchant": "Concert Ticket",
+    "category": "Entertainment",
+    "amount": 97.47,
+    "type": "expense",
+    "description": "Purchase at Concert Ticket under Entertainment",
+    "location": {
+      "lat": 42.351586866272065,
+      "lon": -71.04173399320183
+    }
+  },
+  {
+    "transaction_id": "tx_250",
+    "date": "2026-05-15T23:52:58Z",
+    "merchant": "Spotify",
+    "category": "Entertainment",
+    "amount": 121.58,
+    "type": "expense",
+    "description": "Purchase at Spotify under Entertainment",
+    "location": {
+      "lat": 42.35814176531821,
+      "lon": -71.05245545713308
+    }
+  },
+  {
+    "transaction_id": "tx_251",
+    "date": "2026-04-17T17:54:58Z",
+    "merchant": "Internet Service",
+    "category": "Housing/Utilities",
+    "amount": 64.97,
+    "type": "expense",
+    "description": "Purchase at Internet Service under Housing/Utilities",
+    "location": {
+      "lat": 42.364266410512826,
+      "lon": -71.06749670003012
+    }
+  },
+  {
+    "transaction_id": "tx_252",
+    "date": "2026-04-02T23:41:58Z",
+    "merchant": "Allowance",
+    "category": "Income/Passive",
+    "amount": 894.33,
+    "type": "income",
+    "description": "Purchase at Allowance under Income/Passive",
+    "location": {
+      "lat": 42.37042659979181,
+      "lon": -71.05940079463672
+    }
+  },
+  {
+    "transaction_id": "tx_253",
+    "date": "2026-03-04T20:01:58Z",
+    "merchant": "Starbucks",
+    "category": "Food/Dining",
+    "amount": 39.67,
+    "type": "expense",
+    "description": "Purchase at Starbucks under Food/Dining",
+    "location": {
+      "lat": 42.349916755301024,
+      "lon": -71.07612753389758
+    }
+  },
+  {
+    "transaction_id": "tx_254",
+    "date": "2026-04-11T19:28:58Z",
+    "merchant": "Online Course Sub",
+    "category": "Education",
+    "amount": 130.24,
+    "type": "expense",
+    "description": "Purchase at Online Course Sub under Education",
+    "location": {
+      "lat": 42.376092433082974,
+      "lon": -71.04746088614243
+    }
+  },
+  {
+    "transaction_id": "tx_255",
+    "date": "2026-03-10T03:05:58Z",
+    "merchant": "Subway Pass",
+    "category": "Transportation",
+    "amount": 32.12,
+    "type": "expense",
+    "description": "Purchase at Subway Pass under Transportation",
+    "location": {
+      "lat": 42.3586726047095,
+      "lon": -71.04483697345599
+    }
+  },
+  {
+    "transaction_id": "tx_256",
+    "date": "2026-04-09T04:02:58Z",
+    "merchant": "Netflix",
+    "category": "Entertainment",
+    "amount": 17.6,
+    "type": "expense",
+    "description": "Purchase at Netflix under Entertainment",
+    "location": {
+      "lat": 42.3786674652221,
+      "lon": -71.07139422309895
+    }
+  },
+  {
+    "transaction_id": "tx_257",
+    "date": "2026-04-22T07:29:58Z",
+    "merchant": "University Bookstore",
+    "category": "Education",
+    "amount": 11.85,
+    "type": "expense",
+    "description": "Purchase at University Bookstore under Education",
+    "location": {
+      "lat": 42.37371398587652,
+      "lon": -71.05309917584938
+    }
+  },
+  {
+    "transaction_id": "tx_258",
+    "date": "2026-04-13T16:29:58Z",
+    "merchant": "University Bookstore",
+    "category": "Education",
+    "amount": 127.76,
+    "type": "expense",
+    "description": "Purchase at University Bookstore under Education",
+    "location": {
+      "lat": 42.35057891599164,
+      "lon": -71.06536889440899
+    }
+  },
+  {
+    "transaction_id": "tx_259",
+    "date": "2026-02-24T06:08:58Z",
+    "merchant": "Steam Games",
+    "category": "Entertainment",
+    "amount": 11.08,
+    "type": "expense",
+    "description": "Purchase at Steam Games under Entertainment",
+    "location": {
+      "lat": 42.34778621207551,
+      "lon": -71.05787108293515
+    }
+  },
+  {
+    "transaction_id": "tx_260",
+    "date": "2026-04-28T20:25:58Z",
+    "merchant": "Boba Tea",
+    "category": "Food/Dining",
+    "amount": 77.87,
+    "type": "expense",
+    "description": "Purchase at Boba Tea under Food/Dining",
+    "location": {
+      "lat": 42.37956362802483,
+      "lon": -71.05278405439525
+    }
+  },
+  {
+    "transaction_id": "tx_261",
+    "date": "2026-04-08T23:23:58Z",
+    "merchant": "Campus Cafeteria",
+    "category": "Food/Dining",
+    "amount": 146.37,
+    "type": "expense",
+    "description": "Purchase at Campus Cafeteria under Food/Dining",
+    "location": {
+      "lat": 42.37947150657746,
+      "lon": -71.05768672646911
+    }
+  },
+  {
+    "transaction_id": "tx_262",
+    "date": "2026-04-24T00:05:58Z",
+    "merchant": "Tuition Installment",
+    "category": "Education",
+    "amount": 33.46,
+    "type": "expense",
+    "description": "Purchase at Tuition Installment under Education",
+    "location": {
+      "lat": 42.3416101962463,
+      "lon": -71.07844344135015
+    }
+  },
+  {
+    "transaction_id": "tx_263",
+    "date": "2026-04-25T01:42:58Z",
+    "merchant": "Allowance",
+    "category": "Income/Passive",
+    "amount": 974.56,
+    "type": "income",
+    "description": "Purchase at Allowance under Income/Passive",
+    "location": {
+      "lat": 42.364250420896155,
+      "lon": -71.05937977071412
+    }
+  },
+  {
+    "transaction_id": "tx_264",
+    "date": "2026-05-07T11:26:58Z",
+    "merchant": "Lab Fees",
+    "category": "Education",
+    "amount": 28.14,
+    "type": "expense",
+    "description": "Purchase at Lab Fees under Education",
+    "location": {
+      "lat": 42.35196937370114,
+      "lon": -71.06654506191393
+    }
+  },
+  {
+    "transaction_id": "tx_265",
+    "date": "2026-03-28T03:25:58Z",
+    "merchant": "Train Ticket",
+    "category": "Transportation",
+    "amount": 107.62,
+    "type": "expense",
+    "description": "Purchase at Train Ticket under Transportation",
+    "location": {
+      "lat": 42.340665478220096,
+      "lon": -71.06675041625684
+    }
+  },
+  {
+    "transaction_id": "tx_266",
+    "date": "2026-05-17T07:34:58Z",
+    "merchant": "Boba Tea",
+    "category": "Food/Dining",
+    "amount": 89.43,
+    "type": "expense",
+    "description": "Purchase at Boba Tea under Food/Dining",
+    "location": {
+      "lat": 42.36387638463813,
+      "lon": -71.06937878252057
+    }
+  },
+  {
+    "transaction_id": "tx_267",
+    "date": "2026-05-03T02:43:58Z",
+    "merchant": "Freelance Coding Contract",
+    "category": "Income/Passive",
+    "amount": 879.61,
+    "type": "income",
+    "description": "Purchase at Freelance Coding Contract under Income/Passive",
+    "location": {
+      "lat": 42.36096929330499,
+      "lon": -71.05115268659004
+    }
+  },
+  {
+    "transaction_id": "tx_268",
+    "date": "2026-03-20T13:09:58Z",
+    "merchant": "Spotify",
+    "category": "Entertainment",
+    "amount": 124.05,
+    "type": "expense",
+    "description": "Purchase at Spotify under Entertainment",
+    "location": {
+      "lat": 42.37792820683138,
+      "lon": -71.07560417914665
+    }
+  },
+  {
+    "transaction_id": "tx_269",
+    "date": "2026-03-09T01:17:58Z",
+    "merchant": "Boba Tea",
+    "category": "Food/Dining",
+    "amount": 50.14,
+    "type": "expense",
+    "description": "Purchase at Boba Tea under Food/Dining",
+    "location": {
+      "lat": 42.34815566730809,
+      "lon": -71.05992721981556
+    }
+  },
+  {
+    "transaction_id": "tx_270",
+    "date": "2026-02-25T09:41:58Z",
+    "merchant": "Train Ticket",
+    "category": "Transportation",
+    "amount": 131.49,
+    "type": "expense",
+    "description": "Purchase at Train Ticket under Transportation",
+    "location": {
+      "lat": 42.36074732846241,
+      "lon": -71.05756452908366
+    }
+  },
+  {
+    "transaction_id": "tx_271",
+    "date": "2026-03-29T17:02:58Z",
+    "merchant": "Stock Dividend",
+    "category": "Income/Passive",
+    "amount": 654.3,
+    "type": "income",
+    "description": "Purchase at Stock Dividend under Income/Passive",
+    "location": {
+      "lat": 42.37648496643696,
+      "lon": -71.06630691929273
+    }
+  },
+  {
+    "transaction_id": "tx_272",
+    "date": "2026-03-13T18:50:58Z",
+    "merchant": "Lab Fees",
+    "category": "Education",
+    "amount": 93.27,
+    "type": "expense",
+    "description": "Purchase at Lab Fees under Education",
+    "location": {
+      "lat": 42.3623234660323,
+      "lon": -71.07100531848029
+    }
+  },
+  {
+    "transaction_id": "tx_273",
+    "date": "2026-05-17T10:04:58Z",
+    "merchant": "Lab Fees",
+    "category": "Education",
+    "amount": 107.06,
+    "type": "expense",
+    "description": "Purchase at Lab Fees under Education",
+    "location": {
+      "lat": 42.35268162980074,
+      "lon": -71.06604787303195
+    }
+  },
+  {
+    "transaction_id": "tx_274",
+    "date": "2026-05-02T09:07:58Z",
+    "merchant": "Allowance",
+    "category": "Income/Passive",
+    "amount": 380.96,
+    "type": "income",
+    "description": "Purchase at Allowance under Income/Passive",
+    "location": {
+      "lat": 42.355187767414975,
+      "lon": -71.04079357850715
+    }
+  },
+  {
+    "transaction_id": "tx_275",
+    "date": "2026-03-26T09:38:58Z",
+    "merchant": "Tuition Installment",
+    "category": "Education",
+    "amount": 46.76,
+    "type": "expense",
+    "description": "Purchase at Tuition Installment under Education",
+    "location": {
+      "lat": 42.35385454056383,
+      "lon": -71.0623049555254
+    }
+  },
+  {
+    "transaction_id": "tx_276",
+    "date": "2026-04-26T20:32:58Z",
+    "merchant": "Online Course Sub",
+    "category": "Education",
+    "amount": 35.64,
+    "type": "expense",
+    "description": "Purchase at Online Course Sub under Education",
+    "location": {
+      "lat": 42.362480720787104,
+      "lon": -71.06913514133177
+    }
+  },
+  {
+    "transaction_id": "tx_277",
+    "date": "2026-03-19T18:36:58Z",
+    "merchant": "Trader Joe's",
+    "category": "Food/Dining",
+    "amount": 112.3,
+    "type": "expense",
+    "description": "Purchase at Trader Joe's under Food/Dining",
+    "location": {
+      "lat": 42.36679335859573,
+      "lon": -71.05875834041069
+    }
+  },
+  {
+    "transaction_id": "tx_278",
+    "date": "2026-04-10T22:18:58Z",
+    "merchant": "Freelance Coding Contract",
+    "category": "Income/Passive",
+    "amount": 110.36,
+    "type": "income",
+    "description": "Purchase at Freelance Coding Contract under Income/Passive",
+    "location": {
+      "lat": 42.358896156281396,
+      "lon": -71.05275232053674
+    }
+  },
+  {
+    "transaction_id": "tx_279",
+    "date": "2026-04-28T16:59:58Z",
+    "merchant": "Monthly Rent Payment",
+    "category": "Housing/Utilities",
+    "amount": 850.0,
+    "type": "expense",
+    "description": "Purchase at Monthly Rent Payment under Housing/Utilities",
+    "location": {
+      "lat": 42.36611571190805,
+      "lon": -71.0447741017108
+    }
+  },
+  {
+    "transaction_id": "tx_280",
+    "date": "2026-03-25T21:51:58Z",
+    "merchant": "Movie Theater",
+    "category": "Entertainment",
+    "amount": 99.15,
+    "type": "expense",
+    "description": "Purchase at Movie Theater under Entertainment",
+    "location": {
+      "lat": 42.36583591671561,
+      "lon": -71.04368252165058
+    }
+  },
+  {
+    "transaction_id": "tx_281",
+    "date": "2026-04-27T11:19:58Z",
+    "merchant": "McDonalds",
+    "category": "Food/Dining",
+    "amount": 88.04,
+    "type": "expense",
+    "description": "Purchase at McDonalds under Food/Dining",
+    "location": {
+      "lat": 42.37401332406303,
+      "lon": -71.07850807013713
+    }
+  },
+  {
+    "transaction_id": "tx_282",
+    "date": "2026-03-11T13:26:58Z",
+    "merchant": "Internet Service",
+    "category": "Housing/Utilities",
+    "amount": 132.87,
+    "type": "expense",
+    "description": "Purchase at Internet Service under Housing/Utilities",
+    "location": {
+      "lat": 42.35587978297114,
+      "lon": -71.06018464410714
+    }
+  },
+  {
+    "transaction_id": "tx_283",
+    "date": "2026-02-18T21:09:58Z",
+    "merchant": "Allowance",
+    "category": "Income/Passive",
+    "amount": 1058.25,
+    "type": "income",
+    "description": "Purchase at Allowance under Income/Passive",
+    "location": {
+      "lat": 42.36411131862024,
+      "lon": -71.04286180615932
+    }
+  },
+  {
+    "transaction_id": "tx_284",
+    "date": "2026-05-11T05:06:58Z",
+    "merchant": "Lab Fees",
+    "category": "Education",
+    "amount": 70.61,
+    "type": "expense",
+    "description": "Purchase at Lab Fees under Education",
+    "location": {
+      "lat": 42.359756496813674,
+      "lon": -71.04245757993037
+    }
+  },
+  {
+    "transaction_id": "tx_285",
+    "date": "2026-03-03T21:43:58Z",
+    "merchant": "Train Ticket",
+    "category": "Transportation",
+    "amount": 44.2,
+    "type": "expense",
+    "description": "Purchase at Train Ticket under Transportation",
+    "location": {
+      "lat": 42.369244769352356,
+      "lon": -71.05406858645163
+    }
+  },
+  {
+    "transaction_id": "tx_286",
+    "date": "2026-04-01T21:09:58Z",
+    "merchant": "Freelance Coding Contract",
+    "category": "Income/Passive",
+    "amount": 66.2,
+    "type": "income",
+    "description": "Purchase at Freelance Coding Contract under Income/Passive",
+    "location": {
+      "lat": 42.36697604559579,
+      "lon": -71.07227354849115
+    }
+  },
+  {
+    "transaction_id": "tx_287",
+    "date": "2026-04-23T21:38:58Z",
+    "merchant": "Train Ticket",
+    "category": "Transportation",
+    "amount": 124.83,
+    "type": "expense",
+    "description": "Purchase at Train Ticket under Transportation",
+    "location": {
+      "lat": 42.35603332986512,
+      "lon": -71.07618459576821
+    }
+  },
+  {
+    "transaction_id": "tx_288",
+    "date": "2026-03-20T11:49:58Z",
+    "merchant": "Internet Service",
+    "category": "Housing/Utilities",
+    "amount": 51.58,
+    "type": "expense",
+    "description": "Purchase at Internet Service under Housing/Utilities",
+    "location": {
+      "lat": 42.355342975627046,
+      "lon": -71.06213057912774
+    }
+  },
+  {
+    "transaction_id": "tx_289",
+    "date": "2026-05-01T11:49:58Z",
+    "merchant": "Lab Fees",
+    "category": "Education",
+    "amount": 48.43,
+    "type": "expense",
+    "description": "Purchase at Lab Fees under Education",
+    "location": {
+      "lat": 42.36614733468281,
+      "lon": -71.05228925638309
+    }
+  },
+  {
+    "transaction_id": "tx_290",
+    "date": "2026-03-28T16:58:58Z",
+    "merchant": "McDonalds",
+    "category": "Food/Dining",
+    "amount": 21.7,
+    "type": "expense",
+    "description": "Purchase at McDonalds under Food/Dining",
+    "location": {
+      "lat": 42.36744294479565,
+      "lon": -71.04307575944212
+    }
+  },
+  {
+    "transaction_id": "tx_291",
+    "date": "2026-05-09T20:56:58Z",
+    "merchant": "Allowance",
+    "category": "Income/Passive",
+    "amount": 843.83,
+    "type": "income",
+    "description": "Purchase at Allowance under Income/Passive",
+    "location": {
+      "lat": 42.364585017925755,
+      "lon": -71.07123485596259
+    }
+  },
+  {
+    "transaction_id": "tx_292",
+    "date": "2026-05-05T22:59:58Z",
+    "merchant": "Internet Service",
+    "category": "Housing/Utilities",
+    "amount": 26.79,
+    "type": "expense",
+    "description": "Purchase at Internet Service under Housing/Utilities",
+    "location": {
+      "lat": 42.36807762907423,
+      "lon": -71.04348812446868
+    }
+  },
+  {
+    "transaction_id": "tx_293",
+    "date": "2026-05-16T07:28:58Z",
+    "merchant": "Gas Station",
+    "category": "Transportation",
+    "amount": 115.35,
+    "type": "expense",
+    "description": "Purchase at Gas Station under Transportation",
+    "location": {
+      "lat": 42.37149482759293,
+      "lon": -71.0589797337512
+    }
+  },
+  {
+    "transaction_id": "tx_294",
+    "date": "2026-04-30T14:36:58Z",
+    "merchant": "Subway Pass",
+    "category": "Transportation",
+    "amount": 15.86,
+    "type": "expense",
+    "description": "Purchase at Subway Pass under Transportation",
+    "location": {
+      "lat": 42.37315096215834,
+      "lon": -71.04388447359041
+    }
+  },
+  {
+    "transaction_id": "tx_295",
+    "date": "2026-04-25T01:40:58Z",
+    "merchant": "Electric Bill",
+    "category": "Housing/Utilities",
+    "amount": 28.44,
+    "type": "expense",
+    "description": "Purchase at Electric Bill under Housing/Utilities",
+    "location": {
+      "lat": 42.36721180951756,
+      "lon": -71.05132328135278
+    }
+  },
+  {
+    "transaction_id": "tx_296",
+    "date": "2026-04-15T13:02:58Z",
+    "merchant": "Netflix",
+    "category": "Entertainment",
+    "amount": 135.29,
+    "type": "expense",
+    "description": "Purchase at Netflix under Entertainment",
+    "location": {
+      "lat": 42.34527777359285,
+      "lon": -71.06338301704622
+    }
+  },
+  {
+    "transaction_id": "tx_297",
+    "date": "2026-05-14T21:19:58Z",
+    "merchant": "Uber/Lyft",
+    "category": "Transportation",
+    "amount": 85.8,
+    "type": "expense",
+    "description": "Purchase at Uber/Lyft under Transportation",
+    "location": {
+      "lat": 42.340870818315736,
+      "lon": -71.0698217112373
+    }
+  },
+  {
+    "transaction_id": "tx_298",
+    "date": "2026-02-26T13:00:58Z",
+    "merchant": "McDonalds",
+    "category": "Food/Dining",
+    "amount": 36.2,
+    "type": "expense",
+    "description": "Purchase at McDonalds under Food/Dining",
+    "location": {
+      "lat": 42.353781154662485,
+      "lon": -71.07744960351552
+    }
+  },
+  {
+    "transaction_id": "tx_299",
+    "date": "2026-04-18T12:51:58Z",
+    "merchant": "Ramen House",
+    "category": "Food/Dining",
+    "amount": 147.98,
+    "type": "expense",
+    "description": "Purchase at Ramen House under Food/Dining",
+    "location": {
+      "lat": 42.356354677432776,
+      "lon": -71.04924111749666
+    }
+  },
+  {
+    "transaction_id": "tx_300",
+    "date": "2026-04-07T02:28:58Z",
+    "merchant": "Stock Dividend",
+    "category": "Income/Passive",
+    "amount": 480.63,
+    "type": "income",
+    "description": "Purchase at Stock Dividend under Income/Passive",
+    "location": {
+      "lat": 42.376684603067275,
+      "lon": -71.06490014601479
+    }
+  },
+  {
+    "transaction_id": "tx_301",
+    "date": "2026-04-27T16:14:58Z",
+    "merchant": "McDonalds",
+    "category": "Food/Dining",
+    "amount": 144.78,
+    "type": "expense",
+    "description": "Purchase at McDonalds under Food/Dining",
+    "location": {
+      "lat": 42.37441146324509,
+      "lon": -71.07525467330859
+    }
+  },
+  {
+    "transaction_id": "tx_302",
+    "date": "2026-03-17T12:21:58Z",
+    "merchant": "Train Ticket",
+    "category": "Transportation",
+    "amount": 81.45,
+    "type": "expense",
+    "description": "Purchase at Train Ticket under Transportation",
+    "location": {
+      "lat": 42.34090941309288,
+      "lon": -71.06806548045188
+    }
+  },
+  {
+    "transaction_id": "tx_303",
+    "date": "2026-03-18T19:02:58Z",
+    "merchant": "Stock Dividend",
+    "category": "Income/Passive",
+    "amount": 661.72,
+    "type": "income",
+    "description": "Purchase at Stock Dividend under Income/Passive",
+    "location": {
+      "lat": 42.35384638939951,
+      "lon": -71.0689740108882
+    }
+  },
+  {
+    "transaction_id": "tx_304",
+    "date": "2026-05-13T01:12:58Z",
+    "merchant": "Part-time Job Stipend",
+    "category": "Income/Passive",
+    "amount": 87.05,
+    "type": "income",
+    "description": "Purchase at Part-time Job Stipend under Income/Passive",
+    "location": {
+      "lat": 42.37064213870056,
+      "lon": -71.04464973512619
+    }
+  },
+  {
+    "transaction_id": "tx_305",
+    "date": "2026-03-02T06:35:58Z",
+    "merchant": "Campus Cafeteria",
+    "category": "Food/Dining",
+    "amount": 34.48,
+    "type": "expense",
+    "description": "Purchase at Campus Cafeteria under Food/Dining",
+    "location": {
+      "lat": 42.35785764264995,
+      "lon": -71.05311905452511
+    }
+  },
+  {
+    "transaction_id": "tx_306",
+    "date": "2026-04-10T01:47:58Z",
+    "merchant": "Campus Cafeteria",
+    "category": "Food/Dining",
+    "amount": 112.25,
+    "type": "expense",
+    "description": "Purchase at Campus Cafeteria under Food/Dining",
+    "location": {
+      "lat": 42.3615903923563,
+      "lon": -71.0498245716501
+    }
+  },
+  {
+    "transaction_id": "tx_307",
+    "date": "2026-03-26T19:25:58Z",
+    "merchant": "Campus Cafeteria",
+    "category": "Food/Dining",
+    "amount": 77.82,
+    "type": "expense",
+    "description": "Purchase at Campus Cafeteria under Food/Dining",
+    "location": {
+      "lat": 42.376655881324865,
+      "lon": -71.05695558657679
+    }
+  },
+  {
+    "transaction_id": "tx_308",
+    "date": "2026-03-08T09:06:58Z",
+    "merchant": "Subway Pass",
+    "category": "Transportation",
+    "amount": 38.97,
+    "type": "expense",
+    "description": "Purchase at Subway Pass under Transportation",
+    "location": {
+      "lat": 42.348841709617844,
+      "lon": -71.0679799618497
+    }
+  },
+  {
+    "transaction_id": "tx_309",
+    "date": "2026-03-12T08:16:58Z",
+    "merchant": "Trader Joe's",
+    "category": "Food/Dining",
+    "amount": 142.51,
+    "type": "expense",
+    "description": "Purchase at Trader Joe's under Food/Dining",
+    "location": {
+      "lat": 42.35708802329179,
+      "lon": -71.06017516850028
+    }
+  },
+  {
+    "transaction_id": "tx_310",
+    "date": "2026-03-30T09:59:58Z",
+    "merchant": "Online Course Sub",
+    "category": "Education",
+    "amount": 118.83,
+    "type": "expense",
+    "description": "Purchase at Online Course Sub under Education",
+    "location": {
+      "lat": 42.356330367073184,
+      "lon": -71.06800446022258
+    }
+  },
+  {
+    "transaction_id": "tx_311",
+    "date": "2026-03-17T21:27:58Z",
+    "merchant": "Internet Service",
+    "category": "Housing/Utilities",
+    "amount": 39.56,
+    "type": "expense",
+    "description": "Purchase at Internet Service under Housing/Utilities",
+    "location": {
+      "lat": 42.36830307189952,
+      "lon": -71.04776895360261
+    }
+  },
+  {
+    "transaction_id": "tx_312",
+    "date": "2026-04-12T05:06:58Z",
+    "merchant": "Trader Joe's",
+    "category": "Food/Dining",
+    "amount": 64.54,
+    "type": "expense",
+    "description": "Purchase at Trader Joe's under Food/Dining",
+    "location": {
+      "lat": 42.34536371004236,
+      "lon": -71.07028565935641
+    }
+  },
+  {
+    "transaction_id": "tx_313",
+    "date": "2026-04-15T22:38:58Z",
+    "merchant": "Water Utility",
+    "category": "Housing/Utilities",
+    "amount": 98.6,
+    "type": "expense",
+    "description": "Purchase at Water Utility under Housing/Utilities",
+    "location": {
+      "lat": 42.361425421453895,
+      "lon": -71.04682374859141
+    }
+  },
+  {
+    "transaction_id": "tx_314",
+    "date": "2026-05-06T06:35:58Z",
+    "merchant": "Starbucks",
+    "category": "Food/Dining",
+    "amount": 59.38,
+    "type": "expense",
+    "description": "Purchase at Starbucks under Food/Dining",
+    "location": {
+      "lat": 42.374944818339586,
+      "lon": -71.07247346824269
+    }
+  },
+  {
+    "transaction_id": "tx_315",
+    "date": "2026-03-31T21:31:58Z",
+    "merchant": "Gas Station",
+    "category": "Transportation",
+    "amount": 74.25,
+    "type": "expense",
+    "description": "Purchase at Gas Station under Transportation",
+    "location": {
+      "lat": 42.34061334824914,
+      "lon": -71.04251360947191
+    }
+  },
+  {
+    "transaction_id": "tx_316",
+    "date": "2026-04-19T19:17:58Z",
+    "merchant": "Part-time Job Stipend",
+    "category": "Income/Passive",
+    "amount": 908.91,
+    "type": "income",
+    "description": "Purchase at Part-time Job Stipend under Income/Passive",
+    "location": {
+      "lat": 42.36417606136315,
+      "lon": -71.07181947428089
+    }
+  },
+  {
+    "transaction_id": "tx_317",
+    "date": "2026-04-07T02:07:58Z",
+    "merchant": "Water Utility",
+    "category": "Housing/Utilities",
+    "amount": 117.34,
+    "type": "expense",
+    "description": "Purchase at Water Utility under Housing/Utilities",
+    "location": {
+      "lat": 42.36594885359981,
+      "lon": -71.06766310862852
+    }
+  },
+  {
+    "transaction_id": "tx_318",
+    "date": "2026-04-18T22:31:58Z",
+    "merchant": "Online Course Sub",
+    "category": "Education",
+    "amount": 72.3,
+    "type": "expense",
+    "description": "Purchase at Online Course Sub under Education",
+    "location": {
+      "lat": 42.34812509965024,
+      "lon": -71.0674831192452
+    }
+  },
+  {
+    "transaction_id": "tx_319",
+    "date": "2026-03-07T11:49:58Z",
+    "merchant": "Trader Joe's",
+    "category": "Food/Dining",
+    "amount": 130.22,
+    "type": "expense",
+    "description": "Purchase at Trader Joe's under Food/Dining",
+    "location": {
+      "lat": 42.36213246254169,
+      "lon": -71.05663872403528
+    }
+  },
+  {
+    "transaction_id": "tx_320",
+    "date": "2026-03-14T21:47:58Z",
+    "merchant": "Stock Dividend",
+    "category": "Income/Passive",
+    "amount": 389.47,
+    "type": "income",
+    "description": "Purchase at Stock Dividend under Income/Passive",
+    "location": {
+      "lat": 42.35519359098965,
+      "lon": -71.04666549138852
+    }
+  },
+  {
+    "transaction_id": "tx_321",
+    "date": "2026-05-15T21:49:58Z",
+    "merchant": "Concert Ticket",
+    "category": "Entertainment",
+    "amount": 99.75,
+    "type": "expense",
+    "description": "Purchase at Concert Ticket under Entertainment",
+    "location": {
+      "lat": 42.370534425026655,
+      "lon": -71.06045515597864
+    }
+  },
+  {
+    "transaction_id": "tx_322",
+    "date": "2026-04-03T16:41:58Z",
+    "merchant": "Stock Dividend",
+    "category": "Income/Passive",
+    "amount": 579.95,
+    "type": "income",
+    "description": "Purchase at Stock Dividend under Income/Passive",
+    "location": {
+      "lat": 42.36881254123049,
+      "lon": -71.06046734714984
+    }
+  },
+  {
+    "transaction_id": "tx_323",
+    "date": "2026-02-27T08:36:58Z",
+    "merchant": "Uber/Lyft",
+    "category": "Transportation",
+    "amount": 80.73,
+    "type": "expense",
+    "description": "Purchase at Uber/Lyft under Transportation",
+    "location": {
+      "lat": 42.37057355374289,
+      "lon": -71.06350431110337
+    }
+  },
+  {
+    "transaction_id": "tx_324",
+    "date": "2026-03-08T11:46:58Z",
+    "merchant": "Freelance Coding Contract",
+    "category": "Income/Passive",
+    "amount": 128.16,
+    "type": "income",
+    "description": "Purchase at Freelance Coding Contract under Income/Passive",
+    "location": {
+      "lat": 42.36022931678772,
+      "lon": -71.06507197229253
+    }
+  },
+  {
+    "transaction_id": "tx_325",
+    "date": "2026-02-19T12:07:58Z",
+    "merchant": "Train Ticket",
+    "category": "Transportation",
+    "amount": 100.43,
+    "type": "expense",
+    "description": "Purchase at Train Ticket under Transportation",
+    "location": {
+      "lat": 42.36206574243646,
+      "lon": -71.07952596127488
+    }
+  },
+  {
+    "transaction_id": "tx_326",
+    "date": "2026-03-25T12:05:58Z",
+    "merchant": "Subway Pass",
+    "category": "Transportation",
+    "amount": 82.45,
+    "type": "expense",
+    "description": "Purchase at Subway Pass under Transportation",
+    "location": {
+      "lat": 42.37252628883656,
+      "lon": -71.05303868191524
+    }
+  },
+  {
+    "transaction_id": "tx_327",
+    "date": "2026-03-02T03:42:58Z",
+    "merchant": "Monthly Rent Payment",
+    "category": "Housing/Utilities",
+    "amount": 850.0,
+    "type": "expense",
+    "description": "Purchase at Monthly Rent Payment under Housing/Utilities",
+    "location": {
+      "lat": 42.349638753292545,
+      "lon": -71.05520876630352
+    }
+  },
+  {
+    "transaction_id": "tx_328",
+    "date": "2026-04-08T13:56:58Z",
+    "merchant": "Lab Fees",
+    "category": "Education",
+    "amount": 43.4,
+    "type": "expense",
+    "description": "Purchase at Lab Fees under Education",
+    "location": {
+      "lat": 42.378371911765946,
+      "lon": -71.06164009017796
+    }
+  },
+  {
+    "transaction_id": "tx_329",
+    "date": "2026-02-28T08:27:58Z",
+    "merchant": "Electric Bill",
+    "category": "Housing/Utilities",
+    "amount": 48.15,
+    "type": "expense",
+    "description": "Purchase at Electric Bill under Housing/Utilities",
+    "location": {
+      "lat": 42.36599577807176,
+      "lon": -71.07873261985377
+    }
+  },
+  {
+    "transaction_id": "tx_330",
+    "date": "2026-04-18T13:13:58Z",
+    "merchant": "Movie Theater",
+    "category": "Entertainment",
+    "amount": 59.38,
+    "type": "expense",
+    "description": "Purchase at Movie Theater under Entertainment",
+    "location": {
+      "lat": 42.34037800690617,
+      "lon": -71.07314465699116
+    }
+  },
+  {
+    "transaction_id": "tx_331",
+    "date": "2026-04-01T06:27:58Z",
+    "merchant": "Movie Theater",
+    "category": "Entertainment",
+    "amount": 98.33,
+    "type": "expense",
+    "description": "Purchase at Movie Theater under Entertainment",
+    "location": {
+      "lat": 42.37895358982544,
+      "lon": -71.0442083515143
+    }
+  },
+  {
+    "transaction_id": "tx_332",
+    "date": "2026-05-17T06:03:58Z",
+    "merchant": "Campus Cafeteria",
+    "category": "Food/Dining",
+    "amount": 35.26,
+    "type": "expense",
+    "description": "Purchase at Campus Cafeteria under Food/Dining",
+    "location": {
+      "lat": 42.350843802108336,
+      "lon": -71.04303362933567
+    }
+  },
+  {
+    "transaction_id": "tx_333",
+    "date": "2026-05-01T08:35:58Z",
+    "merchant": "Allowance",
+    "category": "Income/Passive",
+    "amount": 1084.21,
+    "type": "income",
+    "description": "Purchase at Allowance under Income/Passive",
+    "location": {
+      "lat": 42.3471741801288,
+      "lon": -71.04598289599583
+    }
+  },
+  {
+    "transaction_id": "tx_334",
+    "date": "2026-04-08T13:52:58Z",
+    "merchant": "Campus Cafeteria",
+    "category": "Food/Dining",
+    "amount": 89.91,
+    "type": "expense",
+    "description": "Purchase at Campus Cafeteria under Food/Dining",
+    "location": {
+      "lat": 42.34649801002859,
+      "lon": -71.07038111222784
+    }
+  },
+  {
+    "transaction_id": "tx_335",
+    "date": "2026-03-07T10:19:58Z",
+    "merchant": "Concert Ticket",
+    "category": "Entertainment",
+    "amount": 52.77,
+    "type": "expense",
+    "description": "Purchase at Concert Ticket under Entertainment",
+    "location": {
+      "lat": 42.34313710764074,
+      "lon": -71.0501817375498
+    }
+  },
+  {
+    "transaction_id": "tx_336",
+    "date": "2026-03-18T13:54:58Z",
+    "merchant": "University Bookstore",
+    "category": "Education",
+    "amount": 18.71,
+    "type": "expense",
+    "description": "Purchase at University Bookstore under Education",
+    "location": {
+      "lat": 42.36420674972803,
+      "lon": -71.05544539065515
+    }
+  },
+  {
+    "transaction_id": "tx_337",
+    "date": "2026-03-30T12:13:58Z",
+    "merchant": "Train Ticket",
+    "category": "Transportation",
+    "amount": 145.48,
+    "type": "expense",
+    "description": "Purchase at Train Ticket under Transportation",
+    "location": {
+      "lat": 42.35093308114516,
+      "lon": -71.04029656486198
+    }
+  },
+  {
+    "transaction_id": "tx_338",
+    "date": "2026-04-07T00:44:58Z",
+    "merchant": "Spotify",
+    "category": "Entertainment",
+    "amount": 56.27,
+    "type": "expense",
+    "description": "Purchase at Spotify under Entertainment",
+    "location": {
+      "lat": 42.36718779432353,
+      "lon": -71.05357312369941
+    }
+  },
+  {
+    "transaction_id": "tx_339",
+    "date": "2026-03-21T09:37:58Z",
+    "merchant": "Trader Joe's",
+    "category": "Food/Dining",
+    "amount": 47.48,
+    "type": "expense",
+    "description": "Purchase at Trader Joe's under Food/Dining",
+    "location": {
+      "lat": 42.34328152038693,
+      "lon": -71.07383116144538
+    }
+  },
+  {
+    "transaction_id": "tx_340",
+    "date": "2026-03-29T22:39:58Z",
+    "merchant": "Freelance Coding Contract",
+    "category": "Income/Passive",
+    "amount": 900.6,
+    "type": "income",
+    "description": "Purchase at Freelance Coding Contract under Income/Passive",
+    "location": {
+      "lat": 42.34366081714785,
+      "lon": -71.04228159090631
+    }
+  },
+  {
+    "transaction_id": "tx_341",
+    "date": "2026-03-02T15:38:58Z",
+    "merchant": "Steam Games",
+    "category": "Entertainment",
+    "amount": 115.28,
+    "type": "expense",
+    "description": "Purchase at Steam Games under Entertainment",
+    "location": {
+      "lat": 42.34749567134112,
+      "lon": -71.06204625291915
+    }
+  },
+  {
+    "transaction_id": "tx_342",
+    "date": "2026-02-28T23:08:58Z",
+    "merchant": "Train Ticket",
+    "category": "Transportation",
+    "amount": 19.53,
+    "type": "expense",
+    "description": "Purchase at Train Ticket under Transportation",
+    "location": {
+      "lat": 42.3437225704184,
+      "lon": -71.05607824808823
+    }
+  },
+  {
+    "transaction_id": "tx_343",
+    "date": "2026-04-11T00:22:58Z",
+    "merchant": "Online Course Sub",
+    "category": "Education",
+    "amount": 6.3,
+    "type": "expense",
+    "description": "Purchase at Online Course Sub under Education",
+    "location": {
+      "lat": 42.34338798067714,
+      "lon": -71.04395455820575
+    }
+  },
+  {
+    "transaction_id": "tx_344",
+    "date": "2026-03-10T15:50:58Z",
+    "merchant": "Electric Bill",
+    "category": "Housing/Utilities",
+    "amount": 104.21,
+    "type": "expense",
+    "description": "Purchase at Electric Bill under Housing/Utilities",
+    "location": {
+      "lat": 42.35204525061501,
+      "lon": -71.06027504231157
+    }
+  },
+  {
+    "transaction_id": "tx_345",
+    "date": "2026-04-11T21:03:58Z",
+    "merchant": "Campus Cafeteria",
+    "category": "Food/Dining",
+    "amount": 67.75,
+    "type": "expense",
+    "description": "Purchase at Campus Cafeteria under Food/Dining",
+    "location": {
+      "lat": 42.371306664966625,
+      "lon": -71.06555500350842
+    }
+  },
+  {
+    "transaction_id": "tx_346",
+    "date": "2026-03-15T01:39:58Z",
+    "merchant": "Internet Service",
+    "category": "Housing/Utilities",
+    "amount": 90.9,
+    "type": "expense",
+    "description": "Purchase at Internet Service under Housing/Utilities",
+    "location": {
+      "lat": 42.34541958102723,
+      "lon": -71.07972930522298
+    }
+  },
+  {
+    "transaction_id": "tx_347",
+    "date": "2026-04-06T22:01:58Z",
+    "merchant": "Steam Games",
+    "category": "Entertainment",
+    "amount": 126.95,
+    "type": "expense",
+    "description": "Purchase at Steam Games under Entertainment",
+    "location": {
+      "lat": 42.35338944894988,
+      "lon": -71.04738098119988
+    }
+  },
+  {
+    "transaction_id": "tx_348",
+    "date": "2026-05-06T09:45:58Z",
+    "merchant": "Freelance Coding Contract",
+    "category": "Income/Passive",
+    "amount": 395.5,
+    "type": "income",
+    "description": "Purchase at Freelance Coding Contract under Income/Passive",
+    "location": {
+      "lat": 42.35916038969582,
+      "lon": -71.07289450914723
+    }
+  },
+  {
+    "transaction_id": "tx_349",
+    "date": "2026-05-17T08:04:58Z",
+    "merchant": "Steam Games",
+    "category": "Entertainment",
+    "amount": 46.91,
+    "type": "expense",
+    "description": "Purchase at Steam Games under Entertainment",
+    "location": {
+      "lat": 42.37871052341934,
+      "lon": -71.04872102521585
+    }
+  },
+  {
+    "transaction_id": "tx_350",
+    "date": "2026-04-08T22:40:58Z",
+    "merchant": "Online Course Sub",
+    "category": "Education",
+    "amount": 45.28,
+    "type": "expense",
+    "description": "Purchase at Online Course Sub under Education",
+    "location": {
+      "lat": 42.37728268610354,
+      "lon": -71.07200799805157
+    }
+  },
+  {
+    "transaction_id": "tx_351",
+    "date": "2026-04-28T12:19:58Z",
+    "merchant": "Gas Station",
+    "category": "Transportation",
+    "amount": 103.69,
+    "type": "expense",
+    "description": "Purchase at Gas Station under Transportation",
+    "location": {
+      "lat": 42.35846488891333,
+      "lon": -71.05166531794976
+    }
+  },
+  {
+    "transaction_id": "tx_352",
+    "date": "2026-02-26T01:16:58Z",
+    "merchant": "Steam Games",
+    "category": "Entertainment",
+    "amount": 125.45,
+    "type": "expense",
+    "description": "Purchase at Steam Games under Entertainment",
+    "location": {
+      "lat": 42.35997212861156,
+      "lon": -71.05466655841386
+    }
+  },
+  {
+    "transaction_id": "tx_353",
+    "date": "2026-04-12T23:37:58Z",
+    "merchant": "Water Utility",
+    "category": "Housing/Utilities",
+    "amount": 100.34,
+    "type": "expense",
+    "description": "Purchase at Water Utility under Housing/Utilities",
+    "location": {
+      "lat": 42.35796266883335,
+      "lon": -71.05608264580988
+    }
+  },
+  {
+    "transaction_id": "tx_354",
+    "date": "2026-05-17T01:07:58Z",
+    "merchant": "Train Ticket",
+    "category": "Transportation",
+    "amount": 82.25,
+    "type": "expense",
+    "description": "Purchase at Train Ticket under Transportation",
+    "location": {
+      "lat": 42.341470606562716,
+      "lon": -71.04126287837043
+    }
+  },
+  {
+    "transaction_id": "tx_355",
+    "date": "2026-03-21T09:15:58Z",
+    "merchant": "Part-time Job Stipend",
+    "category": "Income/Passive",
+    "amount": 175.77,
+    "type": "income",
+    "description": "Purchase at Part-time Job Stipend under Income/Passive",
+    "location": {
+      "lat": 42.354200352777944,
+      "lon": -71.05412000608067
+    }
+  },
+  {
+    "transaction_id": "tx_356",
+    "date": "2026-05-15T07:58:58Z",
+    "merchant": "Trader Joe's",
+    "category": "Food/Dining",
+    "amount": 147.61,
+    "type": "expense",
+    "description": "Purchase at Trader Joe's under Food/Dining",
+    "location": {
+      "lat": 42.378672445342744,
+      "lon": -71.06673613191673
+    }
+  },
+  {
+    "transaction_id": "tx_357",
+    "date": "2026-03-22T19:05:58Z",
+    "merchant": "Netflix",
+    "category": "Entertainment",
+    "amount": 6.03,
+    "type": "expense",
+    "description": "Purchase at Netflix under Entertainment",
+    "location": {
+      "lat": 42.36987412110532,
+      "lon": -71.05768026334628
+    }
+  },
+  {
+    "transaction_id": "tx_358",
+    "date": "2026-04-09T02:22:58Z",
+    "merchant": "Freelance Coding Contract",
+    "category": "Income/Passive",
+    "amount": 562.65,
+    "type": "income",
+    "description": "Purchase at Freelance Coding Contract under Income/Passive",
+    "location": {
+      "lat": 42.36718221950191,
+      "lon": -71.05238250777111
+    }
+  },
+  {
+    "transaction_id": "tx_359",
+    "date": "2026-04-19T14:51:58Z",
+    "merchant": "Water Utility",
+    "category": "Housing/Utilities",
+    "amount": 149.67,
+    "type": "expense",
+    "description": "Purchase at Water Utility under Housing/Utilities",
+    "location": {
+      "lat": 42.356639017141035,
+      "lon": -71.04153088537281
+    }
+  },
+  {
+    "transaction_id": "tx_360",
+    "date": "2026-03-28T22:02:58Z",
+    "merchant": "McDonalds",
+    "category": "Food/Dining",
+    "amount": 25.11,
+    "type": "expense",
+    "description": "Purchase at McDonalds under Food/Dining",
+    "location": {
+      "lat": 42.37137079990115,
+      "lon": -71.05915540680799
+    }
+  },
+  {
+    "transaction_id": "tx_361",
+    "date": "2026-05-18T01:53:58Z",
+    "merchant": "Online Course Sub",
+    "category": "Education",
+    "amount": 18.7,
+    "type": "expense",
+    "description": "Purchase at Online Course Sub under Education",
+    "location": {
+      "lat": 42.34268697360166,
+      "lon": -71.07821267789299
+    }
+  },
+  {
+    "transaction_id": "tx_362",
+    "date": "2026-04-02T07:39:58Z",
+    "merchant": "Part-time Job Stipend",
+    "category": "Income/Passive",
+    "amount": 75.97,
+    "type": "income",
+    "description": "Purchase at Part-time Job Stipend under Income/Passive",
+    "location": {
+      "lat": 42.36708557331564,
+      "lon": -71.07342583628598
+    }
+  },
+  {
+    "transaction_id": "tx_363",
+    "date": "2026-04-28T16:54:58Z",
+    "merchant": "Freelance Coding Contract",
+    "category": "Income/Passive",
+    "amount": 643.39,
+    "type": "income",
+    "description": "Purchase at Freelance Coding Contract under Income/Passive",
+    "location": {
+      "lat": 42.362393958099595,
+      "lon": -71.04166149513065
+    }
+  },
+  {
+    "transaction_id": "tx_364",
+    "date": "2026-03-13T08:15:58Z",
+    "merchant": "Internet Service",
+    "category": "Housing/Utilities",
+    "amount": 96.13,
+    "type": "expense",
+    "description": "Purchase at Internet Service under Housing/Utilities",
+    "location": {
+      "lat": 42.357285378097174,
+      "lon": -71.0788323090263
+    }
+  },
+  {
+    "transaction_id": "tx_365",
+    "date": "2026-04-12T23:33:58Z",
+    "merchant": "Gas Station",
+    "category": "Transportation",
+    "amount": 69.91,
+    "type": "expense",
+    "description": "Purchase at Gas Station under Transportation",
+    "location": {
+      "lat": 42.368189424638395,
+      "lon": -71.07176862082531
+    }
+  },
+  {
+    "transaction_id": "tx_366",
+    "date": "2026-04-26T16:56:58Z",
+    "merchant": "Part-time Job Stipend",
+    "category": "Income/Passive",
+    "amount": 713.95,
+    "type": "income",
+    "description": "Purchase at Part-time Job Stipend under Income/Passive",
+    "location": {
+      "lat": 42.353039396463956,
+      "lon": -71.06169798311176
+    }
+  },
+  {
+    "transaction_id": "tx_367",
+    "date": "2026-05-09T22:11:58Z",
+    "merchant": "Online Course Sub",
+    "category": "Education",
+    "amount": 81.28,
+    "type": "expense",
+    "description": "Purchase at Online Course Sub under Education",
+    "location": {
+      "lat": 42.35554557043651,
+      "lon": -71.06429823977143
+    }
+  },
+  {
+    "transaction_id": "tx_368",
+    "date": "2026-04-17T06:44:58Z",
+    "merchant": "Starbucks",
+    "category": "Food/Dining",
+    "amount": 55.71,
+    "type": "expense",
+    "description": "Purchase at Starbucks under Food/Dining",
+    "location": {
+      "lat": 42.37254953017044,
+      "lon": -71.05176046556217
+    }
+  },
+  {
+    "transaction_id": "tx_369",
+    "date": "2026-03-29T14:48:58Z",
+    "merchant": "University Bookstore",
+    "category": "Education",
+    "amount": 102.29,
+    "type": "expense",
+    "description": "Purchase at University Bookstore under Education",
+    "location": {
+      "lat": 42.352215200101426,
+      "lon": -71.07267821926673
+    }
+  },
+  {
+    "transaction_id": "tx_370",
+    "date": "2026-04-12T06:41:58Z",
+    "merchant": "Freelance Coding Contract",
+    "category": "Income/Passive",
+    "amount": 637.45,
+    "type": "income",
+    "description": "Purchase at Freelance Coding Contract under Income/Passive",
+    "location": {
+      "lat": 42.36299224179498,
+      "lon": -71.06307844871708
+    }
+  },
+  {
+    "transaction_id": "tx_371",
+    "date": "2026-05-10T17:08:58Z",
+    "merchant": "Concert Ticket",
+    "category": "Entertainment",
+    "amount": 105.39,
+    "type": "expense",
+    "description": "Purchase at Concert Ticket under Entertainment",
+    "location": {
+      "lat": 42.346674620953095,
+      "lon": -71.06844660903802
+    }
+  },
+  {
+    "transaction_id": "tx_372",
+    "date": "2026-05-07T13:28:58Z",
+    "merchant": "Water Utility",
+    "category": "Housing/Utilities",
+    "amount": 127.01,
+    "type": "expense",
+    "description": "Purchase at Water Utility under Housing/Utilities",
+    "location": {
+      "lat": 42.35436156688686,
+      "lon": -71.07961666241746
+    }
+  },
+  {
+    "transaction_id": "tx_373",
+    "date": "2026-04-30T04:14:58Z",
+    "merchant": "Electric Bill",
+    "category": "Housing/Utilities",
+    "amount": 123.11,
+    "type": "expense",
+    "description": "Purchase at Electric Bill under Housing/Utilities",
+    "location": {
+      "lat": 42.359798793914656,
+      "lon": -71.0526121331776
+    }
+  },
+  {
+    "transaction_id": "tx_374",
+    "date": "2026-02-28T05:34:58Z",
+    "merchant": "Movie Theater",
+    "category": "Entertainment",
+    "amount": 75.61,
+    "type": "expense",
+    "description": "Purchase at Movie Theater under Entertainment",
+    "location": {
+      "lat": 42.3718352355841,
+      "lon": -71.07117881974814
+    }
+  },
+  {
+    "transaction_id": "tx_375",
+    "date": "2026-03-25T17:22:58Z",
+    "merchant": "Starbucks",
+    "category": "Food/Dining",
+    "amount": 37.21,
+    "type": "expense",
+    "description": "Purchase at Starbucks under Food/Dining",
+    "location": {
+      "lat": 42.358292855490944,
+      "lon": -71.05029926992282
+    }
+  },
+  {
+    "transaction_id": "tx_376",
+    "date": "2026-05-01T14:50:58Z",
+    "merchant": "Concert Ticket",
+    "category": "Entertainment",
+    "amount": 78.82,
+    "type": "expense",
+    "description": "Purchase at Concert Ticket under Entertainment",
+    "location": {
+      "lat": 42.371004521114564,
+      "lon": -71.0470686876801
+    }
+  },
+  {
+    "transaction_id": "tx_377",
+    "date": "2026-04-15T04:46:58Z",
+    "merchant": "University Bookstore",
+    "category": "Education",
+    "amount": 115.08,
+    "type": "expense",
+    "description": "Purchase at University Bookstore under Education",
+    "location": {
+      "lat": 42.37959102911507,
+      "lon": -71.0759033424449
+    }
+  },
+  {
+    "transaction_id": "tx_378",
+    "date": "2026-02-22T01:49:58Z",
+    "merchant": "Freelance Coding Contract",
+    "category": "Income/Passive",
+    "amount": 392.37,
+    "type": "income",
+    "description": "Purchase at Freelance Coding Contract under Income/Passive",
+    "location": {
+      "lat": 42.3539430790729,
+      "lon": -71.04733085659535
+    }
+  },
+  {
+    "transaction_id": "tx_379",
+    "date": "2026-03-19T18:24:58Z",
+    "merchant": "Netflix",
+    "category": "Entertainment",
+    "amount": 117.35,
+    "type": "expense",
+    "description": "Purchase at Netflix under Entertainment",
+    "location": {
+      "lat": 42.36950451928018,
+      "lon": -71.05243465651553
+    }
+  },
+  {
+    "transaction_id": "tx_380",
+    "date": "2026-03-06T18:25:58Z",
+    "merchant": "Stock Dividend",
+    "category": "Income/Passive",
+    "amount": 240.88,
+    "type": "income",
+    "description": "Purchase at Stock Dividend under Income/Passive",
+    "location": {
+      "lat": 42.348277708830075,
+      "lon": -71.07762568665443
+    }
+  },
+  {
+    "transaction_id": "tx_381",
+    "date": "2026-03-10T22:18:58Z",
+    "merchant": "Lab Fees",
+    "category": "Education",
+    "amount": 91.34,
+    "type": "expense",
+    "description": "Purchase at Lab Fees under Education",
+    "location": {
+      "lat": 42.351705387916965,
+      "lon": -71.05709057680745
+    }
+  },
+  {
+    "transaction_id": "tx_382",
+    "date": "2026-04-10T12:50:58Z",
+    "merchant": "Uber/Lyft",
+    "category": "Transportation",
+    "amount": 24.23,
+    "type": "expense",
+    "description": "Purchase at Uber/Lyft under Transportation",
+    "location": {
+      "lat": 42.37468190361735,
+      "lon": -71.07492447325545
+    }
+  },
+  {
+    "transaction_id": "tx_383",
+    "date": "2026-03-30T19:21:58Z",
+    "merchant": "Electric Bill",
+    "category": "Housing/Utilities",
+    "amount": 25.78,
+    "type": "expense",
+    "description": "Purchase at Electric Bill under Housing/Utilities",
+    "location": {
+      "lat": 42.37374222626574,
+      "lon": -71.0642919699879
+    }
+  },
+  {
+    "transaction_id": "tx_384",
+    "date": "2026-04-07T01:37:58Z",
+    "merchant": "Water Utility",
+    "category": "Housing/Utilities",
+    "amount": 95.85,
+    "type": "expense",
+    "description": "Purchase at Water Utility under Housing/Utilities",
+    "location": {
+      "lat": 42.365345110534015,
+      "lon": -71.04479499674771
+    }
+  },
+  {
+    "transaction_id": "tx_385",
+    "date": "2026-03-25T10:32:58Z",
+    "merchant": "Boba Tea",
+    "category": "Food/Dining",
+    "amount": 79.52,
+    "type": "expense",
+    "description": "Purchase at Boba Tea under Food/Dining",
+    "location": {
+      "lat": 42.37509269427332,
+      "lon": -71.06181217403703
+    }
+  },
+  {
+    "transaction_id": "tx_386",
+    "date": "2026-03-01T11:02:58Z",
+    "merchant": "Steam Games",
+    "category": "Entertainment",
+    "amount": 89.17,
+    "type": "expense",
+    "description": "Purchase at Steam Games under Entertainment",
+    "location": {
+      "lat": 42.36539362182145,
+      "lon": -71.05210844088846
+    }
+  },
+  {
+    "transaction_id": "tx_387",
+    "date": "2026-04-12T18:04:58Z",
+    "merchant": "Trader Joe's",
+    "category": "Food/Dining",
+    "amount": 62.37,
+    "type": "expense",
+    "description": "Purchase at Trader Joe's under Food/Dining",
+    "location": {
+      "lat": 42.35074147353258,
+      "lon": -71.04686625531805
+    }
+  },
+  {
+    "transaction_id": "tx_388",
+    "date": "2026-04-20T22:30:58Z",
+    "merchant": "Tuition Installment",
+    "category": "Education",
+    "amount": 86.87,
+    "type": "expense",
+    "description": "Purchase at Tuition Installment under Education",
+    "location": {
+      "lat": 42.36730207704373,
+      "lon": -71.07806362955392
+    }
+  },
+  {
+    "transaction_id": "tx_389",
+    "date": "2026-04-16T11:40:58Z",
+    "merchant": "McDonalds",
+    "category": "Food/Dining",
+    "amount": 118.56,
+    "type": "expense",
+    "description": "Purchase at McDonalds under Food/Dining",
+    "location": {
+      "lat": 42.3771773150139,
+      "lon": -71.07368065940103
+    }
+  },
+  {
+    "transaction_id": "tx_390",
+    "date": "2026-04-12T18:17:58Z",
+    "merchant": "Netflix",
+    "category": "Entertainment",
+    "amount": 148.81,
+    "type": "expense",
+    "description": "Purchase at Netflix under Entertainment",
+    "location": {
+      "lat": 42.37637628857253,
+      "lon": -71.04471408943833
+    }
+  },
+  {
+    "transaction_id": "tx_391",
+    "date": "2026-03-24T14:14:58Z",
+    "merchant": "Tuition Installment",
+    "category": "Education",
+    "amount": 131.73,
+    "type": "expense",
+    "description": "Purchase at Tuition Installment under Education",
+    "location": {
+      "lat": 42.354417415335895,
+      "lon": -71.07670317877178
+    }
+  },
+  {
+    "transaction_id": "tx_392",
+    "date": "2026-05-08T21:19:58Z",
+    "merchant": "Freelance Coding Contract",
+    "category": "Income/Passive",
+    "amount": 109.56,
+    "type": "income",
+    "description": "Purchase at Freelance Coding Contract under Income/Passive",
+    "location": {
+      "lat": 42.36797765486099,
+      "lon": -71.07063424634062
+    }
+  },
+  {
+    "transaction_id": "tx_393",
+    "date": "2026-02-17T18:03:58Z",
+    "merchant": "Part-time Job Stipend",
+    "category": "Income/Passive",
+    "amount": 859.25,
+    "type": "income",
+    "description": "Purchase at Part-time Job Stipend under Income/Passive",
+    "location": {
+      "lat": 42.34311754886291,
+      "lon": -71.05625282012636
+    }
+  },
+  {
+    "transaction_id": "tx_394",
+    "date": "2026-05-17T22:25:58Z",
+    "merchant": "Train Ticket",
+    "category": "Transportation",
+    "amount": 5.85,
+    "type": "expense",
+    "description": "Purchase at Train Ticket under Transportation",
+    "location": {
+      "lat": 42.34482375144606,
+      "lon": -71.04558638828328
+    }
+  },
+  {
+    "transaction_id": "tx_395",
+    "date": "2026-03-18T23:38:58Z",
+    "merchant": "Freelance Coding Contract",
+    "category": "Income/Passive",
+    "amount": 599.36,
+    "type": "income",
+    "description": "Purchase at Freelance Coding Contract under Income/Passive",
+    "location": {
+      "lat": 42.36923053527056,
+      "lon": -71.07590291318202
+    }
+  },
+  {
+    "transaction_id": "tx_396",
+    "date": "2026-03-07T00:22:58Z",
+    "merchant": "Lab Fees",
+    "category": "Education",
+    "amount": 132.68,
+    "type": "expense",
+    "description": "Purchase at Lab Fees under Education",
+    "location": {
+      "lat": 42.37253471694981,
+      "lon": -71.04502010818328
+    }
+  },
+  {
+    "transaction_id": "tx_397",
+    "date": "2026-04-30T12:12:58Z",
+    "merchant": "Freelance Coding Contract",
+    "category": "Income/Passive",
+    "amount": 128.67,
+    "type": "income",
+    "description": "Purchase at Freelance Coding Contract under Income/Passive",
+    "location": {
+      "lat": 42.366000808526316,
+      "lon": -71.0623960231688
+    }
+  },
+  {
+    "transaction_id": "tx_398",
+    "date": "2026-03-09T01:12:58Z",
+    "merchant": "Freelance Coding Contract",
+    "category": "Income/Passive",
+    "amount": 772.29,
+    "type": "income",
+    "description": "Purchase at Freelance Coding Contract under Income/Passive",
+    "location": {
+      "lat": 42.36746264679503,
+      "lon": -71.04560149901592
+    }
+  },
+  {
+    "transaction_id": "tx_399",
+    "date": "2026-03-05T06:19:58Z",
+    "merchant": "Ramen House",
+    "category": "Food/Dining",
+    "amount": 24.87,
+    "type": "expense",
+    "description": "Purchase at Ramen House under Food/Dining",
+    "location": {
+      "lat": 42.35536127637373,
+      "lon": -71.04147005157787
+    }
+  },
+  {
+    "transaction_id": "tx_400",
+    "date": "2026-05-10T13:48:58Z",
+    "merchant": "Tuition Installment",
+    "category": "Education",
+    "amount": 40.55,
+    "type": "expense",
+    "description": "Purchase at Tuition Installment under Education",
+    "location": {
+      "lat": 42.36213586527139,
+      "lon": -71.05599968531097
+    }
+  },
+  {
+    "transaction_id": "tx_401",
+    "date": "2026-05-16T12:27:58Z",
+    "merchant": "Subway Pass",
+    "category": "Transportation",
+    "amount": 117.84,
+    "type": "expense",
+    "description": "Purchase at Subway Pass under Transportation",
+    "location": {
+      "lat": 42.3738828008349,
+      "lon": -71.04496691247772
+    }
+  },
+  {
+    "transaction_id": "tx_402",
+    "date": "2026-03-27T07:36:58Z",
+    "merchant": "Electric Bill",
+    "category": "Housing/Utilities",
+    "amount": 113.31,
+    "type": "expense",
+    "description": "Purchase at Electric Bill under Housing/Utilities",
+    "location": {
+      "lat": 42.37135206398306,
+      "lon": -71.04824887873093
+    }
+  },
+  {
+    "transaction_id": "tx_403",
+    "date": "2026-03-20T03:13:58Z",
+    "merchant": "Internet Service",
+    "category": "Housing/Utilities",
+    "amount": 60.65,
+    "type": "expense",
+    "description": "Purchase at Internet Service under Housing/Utilities",
+    "location": {
+      "lat": 42.363757190725515,
+      "lon": -71.05886853996256
+    }
+  },
+  {
+    "transaction_id": "tx_404",
+    "date": "2026-03-06T00:28:58Z",
+    "merchant": "Starbucks",
+    "category": "Food/Dining",
+    "amount": 140.39,
+    "type": "expense",
+    "description": "Purchase at Starbucks under Food/Dining",
+    "location": {
+      "lat": 42.37355893211615,
+      "lon": -71.06316545862991
+    }
+  },
+  {
+    "transaction_id": "tx_405",
+    "date": "2026-02-26T12:10:58Z",
+    "merchant": "Gas Station",
+    "category": "Transportation",
+    "amount": 115.48,
+    "type": "expense",
+    "description": "Purchase at Gas Station under Transportation",
+    "location": {
+      "lat": 42.34270130277091,
+      "lon": -71.06951258891351
+    }
+  },
+  {
+    "transaction_id": "tx_406",
+    "date": "2026-04-09T03:51:58Z",
+    "merchant": "Ramen House",
+    "category": "Food/Dining",
+    "amount": 142.53,
+    "type": "expense",
+    "description": "Purchase at Ramen House under Food/Dining",
+    "location": {
+      "lat": 42.365142827842426,
+      "lon": -71.05995804137972
+    }
+  },
+  {
+    "transaction_id": "tx_407",
+    "date": "2026-02-28T08:07:58Z",
+    "merchant": "Movie Theater",
+    "category": "Entertainment",
+    "amount": 106.61,
+    "type": "expense",
+    "description": "Purchase at Movie Theater under Entertainment",
+    "location": {
+      "lat": 42.361506214325445,
+      "lon": -71.07389278224782
+    }
+  },
+  {
+    "transaction_id": "tx_408",
+    "date": "2026-03-15T16:07:58Z",
+    "merchant": "Starbucks",
+    "category": "Food/Dining",
+    "amount": 16.0,
+    "type": "expense",
+    "description": "Purchase at Starbucks under Food/Dining",
+    "location": {
+      "lat": 42.353070011851415,
+      "lon": -71.0565425134795
+    }
+  },
+  {
+    "transaction_id": "tx_409",
+    "date": "2026-04-14T11:27:58Z",
+    "merchant": "Part-time Job Stipend",
+    "category": "Income/Passive",
+    "amount": 406.69,
+    "type": "income",
+    "description": "Purchase at Part-time Job Stipend under Income/Passive",
+    "location": {
+      "lat": 42.34954549552736,
+      "lon": -71.07022080985122
+    }
+  },
+  {
+    "transaction_id": "tx_410",
+    "date": "2026-05-05T12:52:58Z",
+    "merchant": "Netflix",
+    "category": "Entertainment",
+    "amount": 70.47,
+    "type": "expense",
+    "description": "Purchase at Netflix under Entertainment",
+    "location": {
+      "lat": 42.36664318315437,
+      "lon": -71.05367790557723
+    }
+  },
+  {
+    "transaction_id": "tx_411",
+    "date": "2026-02-19T09:41:58Z",
+    "merchant": "Monthly Rent Payment",
+    "category": "Housing/Utilities",
+    "amount": 850.0,
+    "type": "expense",
+    "description": "Purchase at Monthly Rent Payment under Housing/Utilities",
+    "location": {
+      "lat": 42.368059984448955,
+      "lon": -71.07344669476258
+    }
+  },
+  {
+    "transaction_id": "tx_412",
+    "date": "2026-03-06T11:22:58Z",
+    "merchant": "Lab Fees",
+    "category": "Education",
+    "amount": 28.79,
+    "type": "expense",
+    "description": "Purchase at Lab Fees under Education",
+    "location": {
+      "lat": 42.37493840225601,
+      "lon": -71.0506825664978
+    }
+  },
+  {
+    "transaction_id": "tx_413",
+    "date": "2026-04-12T20:06:58Z",
+    "merchant": "Ramen House",
+    "category": "Food/Dining",
+    "amount": 53.24,
+    "type": "expense",
+    "description": "Purchase at Ramen House under Food/Dining",
+    "location": {
+      "lat": 42.34255487956493,
+      "lon": -71.05150707007198
+    }
+  },
+  {
+    "transaction_id": "tx_414",
+    "date": "2026-04-23T22:36:58Z",
+    "merchant": "Uber/Lyft",
+    "category": "Transportation",
+    "amount": 76.69,
+    "type": "expense",
+    "description": "Purchase at Uber/Lyft under Transportation",
+    "location": {
+      "lat": 42.35998440023046,
+      "lon": -71.05732455487046
+    }
+  },
+  {
+    "transaction_id": "tx_415",
+    "date": "2026-03-03T06:16:58Z",
+    "merchant": "Tuition Installment",
+    "category": "Education",
+    "amount": 41.62,
+    "type": "expense",
+    "description": "Purchase at Tuition Installment under Education",
+    "location": {
+      "lat": 42.368911134933036,
+      "lon": -71.07086382307386
+    }
+  },
+  {
+    "transaction_id": "tx_416",
+    "date": "2026-02-18T18:35:58Z",
+    "merchant": "Uber/Lyft",
+    "category": "Transportation",
+    "amount": 10.91,
+    "type": "expense",
+    "description": "Purchase at Uber/Lyft under Transportation",
+    "location": {
+      "lat": 42.35887058358311,
+      "lon": -71.0646808210253
+    }
+  },
+  {
+    "transaction_id": "tx_417",
+    "date": "2026-02-22T05:24:58Z",
+    "merchant": "Electric Bill",
+    "category": "Housing/Utilities",
+    "amount": 139.98,
+    "type": "expense",
+    "description": "Purchase at Electric Bill under Housing/Utilities",
+    "location": {
+      "lat": 42.376557906780846,
+      "lon": -71.05037336687575
+    }
+  },
+  {
+    "transaction_id": "tx_418",
+    "date": "2026-04-12T10:53:58Z",
+    "merchant": "Spotify",
+    "category": "Entertainment",
+    "amount": 51.32,
+    "type": "expense",
+    "description": "Purchase at Spotify under Entertainment",
+    "location": {
+      "lat": 42.3508503183204,
+      "lon": -71.07688451720132
+    }
+  },
+  {
+    "transaction_id": "tx_419",
+    "date": "2026-02-23T16:47:58Z",
+    "merchant": "University Bookstore",
+    "category": "Education",
+    "amount": 77.55,
+    "type": "expense",
+    "description": "Purchase at University Bookstore under Education",
+    "location": {
+      "lat": 42.372173520778354,
+      "lon": -71.04074344544235
+    }
+  },
+  {
+    "transaction_id": "tx_420",
+    "date": "2026-03-25T20:53:58Z",
+    "merchant": "Netflix",
+    "category": "Entertainment",
+    "amount": 132.1,
+    "type": "expense",
+    "description": "Purchase at Netflix under Entertainment",
+    "location": {
+      "lat": 42.343455420897335,
+      "lon": -71.06173015296221
+    }
+  },
+  {
+    "transaction_id": "tx_421",
+    "date": "2026-03-28T11:12:58Z",
+    "merchant": "Tuition Installment",
+    "category": "Education",
+    "amount": 46.93,
+    "type": "expense",
+    "description": "Purchase at Tuition Installment under Education",
+    "location": {
+      "lat": 42.34970335974214,
+      "lon": -71.06526905489216
+    }
+  },
+  {
+    "transaction_id": "tx_422",
+    "date": "2026-04-27T18:42:58Z",
+    "merchant": "Spotify",
+    "category": "Entertainment",
+    "amount": 111.07,
+    "type": "expense",
+    "description": "Purchase at Spotify under Entertainment",
+    "location": {
+      "lat": 42.34025511531008,
+      "lon": -71.06359855561736
+    }
+  },
+  {
+    "transaction_id": "tx_423",
+    "date": "2026-05-16T11:54:58Z",
+    "merchant": "Water Utility",
+    "category": "Housing/Utilities",
+    "amount": 97.03,
+    "type": "expense",
+    "description": "Purchase at Water Utility under Housing/Utilities",
+    "location": {
+      "lat": 42.340058481621426,
+      "lon": -71.05370784599296
+    }
+  },
+  {
+    "transaction_id": "tx_424",
+    "date": "2026-04-25T18:59:58Z",
+    "merchant": "Allowance",
+    "category": "Income/Passive",
+    "amount": 169.54,
+    "type": "income",
+    "description": "Purchase at Allowance under Income/Passive",
+    "location": {
+      "lat": 42.359681155074,
+      "lon": -71.07760419697387
+    }
+  },
+  {
+    "transaction_id": "tx_425",
+    "date": "2026-03-19T03:59:58Z",
+    "merchant": "Water Utility",
+    "category": "Housing/Utilities",
+    "amount": 18.04,
+    "type": "expense",
+    "description": "Purchase at Water Utility under Housing/Utilities",
+    "location": {
+      "lat": 42.36803387638795,
+      "lon": -71.06510032103704
+    }
+  },
+  {
+    "transaction_id": "tx_426",
+    "date": "2026-04-22T16:13:58Z",
+    "merchant": "Part-time Job Stipend",
+    "category": "Income/Passive",
+    "amount": 717.89,
+    "type": "income",
+    "description": "Purchase at Part-time Job Stipend under Income/Passive",
+    "location": {
+      "lat": 42.37279851567577,
+      "lon": -71.0770067806268
+    }
+  },
+  {
+    "transaction_id": "tx_427",
+    "date": "2026-03-05T18:51:58Z",
+    "merchant": "Uber/Lyft",
+    "category": "Transportation",
+    "amount": 67.79,
+    "type": "expense",
+    "description": "Purchase at Uber/Lyft under Transportation",
+    "location": {
+      "lat": 42.350439637556946,
+      "lon": -71.06739964338361
+    }
+  },
+  {
+    "transaction_id": "tx_428",
+    "date": "2026-03-23T18:37:58Z",
+    "merchant": "Steam Games",
+    "category": "Entertainment",
+    "amount": 50.78,
+    "type": "expense",
+    "description": "Purchase at Steam Games under Entertainment",
+    "location": {
+      "lat": 42.37774218744121,
+      "lon": -71.07455552614333
+    }
+  },
+  {
+    "transaction_id": "tx_429",
+    "date": "2026-03-11T02:02:58Z",
+    "merchant": "Uber/Lyft",
+    "category": "Transportation",
+    "amount": 27.11,
+    "type": "expense",
+    "description": "Purchase at Uber/Lyft under Transportation",
+    "location": {
+      "lat": 42.35256133151249,
+      "lon": -71.07517053051713
+    }
+  },
+  {
+    "transaction_id": "tx_430",
+    "date": "2026-04-17T20:27:58Z",
+    "merchant": "Tuition Installment",
+    "category": "Education",
+    "amount": 70.25,
+    "type": "expense",
+    "description": "Purchase at Tuition Installment under Education",
+    "location": {
+      "lat": 42.34479654225422,
+      "lon": -71.07369538491739
+    }
+  },
+  {
+    "transaction_id": "tx_431",
+    "date": "2026-05-18T06:35:58Z",
+    "merchant": "Allowance",
+    "category": "Income/Passive",
+    "amount": 1000.34,
+    "type": "income",
+    "description": "Purchase at Allowance under Income/Passive",
+    "location": {
+      "lat": 42.34860083157895,
+      "lon": -71.04573706915147
+    }
+  },
+  {
+    "transaction_id": "tx_432",
+    "date": "2026-03-20T22:58:58Z",
+    "merchant": "Monthly Rent Payment",
+    "category": "Housing/Utilities",
+    "amount": 850.0,
+    "type": "expense",
+    "description": "Purchase at Monthly Rent Payment under Housing/Utilities",
+    "location": {
+      "lat": 42.360538387015154,
+      "lon": -71.05291266492044
+    }
+  },
+  {
+    "transaction_id": "tx_433",
+    "date": "2026-04-10T02:08:58Z",
+    "merchant": "Tuition Installment",
+    "category": "Education",
+    "amount": 9.02,
+    "type": "expense",
+    "description": "Purchase at Tuition Installment under Education",
+    "location": {
+      "lat": 42.36992313788835,
+      "lon": -71.07000589487114
+    }
+  },
+  {
+    "transaction_id": "tx_434",
+    "date": "2026-03-06T14:33:58Z",
+    "merchant": "Netflix",
+    "category": "Entertainment",
+    "amount": 121.47,
+    "type": "expense",
+    "description": "Purchase at Netflix under Entertainment",
+    "location": {
+      "lat": 42.342466767379754,
+      "lon": -71.04876160026117
+    }
+  },
+  {
+    "transaction_id": "tx_435",
+    "date": "2026-04-09T23:16:58Z",
+    "merchant": "Electric Bill",
+    "category": "Housing/Utilities",
+    "amount": 33.33,
+    "type": "expense",
+    "description": "Purchase at Electric Bill under Housing/Utilities",
+    "location": {
+      "lat": 42.36521190194416,
+      "lon": -71.05421259937167
+    }
+  },
+  {
+    "transaction_id": "tx_436",
+    "date": "2026-02-26T11:37:58Z",
+    "merchant": "Subway Pass",
+    "category": "Transportation",
+    "amount": 137.99,
+    "type": "expense",
+    "description": "Purchase at Subway Pass under Transportation",
+    "location": {
+      "lat": 42.34791001346782,
+      "lon": -71.05416052417654
+    }
+  },
+  {
+    "transaction_id": "tx_437",
+    "date": "2026-03-31T14:35:58Z",
+    "merchant": "Monthly Rent Payment",
+    "category": "Housing/Utilities",
+    "amount": 850.0,
+    "type": "expense",
+    "description": "Purchase at Monthly Rent Payment under Housing/Utilities",
+    "location": {
+      "lat": 42.377691226440966,
+      "lon": -71.07797449196339
+    }
+  },
+  {
+    "transaction_id": "tx_438",
+    "date": "2026-04-09T02:34:58Z",
+    "merchant": "Train Ticket",
+    "category": "Transportation",
+    "amount": 124.06,
+    "type": "expense",
+    "description": "Purchase at Train Ticket under Transportation",
+    "location": {
+      "lat": 42.35530917754269,
+      "lon": -71.06293343926286
+    }
+  },
+  {
+    "transaction_id": "tx_439",
+    "date": "2026-03-24T20:01:58Z",
+    "merchant": "Tuition Installment",
+    "category": "Education",
+    "amount": 136.66,
+    "type": "expense",
+    "description": "Purchase at Tuition Installment under Education",
+    "location": {
+      "lat": 42.375336951955745,
+      "lon": -71.07861402225073
+    }
+  },
+  {
+    "transaction_id": "tx_440",
+    "date": "2026-04-22T01:29:58Z",
+    "merchant": "Gas Station",
+    "category": "Transportation",
+    "amount": 98.68,
+    "type": "expense",
+    "description": "Purchase at Gas Station under Transportation",
+    "location": {
+      "lat": 42.36202754660816,
+      "lon": -71.07756083724269
+    }
+  },
+  {
+    "transaction_id": "tx_441",
+    "date": "2026-03-15T08:29:58Z",
+    "merchant": "Online Course Sub",
+    "category": "Education",
+    "amount": 24.47,
+    "type": "expense",
+    "description": "Purchase at Online Course Sub under Education",
+    "location": {
+      "lat": 42.37188791767532,
+      "lon": -71.07003408979453
+    }
+  },
+  {
+    "transaction_id": "tx_442",
+    "date": "2026-04-04T03:07:58Z",
+    "merchant": "Uber/Lyft",
+    "category": "Transportation",
+    "amount": 148.46,
+    "type": "expense",
+    "description": "Purchase at Uber/Lyft under Transportation",
+    "location": {
+      "lat": 42.371257404233425,
+      "lon": -71.0662386352084
+    }
+  },
+  {
+    "transaction_id": "tx_443",
+    "date": "2026-03-12T11:53:58Z",
+    "merchant": "Subway Pass",
+    "category": "Transportation",
+    "amount": 61.01,
+    "type": "expense",
+    "description": "Purchase at Subway Pass under Transportation",
+    "location": {
+      "lat": 42.36388465411038,
+      "lon": -71.07882786157853
+    }
+  },
+  {
+    "transaction_id": "tx_444",
+    "date": "2026-04-19T03:55:58Z",
+    "merchant": "University Bookstore",
+    "category": "Education",
+    "amount": 122.16,
+    "type": "expense",
+    "description": "Purchase at University Bookstore under Education",
+    "location": {
+      "lat": 42.370673686738016,
+      "lon": -71.04001577012755
+    }
+  },
+  {
+    "transaction_id": "tx_445",
+    "date": "2026-03-21T08:48:58Z",
+    "merchant": "Monthly Rent Payment",
+    "category": "Housing/Utilities",
+    "amount": 850.0,
+    "type": "expense",
+    "description": "Purchase at Monthly Rent Payment under Housing/Utilities",
+    "location": {
+      "lat": 42.35066108004263,
+      "lon": -71.04734859353566
+    }
+  },
+  {
+    "transaction_id": "tx_446",
+    "date": "2026-03-18T06:27:58Z",
+    "merchant": "Part-time Job Stipend",
+    "category": "Income/Passive",
+    "amount": 928.66,
+    "type": "income",
+    "description": "Purchase at Part-time Job Stipend under Income/Passive",
+    "location": {
+      "lat": 42.37930658543032,
+      "lon": -71.06446309913552
+    }
+  },
+  {
+    "transaction_id": "tx_447",
+    "date": "2026-03-30T11:17:58Z",
+    "merchant": "Electric Bill",
+    "category": "Housing/Utilities",
+    "amount": 38.92,
+    "type": "expense",
+    "description": "Purchase at Electric Bill under Housing/Utilities",
+    "location": {
+      "lat": 42.35435132530748,
+      "lon": -71.05633750020617
+    }
+  },
+  {
+    "transaction_id": "tx_448",
+    "date": "2026-04-30T16:09:58Z",
+    "merchant": "Allowance",
+    "category": "Income/Passive",
+    "amount": 1139.69,
+    "type": "income",
+    "description": "Purchase at Allowance under Income/Passive",
+    "location": {
+      "lat": 42.37793474024184,
+      "lon": -71.04653212637068
+    }
+  },
+  {
+    "transaction_id": "tx_449",
+    "date": "2026-04-20T12:38:58Z",
+    "merchant": "Concert Ticket",
+    "category": "Entertainment",
+    "amount": 49.47,
+    "type": "expense",
+    "description": "Purchase at Concert Ticket under Entertainment",
+    "location": {
+      "lat": 42.34224671907205,
+      "lon": -71.0559334885422
+    }
+  },
+  {
+    "transaction_id": "tx_450",
+    "date": "2026-04-01T06:45:58Z",
+    "merchant": "Trader Joe's",
+    "category": "Food/Dining",
+    "amount": 74.05,
+    "type": "expense",
+    "description": "Purchase at Trader Joe's under Food/Dining",
+    "location": {
+      "lat": 42.372257816532404,
+      "lon": -71.06636963822933
+    }
+  },
+  {
+    "transaction_id": "tx_451",
+    "date": "2026-03-08T06:18:58Z",
+    "merchant": "Water Utility",
+    "category": "Housing/Utilities",
+    "amount": 13.17,
+    "type": "expense",
+    "description": "Purchase at Water Utility under Housing/Utilities",
+    "location": {
+      "lat": 42.37668896589925,
+      "lon": -71.04902534004721
+    }
+  },
+  {
+    "transaction_id": "tx_452",
+    "date": "2026-04-06T10:15:58Z",
+    "merchant": "Subway Pass",
+    "category": "Transportation",
+    "amount": 144.26,
+    "type": "expense",
+    "description": "Purchase at Subway Pass under Transportation",
+    "location": {
+      "lat": 42.35582382249416,
+      "lon": -71.07595871319278
+    }
+  },
+  {
+    "transaction_id": "tx_453",
+    "date": "2026-03-10T11:00:58Z",
+    "merchant": "Lab Fees",
+    "category": "Education",
+    "amount": 24.35,
+    "type": "expense",
+    "description": "Purchase at Lab Fees under Education",
+    "location": {
+      "lat": 42.371673701,
+      "lon": -71.04157351598526
+    }
+  },
+  {
+    "transaction_id": "tx_454",
+    "date": "2026-04-30T10:29:58Z",
+    "merchant": "Allowance",
+    "category": "Income/Passive",
+    "amount": 250.33,
+    "type": "income",
+    "description": "Purchase at Allowance under Income/Passive",
+    "location": {
+      "lat": 42.37715380835942,
+      "lon": -71.04852032829618
+    }
+  },
+  {
+    "transaction_id": "tx_455",
+    "date": "2026-05-16T20:41:58Z",
+    "merchant": "Electric Bill",
+    "category": "Housing/Utilities",
+    "amount": 59.55,
+    "type": "expense",
+    "description": "Purchase at Electric Bill under Housing/Utilities",
+    "location": {
+      "lat": 42.34710833153988,
+      "lon": -71.07992808373308
+    }
+  },
+  {
+    "transaction_id": "tx_456",
+    "date": "2026-04-30T12:44:58Z",
+    "merchant": "Stock Dividend",
+    "category": "Income/Passive",
+    "amount": 1028.37,
+    "type": "income",
+    "description": "Purchase at Stock Dividend under Income/Passive",
+    "location": {
+      "lat": 42.36409554669804,
+      "lon": -71.04315847134328
+    }
+  },
+  {
+    "transaction_id": "tx_457",
+    "date": "2026-03-03T02:42:58Z",
+    "merchant": "Gas Station",
+    "category": "Transportation",
+    "amount": 97.57,
+    "type": "expense",
+    "description": "Purchase at Gas Station under Transportation",
+    "location": {
+      "lat": 42.353246737046646,
+      "lon": -71.07688773446142
+    }
+  },
+  {
+    "transaction_id": "tx_458",
+    "date": "2026-03-01T10:15:58Z",
+    "merchant": "Lab Fees",
+    "category": "Education",
+    "amount": 28.93,
+    "type": "expense",
+    "description": "Purchase at Lab Fees under Education",
+    "location": {
+      "lat": 42.3655641075162,
+      "lon": -71.0445338593913
+    }
+  },
+  {
+    "transaction_id": "tx_459",
+    "date": "2026-03-21T09:37:58Z",
+    "merchant": "Netflix",
+    "category": "Entertainment",
+    "amount": 43.09,
+    "type": "expense",
+    "description": "Purchase at Netflix under Entertainment",
+    "location": {
+      "lat": 42.35401924647589,
+      "lon": -71.04851919975638
+    }
+  },
+  {
+    "transaction_id": "tx_460",
+    "date": "2026-04-15T10:59:58Z",
+    "merchant": "Part-time Job Stipend",
+    "category": "Income/Passive",
+    "amount": 105.37,
+    "type": "income",
+    "description": "Purchase at Part-time Job Stipend under Income/Passive",
+    "location": {
+      "lat": 42.37876407300423,
+      "lon": -71.04461792009651
+    }
+  },
+  {
+    "transaction_id": "tx_461",
+    "date": "2026-04-06T15:26:58Z",
+    "merchant": "Movie Theater",
+    "category": "Entertainment",
+    "amount": 55.6,
+    "type": "expense",
+    "description": "Purchase at Movie Theater under Entertainment",
+    "location": {
+      "lat": 42.35917957001589,
+      "lon": -71.04543797118126
+    }
+  },
+  {
+    "transaction_id": "tx_462",
+    "date": "2026-02-26T12:51:58Z",
+    "merchant": "Freelance Coding Contract",
+    "category": "Income/Passive",
+    "amount": 237.05,
+    "type": "income",
+    "description": "Purchase at Freelance Coding Contract under Income/Passive",
+    "location": {
+      "lat": 42.34080311993323,
+      "lon": -71.06955489160072
+    }
+  },
+  {
+    "transaction_id": "tx_463",
+    "date": "2026-04-06T17:19:58Z",
+    "merchant": "Ramen House",
+    "category": "Food/Dining",
+    "amount": 54.23,
+    "type": "expense",
+    "description": "Purchase at Ramen House under Food/Dining",
+    "location": {
+      "lat": 42.34300009684177,
+      "lon": -71.0423266342586
+    }
+  },
+  {
+    "transaction_id": "tx_464",
+    "date": "2026-05-07T03:18:58Z",
+    "merchant": "Starbucks",
+    "category": "Food/Dining",
+    "amount": 90.93,
+    "type": "expense",
+    "description": "Purchase at Starbucks under Food/Dining",
+    "location": {
+      "lat": 42.34123972816209,
+      "lon": -71.04230230967593
+    }
+  },
+  {
+    "transaction_id": "tx_465",
+    "date": "2026-03-01T21:46:58Z",
+    "merchant": "Internet Service",
+    "category": "Housing/Utilities",
+    "amount": 27.36,
+    "type": "expense",
+    "description": "Purchase at Internet Service under Housing/Utilities",
+    "location": {
+      "lat": 42.37897593682706,
+      "lon": -71.06362880536997
+    }
+  },
+  {
+    "transaction_id": "tx_466",
+    "date": "2026-03-27T18:39:58Z",
+    "merchant": "Subway Pass",
+    "category": "Transportation",
+    "amount": 100.62,
+    "type": "expense",
+    "description": "Purchase at Subway Pass under Transportation",
+    "location": {
+      "lat": 42.341985417721546,
+      "lon": -71.05712920768569
+    }
+  },
+  {
+    "transaction_id": "tx_467",
+    "date": "2026-02-18T00:38:58Z",
+    "merchant": "Spotify",
+    "category": "Entertainment",
+    "amount": 12.43,
+    "type": "expense",
+    "description": "Purchase at Spotify under Entertainment",
+    "location": {
+      "lat": 42.35178197795865,
+      "lon": -71.0535191909596
+    }
+  },
+  {
+    "transaction_id": "tx_468",
+    "date": "2026-02-20T17:43:58Z",
+    "merchant": "Train Ticket",
+    "category": "Transportation",
+    "amount": 33.55,
+    "type": "expense",
+    "description": "Purchase at Train Ticket under Transportation",
+    "location": {
+      "lat": 42.36552762636298,
+      "lon": -71.04091769216004
+    }
+  },
+  {
+    "transaction_id": "tx_469",
+    "date": "2026-04-09T03:04:58Z",
+    "merchant": "Netflix",
+    "category": "Entertainment",
+    "amount": 49.37,
+    "type": "expense",
+    "description": "Purchase at Netflix under Entertainment",
+    "location": {
+      "lat": 42.37579509933622,
+      "lon": -71.0693998241153
+    }
+  },
+  {
+    "transaction_id": "tx_470",
+    "date": "2026-04-06T22:44:58Z",
+    "merchant": "Stock Dividend",
+    "category": "Income/Passive",
+    "amount": 262.61,
+    "type": "income",
+    "description": "Purchase at Stock Dividend under Income/Passive",
+    "location": {
+      "lat": 42.35783101083178,
+      "lon": -71.06946816133268
+    }
+  },
+  {
+    "transaction_id": "tx_471",
+    "date": "2026-03-24T05:36:58Z",
+    "merchant": "Steam Games",
+    "category": "Entertainment",
+    "amount": 37.42,
+    "type": "expense",
+    "description": "Purchase at Steam Games under Entertainment",
+    "location": {
+      "lat": 42.34604522697695,
+      "lon": -71.05214116195815
+    }
+  },
+  {
+    "transaction_id": "tx_472",
+    "date": "2026-04-28T01:21:58Z",
+    "merchant": "Ramen House",
+    "category": "Food/Dining",
+    "amount": 101.71,
+    "type": "expense",
+    "description": "Purchase at Ramen House under Food/Dining",
+    "location": {
+      "lat": 42.363589057692145,
+      "lon": -71.05785592375369
+    }
+  },
+  {
+    "transaction_id": "tx_473",
+    "date": "2026-04-27T09:28:58Z",
+    "merchant": "Concert Ticket",
+    "category": "Entertainment",
+    "amount": 65.41,
+    "type": "expense",
+    "description": "Purchase at Concert Ticket under Entertainment",
+    "location": {
+      "lat": 42.377454457424534,
+      "lon": -71.05709142837475
+    }
+  },
+  {
+    "transaction_id": "tx_474",
+    "date": "2026-04-09T09:35:58Z",
+    "merchant": "Internet Service",
+    "category": "Housing/Utilities",
+    "amount": 47.98,
+    "type": "expense",
+    "description": "Purchase at Internet Service under Housing/Utilities",
+    "location": {
+      "lat": 42.360084058812625,
+      "lon": -71.04398179754114
+    }
+  },
+  {
+    "transaction_id": "tx_475",
+    "date": "2026-04-15T16:43:58Z",
+    "merchant": "Gas Station",
+    "category": "Transportation",
+    "amount": 22.0,
+    "type": "expense",
+    "description": "Purchase at Gas Station under Transportation",
+    "location": {
+      "lat": 42.378886595133515,
+      "lon": -71.04766157114723
+    }
+  },
+  {
+    "transaction_id": "tx_476",
+    "date": "2026-04-12T14:16:58Z",
+    "merchant": "Monthly Rent Payment",
+    "category": "Housing/Utilities",
+    "amount": 850.0,
+    "type": "expense",
+    "description": "Purchase at Monthly Rent Payment under Housing/Utilities",
+    "location": {
+      "lat": 42.357415729821305,
+      "lon": -71.04010923092885
+    }
+  },
+  {
+    "transaction_id": "tx_477",
+    "date": "2026-03-22T22:31:58Z",
+    "merchant": "Freelance Coding Contract",
+    "category": "Income/Passive",
+    "amount": 1009.22,
+    "type": "income",
+    "description": "Purchase at Freelance Coding Contract under Income/Passive",
+    "location": {
+      "lat": 42.369084120367226,
+      "lon": -71.0477062532106
+    }
+  },
+  {
+    "transaction_id": "tx_478",
+    "date": "2026-04-28T22:27:58Z",
+    "merchant": "Boba Tea",
+    "category": "Food/Dining",
+    "amount": 85.45,
+    "type": "expense",
+    "description": "Purchase at Boba Tea under Food/Dining",
+    "location": {
+      "lat": 42.35104803279629,
+      "lon": -71.0616737127551
+    }
+  },
+  {
+    "transaction_id": "tx_479",
+    "date": "2026-04-25T00:40:58Z",
+    "merchant": "McDonalds",
+    "category": "Food/Dining",
+    "amount": 95.15,
+    "type": "expense",
+    "description": "Purchase at McDonalds under Food/Dining",
+    "location": {
+      "lat": 42.35657769595076,
+      "lon": -71.07407201034826
+    }
+  },
+  {
+    "transaction_id": "tx_480",
+    "date": "2026-04-30T15:23:58Z",
+    "merchant": "Uber/Lyft",
+    "category": "Transportation",
+    "amount": 139.08,
+    "type": "expense",
+    "description": "Purchase at Uber/Lyft under Transportation",
+    "location": {
+      "lat": 42.35144371416196,
+      "lon": -71.05857466075416
+    }
+  },
+  {
+    "transaction_id": "tx_481",
+    "date": "2026-05-12T03:09:58Z",
+    "merchant": "Online Course Sub",
+    "category": "Education",
+    "amount": 42.93,
+    "type": "expense",
+    "description": "Purchase at Online Course Sub under Education",
+    "location": {
+      "lat": 42.3643584860781,
+      "lon": -71.07850137318009
+    }
+  },
+  {
+    "transaction_id": "tx_482",
+    "date": "2026-05-06T09:17:58Z",
+    "merchant": "Online Course Sub",
+    "category": "Education",
+    "amount": 25.43,
+    "type": "expense",
+    "description": "Purchase at Online Course Sub under Education",
+    "location": {
+      "lat": 42.35606879593098,
+      "lon": -71.06416829023075
+    }
+  },
+  {
+    "transaction_id": "tx_483",
+    "date": "2026-04-18T20:30:58Z",
+    "merchant": "Tuition Installment",
+    "category": "Education",
+    "amount": 11.67,
+    "type": "expense",
+    "description": "Purchase at Tuition Installment under Education",
+    "location": {
+      "lat": 42.354897627836536,
+      "lon": -71.06648535674293
+    }
+  },
+  {
+    "transaction_id": "tx_484",
+    "date": "2026-04-21T10:16:58Z",
+    "merchant": "Lab Fees",
+    "category": "Education",
+    "amount": 45.29,
+    "type": "expense",
+    "description": "Purchase at Lab Fees under Education",
+    "location": {
+      "lat": 42.34392869561091,
+      "lon": -71.04524399899604
+    }
+  },
+  {
+    "transaction_id": "tx_485",
+    "date": "2026-04-14T21:50:58Z",
+    "merchant": "Water Utility",
+    "category": "Housing/Utilities",
+    "amount": 146.25,
+    "type": "expense",
+    "description": "Purchase at Water Utility under Housing/Utilities",
+    "location": {
+      "lat": 42.36915197653079,
+      "lon": -71.0558008347018
+    }
+  },
+  {
+    "transaction_id": "tx_486",
+    "date": "2026-04-11T11:04:58Z",
+    "merchant": "Campus Cafeteria",
+    "category": "Food/Dining",
+    "amount": 68.77,
+    "type": "expense",
+    "description": "Purchase at Campus Cafeteria under Food/Dining",
+    "location": {
+      "lat": 42.37037973180905,
+      "lon": -71.045312441178
+    }
+  },
+  {
+    "transaction_id": "tx_487",
+    "date": "2026-02-25T21:18:58Z",
+    "merchant": "Trader Joe's",
+    "category": "Food/Dining",
+    "amount": 119.66,
+    "type": "expense",
+    "description": "Purchase at Trader Joe's under Food/Dining",
+    "location": {
+      "lat": 42.36027181100947,
+      "lon": -71.07457400715931
+    }
+  },
+  {
+    "transaction_id": "tx_488",
+    "date": "2026-03-14T12:48:58Z",
+    "merchant": "Uber/Lyft",
+    "category": "Transportation",
+    "amount": 29.78,
+    "type": "expense",
+    "description": "Purchase at Uber/Lyft under Transportation",
+    "location": {
+      "lat": 42.341322841780325,
+      "lon": -71.07797762873231
+    }
+  },
+  {
+    "transaction_id": "tx_489",
+    "date": "2026-04-18T03:58:58Z",
+    "merchant": "Tuition Installment",
+    "category": "Education",
+    "amount": 44.36,
+    "type": "expense",
+    "description": "Purchase at Tuition Installment under Education",
+    "location": {
+      "lat": 42.36541639236304,
+      "lon": -71.07504508564438
+    }
+  },
+  {
+    "transaction_id": "tx_490",
+    "date": "2026-05-05T01:44:58Z",
+    "merchant": "Campus Cafeteria",
+    "category": "Food/Dining",
+    "amount": 58.69,
+    "type": "expense",
+    "description": "Purchase at Campus Cafeteria under Food/Dining",
+    "location": {
+      "lat": 42.378420815131214,
+      "lon": -71.06101670843753
+    }
+  },
+  {
+    "transaction_id": "tx_491",
+    "date": "2026-03-23T11:26:58Z",
+    "merchant": "Subway Pass",
+    "category": "Transportation",
+    "amount": 54.59,
+    "type": "expense",
+    "description": "Purchase at Subway Pass under Transportation",
+    "location": {
+      "lat": 42.36755402150464,
+      "lon": -71.06859722494261
+    }
+  },
+  {
+    "transaction_id": "tx_492",
+    "date": "2026-05-01T18:27:58Z",
+    "merchant": "Netflix",
+    "category": "Entertainment",
+    "amount": 28.2,
+    "type": "expense",
+    "description": "Purchase at Netflix under Entertainment",
+    "location": {
+      "lat": 42.34885404308063,
+      "lon": -71.0709955183632
+    }
+  },
+  {
+    "transaction_id": "tx_493",
+    "date": "2026-04-23T12:28:58Z",
+    "merchant": "Water Utility",
+    "category": "Housing/Utilities",
+    "amount": 99.31,
+    "type": "expense",
+    "description": "Purchase at Water Utility under Housing/Utilities",
+    "location": {
+      "lat": 42.37121214657043,
+      "lon": -71.04929709086353
+    }
+  },
+  {
+    "transaction_id": "tx_494",
+    "date": "2026-05-10T17:11:58Z",
+    "merchant": "Boba Tea",
+    "category": "Food/Dining",
+    "amount": 137.13,
+    "type": "expense",
+    "description": "Purchase at Boba Tea under Food/Dining",
+    "location": {
+      "lat": 42.37203459233298,
+      "lon": -71.07104919873107
+    }
+  },
+  {
+    "transaction_id": "tx_495",
+    "date": "2026-05-19T07:50:58Z",
+    "merchant": "Subway Pass",
+    "category": "Transportation",
+    "amount": 108.2,
+    "type": "expense",
+    "description": "Purchase at Subway Pass under Transportation",
+    "location": {
+      "lat": 42.35695227202639,
+      "lon": -71.06494098190916
+    }
+  },
+  {
+    "transaction_id": "tx_496",
+    "date": "2026-04-17T21:16:58Z",
+    "merchant": "Online Course Sub",
+    "category": "Education",
+    "amount": 41.17,
+    "type": "expense",
+    "description": "Purchase at Online Course Sub under Education",
+    "location": {
+      "lat": 42.36082551593313,
+      "lon": -71.05505575615253
+    }
+  },
+  {
+    "transaction_id": "tx_497",
+    "date": "2026-05-12T23:08:58Z",
+    "merchant": "Uber/Lyft",
+    "category": "Transportation",
+    "amount": 5.57,
+    "type": "expense",
+    "description": "Purchase at Uber/Lyft under Transportation",
+    "location": {
+      "lat": 42.365893684802586,
+      "lon": -71.05563799581448
+    }
+  },
+  {
+    "transaction_id": "tx_498",
+    "date": "2026-04-01T20:13:58Z",
+    "merchant": "University Bookstore",
+    "category": "Education",
+    "amount": 74.59,
+    "type": "expense",
+    "description": "Purchase at University Bookstore under Education",
+    "location": {
+      "lat": 42.353005482811184,
+      "lon": -71.06892460278834
+    }
+  },
+  {
+    "transaction_id": "tx_499",
+    "date": "2026-04-24T19:30:58Z",
+    "merchant": "Allowance",
+    "category": "Income/Passive",
+    "amount": 266.61,
+    "type": "income",
+    "description": "Purchase at Allowance under Income/Passive",
+    "location": {
+      "lat": 42.34227098697586,
+      "lon": -71.04570738559892
+    }
+  },
+  {
+    "transaction_id": "tx_500",
+    "date": "2026-05-15T16:19:58Z",
+    "merchant": "Train Ticket",
+    "category": "Transportation",
+    "amount": 100.61,
+    "type": "expense",
+    "description": "Purchase at Train Ticket under Transportation",
+    "location": {
+      "lat": 42.341018210844815,
+      "lon": -71.0601050868638
+    }
+  },
+  {
+    "transaction_id": "tx_501",
+    "date": "2026-04-10T00:20:58Z",
+    "merchant": "Lab Fees",
+    "category": "Education",
+    "amount": 136.46,
+    "type": "expense",
+    "description": "Purchase at Lab Fees under Education",
+    "location": {
+      "lat": 42.34141276019306,
+      "lon": -71.05167724162497
+    }
+  },
+  {
+    "transaction_id": "tx_502",
+    "date": "2026-03-18T09:07:58Z",
+    "merchant": "Gas Station",
+    "category": "Transportation",
+    "amount": 54.43,
+    "type": "expense",
+    "description": "Purchase at Gas Station under Transportation",
+    "location": {
+      "lat": 42.36553254359511,
+      "lon": -71.0609705919306
+    }
+  },
+  {
+    "transaction_id": "tx_503",
+    "date": "2026-03-11T09:29:58Z",
+    "merchant": "Allowance",
+    "category": "Income/Passive",
+    "amount": 633.41,
+    "type": "income",
+    "description": "Purchase at Allowance under Income/Passive",
+    "location": {
+      "lat": 42.3623299217764,
+      "lon": -71.06824863788557
+    }
+  },
+  {
+    "transaction_id": "tx_504",
+    "date": "2026-04-29T17:16:58Z",
+    "merchant": "Spotify",
+    "category": "Entertainment",
+    "amount": 112.3,
+    "type": "expense",
+    "description": "Purchase at Spotify under Entertainment",
+    "location": {
+      "lat": 42.37598364631404,
+      "lon": -71.05382261422595
+    }
+  },
+  {
+    "transaction_id": "tx_505",
+    "date": "2026-03-29T01:23:58Z",
+    "merchant": "Water Utility",
+    "category": "Housing/Utilities",
+    "amount": 36.99,
+    "type": "expense",
+    "description": "Purchase at Water Utility under Housing/Utilities",
+    "location": {
+      "lat": 42.37547374198774,
+      "lon": -71.06513270280941
+    }
+  },
+  {
+    "transaction_id": "tx_506",
+    "date": "2026-03-05T02:36:58Z",
+    "merchant": "Subway Pass",
+    "category": "Transportation",
+    "amount": 71.98,
+    "type": "expense",
+    "description": "Purchase at Subway Pass under Transportation",
+    "location": {
+      "lat": 42.3746557347877,
+      "lon": -71.0566570152103
+    }
+  },
+  {
+    "transaction_id": "tx_507",
+    "date": "2026-03-14T03:40:58Z",
+    "merchant": "Uber/Lyft",
+    "category": "Transportation",
+    "amount": 73.21,
+    "type": "expense",
+    "description": "Purchase at Uber/Lyft under Transportation",
+    "location": {
+      "lat": 42.374699910187935,
+      "lon": -71.06473323120778
+    }
+  },
+  {
+    "transaction_id": "tx_508",
+    "date": "2026-03-08T15:45:58Z",
+    "merchant": "Online Course Sub",
+    "category": "Education",
+    "amount": 12.37,
+    "type": "expense",
+    "description": "Purchase at Online Course Sub under Education",
+    "location": {
+      "lat": 42.353706795397166,
+      "lon": -71.04051233602483
+    }
+  },
+  {
+    "transaction_id": "tx_509",
+    "date": "2026-03-12T14:04:58Z",
+    "merchant": "Spotify",
+    "category": "Entertainment",
+    "amount": 50.53,
+    "type": "expense",
+    "description": "Purchase at Spotify under Entertainment",
+    "location": {
+      "lat": 42.35330517787666,
+      "lon": -71.04053438509202
+    }
+  },
+  {
+    "transaction_id": "tx_510",
+    "date": "2026-03-24T18:21:58Z",
+    "merchant": "University Bookstore",
+    "category": "Education",
+    "amount": 5.19,
+    "type": "expense",
+    "description": "Purchase at University Bookstore under Education",
+    "location": {
+      "lat": 42.370941690852824,
+      "lon": -71.05694884337053
+    }
+  },
+  {
+    "transaction_id": "tx_511",
+    "date": "2026-02-28T16:12:58Z",
+    "merchant": "Internet Service",
+    "category": "Housing/Utilities",
+    "amount": 118.75,
+    "type": "expense",
+    "description": "Purchase at Internet Service under Housing/Utilities",
+    "location": {
+      "lat": 42.35734845657155,
+      "lon": -71.06282361107964
+    }
+  },
+  {
+    "transaction_id": "tx_512",
+    "date": "2026-02-22T04:45:58Z",
+    "merchant": "Movie Theater",
+    "category": "Entertainment",
+    "amount": 60.27,
+    "type": "expense",
+    "description": "Purchase at Movie Theater under Entertainment",
+    "location": {
+      "lat": 42.36922636281643,
+      "lon": -71.04199725538074
+    }
+  },
+  {
+    "transaction_id": "tx_513",
+    "date": "2026-02-18T08:19:58Z",
+    "merchant": "Tuition Installment",
+    "category": "Education",
+    "amount": 7.11,
+    "type": "expense",
+    "description": "Purchase at Tuition Installment under Education",
+    "location": {
+      "lat": 42.34995292491504,
+      "lon": -71.05225901011319
+    }
+  },
+  {
+    "transaction_id": "tx_514",
+    "date": "2026-04-08T04:10:58Z",
+    "merchant": "Lab Fees",
+    "category": "Education",
+    "amount": 23.26,
+    "type": "expense",
+    "description": "Purchase at Lab Fees under Education",
+    "location": {
+      "lat": 42.35224460368366,
+      "lon": -71.07738851910119
+    }
+  },
+  {
+    "transaction_id": "tx_515",
+    "date": "2026-04-17T11:06:58Z",
+    "merchant": "Starbucks",
+    "category": "Food/Dining",
+    "amount": 142.5,
+    "type": "expense",
+    "description": "Purchase at Starbucks under Food/Dining",
+    "location": {
+      "lat": 42.363854796744626,
+      "lon": -71.06648659395168
+    }
+  },
+  {
+    "transaction_id": "tx_516",
+    "date": "2026-04-20T23:21:58Z",
+    "merchant": "Freelance Coding Contract",
+    "category": "Income/Passive",
+    "amount": 444.14,
+    "type": "income",
+    "description": "Purchase at Freelance Coding Contract under Income/Passive",
+    "location": {
+      "lat": 42.347537041355636,
+      "lon": -71.04207662585173
+    }
+  },
+  {
+    "transaction_id": "tx_517",
+    "date": "2026-03-05T18:19:58Z",
+    "merchant": "Netflix",
+    "category": "Entertainment",
+    "amount": 37.73,
+    "type": "expense",
+    "description": "Purchase at Netflix under Entertainment",
+    "location": {
+      "lat": 42.340876530882625,
+      "lon": -71.0598146578166
+    }
+  },
+  {
+    "transaction_id": "tx_518",
+    "date": "2026-02-22T00:29:58Z",
+    "merchant": "Starbucks",
+    "category": "Food/Dining",
+    "amount": 107.97,
+    "type": "expense",
+    "description": "Purchase at Starbucks under Food/Dining",
+    "location": {
+      "lat": 42.36561284341091,
+      "lon": -71.04915001346626
+    }
+  },
+  {
+    "transaction_id": "tx_519",
+    "date": "2026-02-24T08:39:58Z",
+    "merchant": "Uber/Lyft",
+    "category": "Transportation",
+    "amount": 90.92,
+    "type": "expense",
+    "description": "Purchase at Uber/Lyft under Transportation",
+    "location": {
+      "lat": 42.366142704736035,
+      "lon": -71.07921032933943
+    }
+  },
+  {
+    "transaction_id": "tx_520",
+    "date": "2026-04-06T15:08:58Z",
+    "merchant": "Part-time Job Stipend",
+    "category": "Income/Passive",
+    "amount": 529.29,
+    "type": "income",
+    "description": "Purchase at Part-time Job Stipend under Income/Passive",
+    "location": {
+      "lat": 42.35010953172279,
+      "lon": -71.05192527140584
+    }
+  },
+  {
+    "transaction_id": "tx_521",
+    "date": "2026-03-28T01:15:58Z",
+    "merchant": "Monthly Rent Payment",
+    "category": "Housing/Utilities",
+    "amount": 850.0,
+    "type": "expense",
+    "description": "Purchase at Monthly Rent Payment under Housing/Utilities",
+    "location": {
+      "lat": 42.34403919388726,
+      "lon": -71.05918763063254
+    }
+  },
+  {
+    "transaction_id": "tx_522",
+    "date": "2026-03-03T04:19:58Z",
+    "merchant": "Gas Station",
+    "category": "Transportation",
+    "amount": 65.44,
+    "type": "expense",
+    "description": "Purchase at Gas Station under Transportation",
+    "location": {
+      "lat": 42.36470791820221,
+      "lon": -71.0686917292732
+    }
+  },
+  {
+    "transaction_id": "tx_523",
+    "date": "2026-03-14T20:26:58Z",
+    "merchant": "Boba Tea",
+    "category": "Food/Dining",
+    "amount": 33.4,
+    "type": "expense",
+    "description": "Purchase at Boba Tea under Food/Dining",
+    "location": {
+      "lat": 42.36092584430371,
+      "lon": -71.07193307240071
+    }
+  },
+  {
+    "transaction_id": "tx_524",
+    "date": "2026-02-23T05:04:58Z",
+    "merchant": "Stock Dividend",
+    "category": "Income/Passive",
+    "amount": 389.65,
+    "type": "income",
+    "description": "Purchase at Stock Dividend under Income/Passive",
+    "location": {
+      "lat": 42.37641426509848,
+      "lon": -71.0524718433818
+    }
+  },
+  {
+    "transaction_id": "tx_525",
+    "date": "2026-02-19T08:38:58Z",
+    "merchant": "Steam Games",
+    "category": "Entertainment",
+    "amount": 38.62,
+    "type": "expense",
+    "description": "Purchase at Steam Games under Entertainment",
+    "location": {
+      "lat": 42.376275201770795,
+      "lon": -71.04659071338948
+    }
+  },
+  {
+    "transaction_id": "tx_526",
+    "date": "2026-03-01T03:37:58Z",
+    "merchant": "Stock Dividend",
+    "category": "Income/Passive",
+    "amount": 221.52,
+    "type": "income",
+    "description": "Purchase at Stock Dividend under Income/Passive",
+    "location": {
+      "lat": 42.36894254467594,
+      "lon": -71.07594838085627
+    }
+  },
+  {
+    "transaction_id": "tx_527",
+    "date": "2026-03-26T20:02:58Z",
+    "merchant": "Tuition Installment",
+    "category": "Education",
+    "amount": 70.96,
+    "type": "expense",
+    "description": "Purchase at Tuition Installment under Education",
+    "location": {
+      "lat": 42.34200320783252,
+      "lon": -71.04747286344329
+    }
+  },
+  {
+    "transaction_id": "tx_528",
+    "date": "2026-05-14T22:00:58Z",
+    "merchant": "Starbucks",
+    "category": "Food/Dining",
+    "amount": 56.91,
+    "type": "expense",
+    "description": "Purchase at Starbucks under Food/Dining",
+    "location": {
+      "lat": 42.36954160783169,
+      "lon": -71.07620006118678
+    }
+  },
+  {
+    "transaction_id": "tx_529",
+    "date": "2026-05-13T07:43:58Z",
+    "merchant": "Ramen House",
+    "category": "Food/Dining",
+    "amount": 128.47,
+    "type": "expense",
+    "description": "Purchase at Ramen House under Food/Dining",
+    "location": {
+      "lat": 42.353146433042745,
+      "lon": -71.0442188953049
+    }
+  },
+  {
+    "transaction_id": "tx_530",
+    "date": "2026-02-28T23:25:58Z",
+    "merchant": "Subway Pass",
+    "category": "Transportation",
+    "amount": 132.32,
+    "type": "expense",
+    "description": "Purchase at Subway Pass under Transportation",
+    "location": {
+      "lat": 42.35370890891042,
+      "lon": -71.07544672000385
+    }
+  },
+  {
+    "transaction_id": "tx_531",
+    "date": "2026-04-08T10:27:58Z",
+    "merchant": "Movie Theater",
+    "category": "Entertainment",
+    "amount": 44.05,
+    "type": "expense",
+    "description": "Purchase at Movie Theater under Entertainment",
+    "location": {
+      "lat": 42.35912980043885,
+      "lon": -71.06313040714001
+    }
+  },
+  {
+    "transaction_id": "tx_532",
+    "date": "2026-03-06T10:19:58Z",
+    "merchant": "Monthly Rent Payment",
+    "category": "Housing/Utilities",
+    "amount": 850.0,
+    "type": "expense",
+    "description": "Purchase at Monthly Rent Payment under Housing/Utilities",
+    "location": {
+      "lat": 42.34234585582661,
+      "lon": -71.04230132048001
+    }
+  },
+  {
+    "transaction_id": "tx_533",
+    "date": "2026-04-12T06:03:58Z",
+    "merchant": "Monthly Rent Payment",
+    "category": "Housing/Utilities",
+    "amount": 850.0,
+    "type": "expense",
+    "description": "Purchase at Monthly Rent Payment under Housing/Utilities",
+    "location": {
+      "lat": 42.372090591361804,
+      "lon": -71.05286427455003
+    }
+  },
+  {
+    "transaction_id": "tx_534",
+    "date": "2026-05-06T12:28:58Z",
+    "merchant": "Internet Service",
+    "category": "Housing/Utilities",
+    "amount": 117.87,
+    "type": "expense",
+    "description": "Purchase at Internet Service under Housing/Utilities",
+    "location": {
+      "lat": 42.367378565335265,
+      "lon": -71.04645854093812
+    }
+  },
+  {
+    "transaction_id": "tx_535",
+    "date": "2026-03-04T01:01:58Z",
+    "merchant": "Internet Service",
+    "category": "Housing/Utilities",
+    "amount": 138.42,
+    "type": "expense",
+    "description": "Purchase at Internet Service under Housing/Utilities",
+    "location": {
+      "lat": 42.34183889301519,
+      "lon": -71.06953548531087
+    }
+  },
+  {
+    "transaction_id": "tx_536",
+    "date": "2026-05-15T04:22:58Z",
+    "merchant": "University Bookstore",
+    "category": "Education",
+    "amount": 107.01,
+    "type": "expense",
+    "description": "Purchase at University Bookstore under Education",
+    "location": {
+      "lat": 42.36974495249291,
+      "lon": -71.05104905826896
+    }
+  },
+  {
+    "transaction_id": "tx_537",
+    "date": "2026-05-17T10:12:58Z",
+    "merchant": "Water Utility",
+    "category": "Housing/Utilities",
+    "amount": 80.03,
+    "type": "expense",
+    "description": "Purchase at Water Utility under Housing/Utilities",
+    "location": {
+      "lat": 42.34380968553807,
+      "lon": -71.05353146948616
+    }
+  },
+  {
+    "transaction_id": "tx_538",
+    "date": "2026-05-15T07:57:58Z",
+    "merchant": "Internet Service",
+    "category": "Housing/Utilities",
+    "amount": 54.81,
+    "type": "expense",
+    "description": "Purchase at Internet Service under Housing/Utilities",
+    "location": {
+      "lat": 42.34594617809029,
+      "lon": -71.04694248719265
+    }
+  },
+  {
+    "transaction_id": "tx_539",
+    "date": "2026-03-10T04:27:58Z",
+    "merchant": "Uber/Lyft",
+    "category": "Transportation",
+    "amount": 6.19,
+    "type": "expense",
+    "description": "Purchase at Uber/Lyft under Transportation",
+    "location": {
+      "lat": 42.35877155746576,
+      "lon": -71.06016660276967
+    }
+  },
+  {
+    "transaction_id": "tx_540",
+    "date": "2026-04-20T21:48:58Z",
+    "merchant": "Monthly Rent Payment",
+    "category": "Housing/Utilities",
+    "amount": 850.0,
+    "type": "expense",
+    "description": "Purchase at Monthly Rent Payment under Housing/Utilities",
+    "location": {
+      "lat": 42.35323579370086,
+      "lon": -71.06887371478965
+    }
+  },
+  {
+    "transaction_id": "tx_541",
+    "date": "2026-04-07T00:25:58Z",
+    "merchant": "Gas Station",
+    "category": "Transportation",
+    "amount": 84.6,
+    "type": "expense",
+    "description": "Purchase at Gas Station under Transportation",
+    "location": {
+      "lat": 42.349399999999655,
+      "lon": -71.06163621621008
+    }
+  },
+  {
+    "transaction_id": "tx_542",
+    "date": "2026-04-22T01:53:58Z",
+    "merchant": "Train Ticket",
+    "category": "Transportation",
+    "amount": 17.31,
+    "type": "expense",
+    "description": "Purchase at Train Ticket under Transportation",
+    "location": {
+      "lat": 42.34474827408215,
+      "lon": -71.06010506607734
+    }
+  },
+  {
+    "transaction_id": "tx_543",
+    "date": "2026-04-10T13:08:58Z",
+    "merchant": "Part-time Job Stipend",
+    "category": "Income/Passive",
+    "amount": 168.04,
+    "type": "income",
+    "description": "Purchase at Part-time Job Stipend under Income/Passive",
+    "location": {
+      "lat": 42.36196395158773,
+      "lon": -71.04696364966307
+    }
+  },
+  {
+    "transaction_id": "tx_544",
+    "date": "2026-04-29T18:14:58Z",
+    "merchant": "Subway Pass",
+    "category": "Transportation",
+    "amount": 134.01,
+    "type": "expense",
+    "description": "Purchase at Subway Pass under Transportation",
+    "location": {
+      "lat": 42.36685897483117,
+      "lon": -71.04198579480027
+    }
+  },
+  {
+    "transaction_id": "tx_545",
+    "date": "2026-04-16T22:08:58Z",
+    "merchant": "University Bookstore",
+    "category": "Education",
+    "amount": 123.31,
+    "type": "expense",
+    "description": "Purchase at University Bookstore under Education",
+    "location": {
+      "lat": 42.370696655994585,
+      "lon": -71.05600195393767
+    }
+  },
+  {
+    "transaction_id": "tx_546",
+    "date": "2026-03-03T15:21:58Z",
+    "merchant": "Allowance",
+    "category": "Income/Passive",
+    "amount": 873.3,
+    "type": "income",
+    "description": "Purchase at Allowance under Income/Passive",
+    "location": {
+      "lat": 42.36635641015224,
+      "lon": -71.07991212208826
+    }
+  },
+  {
+    "transaction_id": "tx_547",
+    "date": "2026-04-06T09:39:58Z",
+    "merchant": "Lab Fees",
+    "category": "Education",
+    "amount": 84.19,
+    "type": "expense",
+    "description": "Purchase at Lab Fees under Education",
+    "location": {
+      "lat": 42.341831124394204,
+      "lon": -71.07343378529178
+    }
+  },
+  {
+    "transaction_id": "tx_548",
+    "date": "2026-05-06T17:45:58Z",
+    "merchant": "Internet Service",
+    "category": "Housing/Utilities",
+    "amount": 20.06,
+    "type": "expense",
+    "description": "Purchase at Internet Service under Housing/Utilities",
+    "location": {
+      "lat": 42.34482983229465,
+      "lon": -71.04591222512934
+    }
+  },
+  {
+    "transaction_id": "tx_549",
+    "date": "2026-03-14T09:54:58Z",
+    "merchant": "Internet Service",
+    "category": "Housing/Utilities",
+    "amount": 124.47,
+    "type": "expense",
+    "description": "Purchase at Internet Service under Housing/Utilities",
+    "location": {
+      "lat": 42.3443106298915,
+      "lon": -71.06342118619487
+    }
+  }
+]
