@@ -8,6 +8,8 @@ import base64
 import plotly.express as px
 import os
 api_key = os.environ.get("GCP_API_KEY")
+elastic_url = os.environ.get("ELASTIC_URL")
+elastic_api_key = os.environ.get("ELASTIC_API_KEY")
 import google.generativeai as genai
 
 # Page Config
@@ -27,7 +29,7 @@ def fetch_deals_from_database():
     try:
         from elasticsearch import Elasticsearch
         # In production, replace with real URL and API Key
-        es = Elasticsearch("hhttps://my-elasticsearch-project-b17b38.es.us-central1.gcp.elastic.cloud:443", api_key="S1lpV2xaNEJMUDV3UDlGOEV3YVg6VFJNc1FYUkwtN2lTbjdPbVFOOHJCZw==")
+        es = Elasticsearch(elastic_url, api_key=elastic_api_key)
         response = es.search(index="late-night-deals", query={"match_all": {}}, size=50)
         records = [hit['_source'] for hit in response['hits']['hits']]
         if records: return pd.DataFrame(records)
